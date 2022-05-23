@@ -46,9 +46,9 @@ class SQLPlanDePago
 		this.pp = pp;
 	}
 	
-	public long adicionarPlanDePago (PersistenceManager pm, String tipoPlan, String caracteristicas) 
+	public long adicionarPlanDePago (PersistenceManager pm, long id, String tipoPlan, String caracteristicas) 
 	{
-        Query q = pm.newQuery(SQL, "INSERT INTO " + pp.darTablaPlanPago () + "(tipoPlan, caracteristicas) values (?, ?)");
+        Query q = pm.newQuery(SQL, "INSERT INTO " + pp.darTablaPlanPago () + "(id, tipoPlan, caracteristicas) values (?, ?, ?)");
         q.setParameters(tipoPlan, caracteristicas);
         return (long) q.executeUnique();
 	}
@@ -66,6 +66,14 @@ class SQLPlanDePago
 		Query q = pm.newQuery(SQL, "SELECT * FROM " + pp.darTablaPlanPago() + " WHERE tipoPlan = ?");
 		q.setResultClass(PlanDePago.class);
 		q.setParameters(tipoPlan);
+		return (PlanDePago) q.executeUnique();
+	}
+	
+	public PlanDePago darPlanPorId (PersistenceManager pm, long id) 
+	{
+		Query q = pm.newQuery(SQL, "SELECT * FROM " + pp.darTablaPlanPago() + " WHERE id = ?");
+		q.setResultClass(PlanDePago.class);
+		q.setParameters(id);
 		return (PlanDePago) q.executeUnique();
 	}
 

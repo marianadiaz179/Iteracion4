@@ -224,7 +224,7 @@ public class HotelAndes
 	 * 			Métodos para manejar CONVENCION
 	 *****************************************************************/
 	
-	public Convencion adicionarConvencion (String nombre, long cedula, Date fechaI, Date fechaF, int dur, String plan) 
+	public Convencion adicionarConvencion (String nombre, long cedula, Date fechaI, Date fechaF, int dur, long plan) 
 	{
         log.info ("Adicionando convencion: " + nombre);
         Convencion convencion = pp.adicionarConvencion (nombre, cedula, fechaI, fechaF, dur, plan );		
@@ -918,6 +918,15 @@ public class HotelAndes
 		return c;
 	}
 	
+	public PlanDePago  darPlanPorId (long id) 
+	{
+		log.info ("Buscando planDePago por id: " + id);
+		PlanDePago c = pp.darPlanPorId ( id)  ;
+		return c;
+	}
+	
+	
+	
 	/* ****************************************************************
 	 * 			Métodos para manejar PRODUCTO
 	 *****************************************************************/
@@ -990,7 +999,7 @@ public class HotelAndes
 	 * 			Métodos para manejar RESERVAHABITACION
 	 *****************************************************************/
 	
-	public ReservaHabitacion adicionarReservaHabitacion ( Date fechaIngreso, Date fechaSalida, int dur, int cantidadPersonas, String planPago, long cliente, long habitacion, float totalCompras) 
+	public ReservaHabitacion adicionarReservaHabitacion ( Date fechaIngreso, Date fechaSalida, int dur, int cantidadPersonas, long planPago, long cliente, long habitacion, float totalCompras) 
 	{
 		log.info ("Adicionando reserva habitacion " );
 		ReservaHabitacion reservaHabitacion = pp.adicionarReservaHabitacion ( fechaIngreso, fechaSalida,dur, cantidadPersonas, planPago, cliente, habitacion, totalCompras);

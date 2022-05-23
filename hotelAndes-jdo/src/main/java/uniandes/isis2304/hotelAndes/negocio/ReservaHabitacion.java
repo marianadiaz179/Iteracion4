@@ -42,7 +42,7 @@ public class ReservaHabitacion implements VOReservaHabitacion {
 	/**
 	 * El plan de pago que tiene el cliente
 	 */
-	private String planPago;
+	private long planPago;
 	
 	/**
 	 * La cedula del cliente asociado a la reserva de habitacion
@@ -73,7 +73,7 @@ public class ReservaHabitacion implements VOReservaHabitacion {
 		this.fechaSalida = new Date(0);
 		this.duracion = 0;
 		this.cantidadPersonas = 0;
-		this.planPago = "";
+		this.planPago = 0;
 		this.cedulaCliente = 0;
 		this.numHabitacion = 0;
 		this.totalCompras = 0.0;
@@ -86,7 +86,7 @@ public class ReservaHabitacion implements VOReservaHabitacion {
 	 * @param tipo - El identificador del tipo de bebida
 	 * @param gradoAlcohol - El graddo de alcohol de la bebida (Mayor que 0)
 	 */
-	public ReservaHabitacion(long id, Date fechaIngreso,  Date fechaSalida, int duracion, int cantidadPersonas, String planPago, long cliente,
+	public ReservaHabitacion(long id, Date fechaIngreso,  Date fechaSalida, int duracion, int cantidadPersonas, long planPago, long cliente,
 			long habitacion, double comprasTotal) 
 	{
 		this.idReserva = id;
@@ -167,7 +167,7 @@ public class ReservaHabitacion implements VOReservaHabitacion {
 	/**
 	 * @return El plan de pago del cliente que tiene la reserva
 	 */
-	public String getPlanPago() 
+	public long getPlanPago() 
 	{
 		return planPago;
 	}
@@ -175,7 +175,7 @@ public class ReservaHabitacion implements VOReservaHabitacion {
 	/**
 	 * @param planPago - El nuevo plan de pago del cliente que tiene la reserva
 	 */
-	public void setPlanPago(String planPago) 
+	public void setPlanPago(long planPago) 
 	{
 		this.planPago = planPago;
 	}

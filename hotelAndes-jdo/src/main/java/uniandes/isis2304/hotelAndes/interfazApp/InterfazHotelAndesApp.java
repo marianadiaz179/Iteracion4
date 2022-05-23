@@ -64,6 +64,7 @@ import uniandes.isis2304.hotelAndes.negocio.Consumo;
 import uniandes.isis2304.hotelAndes.negocio.Convencion;
 import uniandes.isis2304.hotelAndes.negocio.Habitacion;
 import uniandes.isis2304.hotelAndes.negocio.HotelAndes;
+import uniandes.isis2304.hotelAndes.negocio.PlanDePago;
 import uniandes.isis2304.hotelAndes.negocio.Producto;
 import uniandes.isis2304.hotelAndes.negocio.ReservaHabitacion;
 import uniandes.isis2304.hotelAndes.negocio.Servicio;
@@ -599,6 +600,8 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		int duracion = Integer.valueOf(JOptionPane.showInputDialog(this, "Duración de la estadía?", "Adicionar ReservaHabitacion", JOptionPane.QUESTION_MESSAGE));
     		int cantPersonas = Integer.valueOf(JOptionPane.showInputDialog(this, "Cantidad de personas?", "Adicionar ReservaHabitacion", JOptionPane.QUESTION_MESSAGE));
     		String tipoPlan = JOptionPane.showInputDialog (this, "Plan de pago solicitado?", "Adicionar ReservaHabitacion", JOptionPane.QUESTION_MESSAGE);
+    		PlanDePago plan = hotelAndes.darPlanPorTipo(tipoPlan);
+    		long idPlan = plan.getId();
     		long cliente = Long.valueOf(JOptionPane.showInputDialog(this, "Cedula del cliente", "Adicionar ReservaHabitacion", JOptionPane.QUESTION_MESSAGE));
     		String tipoHabitacion = JOptionPane.showInputDialog (this, "TipoHabitacion? ", "Adicionar ReservaHabitacion", JOptionPane.QUESTION_MESSAGE);
     		TipoHabitacion Th = hotelAndes.darTipoHabitacionPorTipo(tipoHabitacion);
@@ -608,7 +611,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		if (habitacion != 0 )
     		{
         		VOReservaHabitacion eh = hotelAndes.adicionarReservaHabitacion(fechaI, fechaF, duracion, cantPersonas, 
-        				tipoPlan, cliente, habitacion, 0);
+        				idPlan, cliente, habitacion, 0);
         		if (eh == null)
         		{
         			throw new Exception ("No se pudo crear una reserva para el cliente: " + cliente);
@@ -1010,11 +1013,13 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		Date fechaF = Date.valueOf(JOptionPane.showInputDialog (this, "Fin de la convención (YYYY-MM-DD)?", "Adicionar Convención", JOptionPane.QUESTION_MESSAGE));
     		int duracion = Integer.valueOf(JOptionPane.showInputDialog (this, "Duración de la convención?", "Adicionar Convención", JOptionPane.QUESTION_MESSAGE));
     		String plan = JOptionPane.showInputDialog (this, "Plan de pago asociado?", "Adicionar Convención", JOptionPane.QUESTION_MESSAGE);
+    		PlanDePago planH = hotelAndes.darPlanPorTipo(plan);
+    		long planId = planH.getId();
     		
     		
     		if (nombreConvencion != null )
     		{
-        		VOConvencion eh = hotelAndes.adicionarConvencion( nombreConvencion,  id,  fechaI, fechaF,duracion, plan);
+        		VOConvencion eh = hotelAndes.adicionarConvencion( nombreConvencion,  id,  fechaI, fechaF,duracion, planId);
         		
         		if (eh == null)
         		{

@@ -36,7 +36,7 @@ public class Convencion implements VOConvencion
 	
 	private int duracion;
 	
-	private String planPago;
+	private long planPago;
 
 	/* ****************************************************************
 	 * 			Métodos 
@@ -53,10 +53,10 @@ public class Convencion implements VOConvencion
 		this.fechaFin = new Date(0);
 		this.fechaInicio = new Date(0);
 		this.duracion = 0;
-		this.planPago = "";
+		this.planPago = 0;
 	}
 
-    public Convencion(long id, String nombre, long cedula, Date fechaI, Date fechaF, int duracion, String plan)
+    public Convencion(long id, String nombre, long cedula, Date fechaI, Date fechaF, int duracion, long plan)
     {
     	this.id = id;
 		this.nombre = nombre;
@@ -108,11 +108,11 @@ public class Convencion implements VOConvencion
 		this.fechaFin = fechaF;
 	}
 
-	public String getPlanPago() {
+	public long getPlanPago() {
 		return planPago;
 	}
 
-	public void setPlanPago(String planPago) {
+	public void setPlanPago(long planPago) {
 		this.planPago = planPago;
 	}
 

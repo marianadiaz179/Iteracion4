@@ -56,7 +56,7 @@ class SQLReservaHabitacion {
 	 * @param totalCompras - El total de los servicios adquiridos durante esta reserva
 	 * @return El número de tuplas insertadas
 	 */
-	public long adicionarReservaHabitacion (PersistenceManager pm, long idReserva, Date fechaIngreso, Date fechaSalida, int duracion, int cantidadPersonas, String planPago, long cliente, long habitacion, double totalCompras) 
+	public long adicionarReservaHabitacion (PersistenceManager pm, long idReserva, Date fechaIngreso, Date fechaSalida, int duracion, int cantidadPersonas, long planPago, long cliente, long habitacion, double totalCompras) 
 	{
         Query q = pm.newQuery(SQL, "INSERT INTO " + ha.darTablaReservaHabitacion () + "(idReserva, fechaIngreso, fechaSalida, duracion, cantidadPersonas, planPago, cedulacliente, numhabitacion, totalCompras) values (?, ?, ?, ?, ?, ?, ?, ?)");
         q.setParameters(idReserva, fechaIngreso, fechaSalida, duracion, cantidadPersonas,planPago, cliente, habitacion, totalCompras);

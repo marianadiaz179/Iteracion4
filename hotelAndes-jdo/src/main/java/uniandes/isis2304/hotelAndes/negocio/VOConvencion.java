@@ -31,7 +31,7 @@ public interface VOConvencion {
 	
 	public int getDuracion();
 	
-	public String getPlanPago();
+	public long getPlanPago();
 	
 	public String toString();
 

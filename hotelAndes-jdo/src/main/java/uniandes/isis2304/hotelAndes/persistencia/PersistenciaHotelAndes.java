@@ -699,7 +699,7 @@ public class PersistenciaHotelAndes
 	 * 			Métodos para manejar las CONVENCIONES
 	 *****************************************************************/
 
-	public Convencion adicionarConvencion (String nombre, long cedula, Date fechaI, Date fechaF,int dur, String plan) 
+	public Convencion adicionarConvencion (String nombre, long cedula, Date fechaI, Date fechaF,int dur, long plan) 
 	{
 		PersistenceManager pm = pmf.getPersistenceManager();
         Transaction tx=pm.currentTransaction();
@@ -1765,12 +1765,13 @@ public class PersistenciaHotelAndes
         try
         {
             tx.begin();
-            long tuplasInsertadas = sqlPlanDePago.adicionarPlanDePago ( pm,  tipoPlan,  caracteristicas) ;
+            long id = nextval();
+            long tuplasInsertadas = sqlPlanDePago.adicionarPlanDePago ( pm, id, tipoPlan,  caracteristicas) ;
             tx.commit();
             
             log.trace ("Inserción de PlanDePago: " + tipoPlan + ": " + tuplasInsertadas + " tuplas insertadas");
             
-            return new PlanDePago( tipoPlan,  caracteristicas);
+            return new PlanDePago( id, tipoPlan,  caracteristicas);
         }
         catch (Exception e)
         {
@@ -1826,6 +1827,11 @@ public class PersistenciaHotelAndes
 	public PlanDePago  darPlanPorTipo (String tipoPlan) 
 	{
 		return sqlPlanDePago. darPlanPorTipo (pmf.getPersistenceManager(), tipoPlan)	;
+	}
+	
+	public PlanDePago  darPlanPorId (long id) 
+	{
+		return sqlPlanDePago. darPlanPorId (pmf.getPersistenceManager(), id)	;
 	}
 	
 	/* ****************************************************************
@@ -1939,7 +1945,7 @@ public class PersistenciaHotelAndes
 	 * 			Métodos para manejar RESERVAHABITACION
 	 *****************************************************************/
 
-	public ReservaHabitacion adicionarReservaHabitacion (  Date fechaIngreso, Date fechaSalida,int dur, int cantidadPersonas, String planPago, long cliente, long habitacion, float totalCompras) 
+	public ReservaHabitacion adicionarReservaHabitacion (  Date fechaIngreso, Date fechaSalida,int dur, int cantidadPersonas, long planPago, long cliente, long habitacion, float totalCompras) 
 	{
 		PersistenceManager pm = pmf.getPersistenceManager();
         Transaction tx=pm.currentTransaction();

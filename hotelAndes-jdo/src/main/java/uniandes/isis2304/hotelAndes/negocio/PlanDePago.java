@@ -10,7 +10,7 @@ public class PlanDePago implements VOPlanDePago
 	/* ****************************************************************
 	 * 			Atributos
 	 *****************************************************************/
-	
+	private long id;
 	/**
 	 * El tipo del plan de pago
 	 */
@@ -30,6 +30,7 @@ public class PlanDePago implements VOPlanDePago
 */
 	public PlanDePago() 
 	{
+		this.id = 0;
 		this.caracteristicas = "";
 		this.tipoPlan = "";
 	}
@@ -37,8 +38,9 @@ public class PlanDePago implements VOPlanDePago
 	/**
 	 * Constructor con valores
 	 */
-	public PlanDePago(String tipoPlan, String caracteristicas) 
+	public PlanDePago(long id, String tipoPlan, String caracteristicas) 
 	{
+		this.id = id;
 		this.caracteristicas = caracteristicas;
 		this.tipoPlan = tipoPlan;
 	}
@@ -62,13 +64,23 @@ public class PlanDePago implements VOPlanDePago
 	public void setCaracteristicas(String caracteristicas) {
 		this.caracteristicas = caracteristicas;
 	}
-	
-	// toString - PlanDePago
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
 
 	@Override
 	public String toString() {
-		return "PlanDePago [tipoPlan=" + tipoPlan + ", caracteristicas=" + caracteristicas + "]";
+		return "PlanDePago [id=" + id + ", tipoPlan=" + tipoPlan + ", caracteristicas=" + caracteristicas + "]";
 	}
+	
+	// toString - PlanDePago
+
+	
 	
 	
 }

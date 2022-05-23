@@ -13,6 +13,7 @@ public interface VOPlanDePago {
 	 * 			Métodos 
 	 *****************************************************************/
 	
+	public long getId();
 	// tipoPlan - Getter 
 
 		public String getTipoPlan();

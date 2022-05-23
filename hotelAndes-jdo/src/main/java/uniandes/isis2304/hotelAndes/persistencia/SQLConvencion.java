@@ -52,7 +52,7 @@ class SQLConvencion
 	}
 	
 	
-	public long adicionarConvencion (PersistenceManager pm, long id, String nombre, long cedula, Date fInicio, Date fFin, int duracion, String planPago) 
+	public long adicionarConvencion (PersistenceManager pm, long id, String nombre, long cedula, Date fInicio, Date fFin, int duracion, long planPago) 
 	{
         Query q = pm.newQuery(SQL, "INSERT INTO " + ha.darTablaConvencion () + "(id, nombre, organizador, fechaInicio, fechaFin,duracion, planPago) values (?, ?, ?, ?, ?, ?, ?)");
         q.setParameters(id, nombre, cedula, fInicio, fFin, duracion, planPago);

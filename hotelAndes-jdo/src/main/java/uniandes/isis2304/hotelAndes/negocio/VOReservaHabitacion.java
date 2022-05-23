@@ -38,7 +38,7 @@ public interface VOReservaHabitacion {
 	/**
 	 * @return El plan de pago del cliente que tiene la reserva
 	 */
-	public String getPlanPago();
+	public long getPlanPago();
 	
 	/**
 	 * @return El cliente que tiene la reserva
