@@ -1,0 +1,191 @@
+{
+	"title": "Aplicación transaccional de HotelAndes",
+	"frameH": 600,
+	"frameW": 800,
+	"bannerPath": "./src/main/resources/config/logo.png",
+	"menuBar":
+	[
+		{ "menuTitle": "Registrarse",
+			"options":
+			  [
+				  {
+					  "label": "Iniciar Sesión",
+					  "event": "iniciarSesion"
+				  }
+			  ]
+		  },
+		{ "menuTitle": "Administrador del sistema",
+		  "options":
+			[
+				{
+					"label": "Registrar roles de usuario",
+					"event": "adicionarTipoUsuario"
+				},
+				{
+					"label": "Registrar usuario",
+					"event": "adicionarEmpleadoHotel"
+				},
+				{
+					"label": "Registrar Tipo de habitación",
+					"event": "adicionarTipoHabitacion"
+				},
+				{
+					"label": "Registrar Habitacion",
+					"event": "adicionarHabitacion"
+				},
+				{
+					"label": "Registrar Servicio del hotel",
+					"event": "adicionarServicio"
+				},
+				{
+					"label": "Registrar Plan de consumo",
+					"event": "adicionarPlanDePago"
+				}
+			]
+		},
+		{ "menuTitle": "Cliente",
+		  "options":
+			[
+				{
+					"label": "Registrar una reserva de alojamiento",
+					"event": "adicionarReservaHabitacion"
+				},
+				{
+					"label": "Registrar una reserva de un servicio del hotel",
+					"event": "adicionarReservaServicio"
+				}
+			]
+		},
+		{ "menuTitle": "Recepcionista",
+		  "options":
+			[
+				{
+					"label": "Registrar la llegada de un cliente",
+					"event": "registrarLlegadaCliente"
+				},
+				{
+					"label": "Registrar la salida de un cliente",
+					"event": "registrarSalidaCliente"
+				}
+			]
+		},
+		{ "menuTitle": "Empleado",
+		  "options":
+			[
+				{
+					"label": "Registrar un consumo de un servicio",
+					"event": "adicionarConsumo"
+				},
+				{
+					"label": "Iniciar mantenimiento de habitaciones",
+					"event": "registrarMantenimiento"
+				},
+				{
+					"label": "Finalizar mantenimiento de habitaciones",
+					"event": "finalizarMantenimiento"
+				}
+			]
+		},
+		{ "menuTitle": "OrganizadorEventos",
+			"options":
+			  [
+				  {
+					  "label": "Crear Convencion",
+					  "event": "agregarConvencion"
+				  },
+				  {
+					"label": "Reservar Habitaciones y servicios",
+					"event": "reservarHabitacionYServicios"
+				  },
+				  {
+					"label": "Eliminar reservas",
+					"event": "cancelarReservasConvencion"
+				},
+				{
+					"label": "Finalizar convención",
+					"event": "registrarFinConvencion"
+				}
+
+			  ]
+		  },
+		  { "menuTitle": "Consultas",
+			"options":
+			  [
+				  {
+					"label": "Encontrar buenos clientes",
+					"event": "encontrarBuenosClientes"
+				  },
+				  {
+					"label": "Consultar consumo en hotelAndes",
+					"event": "consultarConsumoHotelAndes"
+				  }
+
+			  ]
+		  },
+		{ "menuTitle": "Mantenimiento",
+		  "options":
+			[
+				{
+					"label": "Mostrar log Parranderos",
+					"event": "mostrarLogParranderos"
+				},
+				{
+					"label": "Mostrar log datanucleus",
+					"event": "mostrarLogDatanuecleus"
+				},
+				{
+					"label": "Limpiar log de hotelAndes",
+					"event": "limpiarLogHotelAndes"
+				},
+				{
+					"label": "Limpiar log de datanucleus",
+					"event": "limpiarLogDatanucleus"
+				},
+				{
+					"label": "Limpiar Base de Datos",
+					"event": "limpiarBD"
+				}
+			]
+		},		
+		{ "menuTitle": "Documentación",
+		  "options":
+			[
+				{
+					"label": "Presentación general",
+					"event": "mostrarPresentacionGeneral"
+				},
+				{
+					"label": "Modelo conceptual",
+					"event": "mostrarModeloConceptual"
+				},
+				{
+					"label": "Esquema de la BD",
+					"event": "mostrarEsquemaBD"
+				},
+				{
+					"label": "Script creación de la BD",
+					"event": "mostrarScriptBD"
+				},
+				{
+					"label": "Arquitectura de referencia",
+					"event": "mostrarArqRef"
+				},
+				{
+					"label": "Javadoc Parranderos",
+					"event": "mostrarJavadoc"
+				}
+			]
+		},		
+		{ "menuTitle": "Acerca de ...",
+		  "options":
+			[
+				{
+					"label": "Acerca de ...",
+					"event": "acercaDe"
+				}
+			]
+		}		
+		
+	]
+}
+	

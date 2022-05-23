@@ -1,0 +1,32 @@
+{
+	"title": "Nombres de las tablas de HotelAndes para la aplicación A",
+	"unidadPersistencia": "HotelAndes",
+	"tablas":
+	[
+		"hotelAndes_sequence",
+		"BAR",
+		"CONSUMO",
+		"CONVENCION",
+		"FACTURA",
+		"GIMNASIO",
+		"HABITACION",
+		"HOTEL",
+		"INTERNET",
+		"LAVADOPLANCHADO",
+		"PISCINA",
+		"PLANDEPAGO",
+		"PRODUCTO",
+		"RESERVAHABITACION",
+		"RESERVASERVICIO",
+		"RESTAURANTE",
+		"SALONCONFERENCIAS",
+		"SALONREUNIONES",
+		"SERVICIO",
+		"SPA",
+		"SUPERMERCADO",
+		"TIENDA",
+		"TIPOHABITACION",
+		"TIPOUSUARIO",
+		"USUARIO"
+	]
+}

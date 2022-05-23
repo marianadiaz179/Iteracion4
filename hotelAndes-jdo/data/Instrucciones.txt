@@ -1,0 +1,12 @@
+ARCHIVO IMPORTANTE PARA TENER EN CUENTA:
+
+- Solo se puede iniciar sesión con usuarios que existen. Intentar con:
+	- Empleado: Mario
+	- Recepcionista : Sandra
+	- OrganizadorEventos: Pablo
+	- Cliente: Pedro
+	- AdministradorDatos: Maria
+
+Los tipos de usuario se tienen que poner asi como aparecen y el nombre tambien para que funcione. Se pueden agregar mas usuarios pero esos son los iniciales.
+
+Para cada requerimiento solo va a permitir hacerlo si esta ingresado como el usuario respectivo y se pueden crear convenciones desde el jdo pero ya hay una con nombre 'Marvel'

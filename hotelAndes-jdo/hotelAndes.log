@@ -1,0 +1,662 @@
+11:42:05,711 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Limpiando la BD de HotelAndes
+11:42:05,809 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.persistencia.PersistenciaHotelAndes] - Borrada la base de datos
+11:42:05,810 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Limpiando la BD de HotelAndes: Listo!
+17:49:19,884 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:49:19,884 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:49:19,896 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+10:25:00,497 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+10:25:00,498 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+10:25:00,517 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+10:25:27,259 (main) INFO  [uniandes.isis2304.hotelAndes.interfazDemo.InterfazHotelAndesDemo] - Se encontró un archivo de configuración válido: Interfaz
+10:25:27,260 (main) INFO  [uniandes.isis2304.hotelAndes.interfazDemo.InterfazHotelAndesDemo] - Se aplica configuración indicada en el archivo de configuración
+10:25:27,278 (main) INFO  [uniandes.isis2304.hotelAndes.interfazDemo.InterfazHotelAndesDemo] - Se encontró un archivo de configuración válido: Tablas BD
+15:09:01,425 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:09:01,426 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:09:01,505 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:09:59,002 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Maria
+15:09:59,194 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: AdministradorDatos
+15:10:20,617 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pedro
+15:10:20,652 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Cliente
+15:11:01,785 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+15:11:01,846 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por tipo: 1
+15:11:01,894 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando habitaciones: 2 habitaciones existentes
+15:11:01,894 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+15:11:02,388 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=0, fechaIngreso=2022-10-10, fechaSalida=2022-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=12345678, habitacion=350, totalCompras=0.0]
+15:11:46,746 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+15:11:46,786 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por tipo: 1
+15:11:46,832 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando habitaciones: 2 habitaciones existentes
+15:11:46,833 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+15:11:46,929 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=0, fechaIngreso=2022-10-15, fechaSalida=2022-10-20, cantidadPersonas=4, planPago=Convencion1, cliente=12345678, habitacion=350, totalCompras=0.0]
+15:14:04,224 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:14:04,224 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:14:04,258 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:14:17,791 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pedro
+15:14:17,940 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Cliente
+15:14:47,415 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+15:14:47,968 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por tipo: 1
+15:14:48,039 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando habitaciones: 2 habitaciones existentes
+15:14:48,039 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+15:14:48,352 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=0, fechaIngreso=2019-20-10, fechaSalida=2019-20-15, cantidadPersonas=4, planPago=Convencion1, cliente=12345678, habitacion=350, totalCompras=0.0]
+15:15:06,476 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:15:06,531 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:15:16,505 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:17:20,002 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:17:20,002 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:17:20,032 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:17:43,569 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+15:17:43,665 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+15:17:50,689 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+15:17:53,230 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: 350
+15:17:53,504 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: Consumo [id=24, idServicio=1, haitacion=350, producto=1, estado=Pendiente]
+15:17:53,504 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando  Servicio por id: 1
+15:17:53,537 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando Servicio por id: 1 tuplas eliminadas
+15:18:05,160 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:18:05,188 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:18:12,890 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:19:35,149 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:19:35,150 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:19:35,185 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:19:53,138 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Maria
+15:19:53,276 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:20:06,602 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:20:06,640 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:20:22,697 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:24:51,276 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:24:51,278 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:24:51,316 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:25:19,381 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:25:19,580 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:25:40,337 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:28:28,454 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:28:28,455 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:28:28,490 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:28:48,853 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:28:49,032 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:28:53,671 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:29:39,904 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:29:39,905 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:29:39,936 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:29:51,069 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:29:51,243 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:29:56,956 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:40:20,586 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+15:40:20,587 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+15:40:20,619 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+15:40:58,582 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+15:40:58,778 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+15:41:10,410 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Reserva por Cliente: 12345678
+15:41:10,470 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por cliente: 350
+15:41:10,974 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por cliente: 1 tuplas eliminadas
+16:03:00,110 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+16:03:00,110 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+16:03:00,144 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+16:03:32,428 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+16:03:32,429 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+16:03:32,471 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+16:03:47,390 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+16:03:47,569 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+16:03:53,196 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+16:03:53,275 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+16:03:53,275 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Consumo por habitacion: 350
+17:37:01,845 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:37:01,847 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:37:01,888 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:38:01,311 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:38:01,513 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:38:11,398 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:38:20,162 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+17:38:20,194 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+17:38:20,240 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+17:38:20,241 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+17:38:20,528 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=25, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+17:38:20,528 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+17:38:20,569 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+17:38:20,569 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+17:38:20,696 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=26, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+17:38:20,700 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: 0
+17:38:29,659 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:38:36,780 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+17:38:36,809 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+17:38:36,840 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+17:38:36,840 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+17:38:36,954 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=27, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+17:38:36,954 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+17:38:36,992 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+17:38:36,992 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+17:38:37,085 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=28, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+17:38:37,087 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+17:38:37,126 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva servicio 
+17:38:37,201 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva servicio: ReservaServicio [id=0, tipoServicio=Masaje, diaReserva=2020-12-10, horaReserva=12:30, duracion=30, cliente=1000364541, servicio=1]
+18:40:17,926 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:40:17,928 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:40:18,011 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:40:32,935 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:40:33,110 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:40:48,651 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:40:48,692 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:40:56,610 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:40:56,644 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:40:56,645 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:40:56,900 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:40:56,900 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+18:42:58,448 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:42:58,449 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:42:58,493 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:43:13,977 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:43:14,159 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:43:19,410 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:43:19,811 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:43:19,811 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:43:20,299 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:43:20,299 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+18:44:10,159 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:44:10,163 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:44:10,282 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:44:23,437 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:44:23,606 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:44:29,949 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:44:29,983 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:44:29,983 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:44:30,033 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:44:30,033 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+18:45:26,560 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:45:26,560 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:45:26,592 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:45:39,395 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:45:39,541 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:45:45,500 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:45:45,540 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:45:45,616 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 0 existentes
+18:46:06,217 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:46:06,266 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:46:12,665 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:46:12,724 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:46:12,724 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:46:12,811 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:46:12,812 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+18:55:09,540 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:55:09,542 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:55:09,588 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:55:26,487 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:55:26,642 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:55:33,569 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:55:33,616 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:55:33,616 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:55:33,667 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:55:33,668 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+18:56:47,001 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:56:47,002 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:56:47,044 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:57:01,925 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:57:02,503 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:57:08,912 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:57:08,976 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:57:08,976 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:57:09,019 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:57:09,019 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+18:59:41,580 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:59:41,581 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:59:41,612 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:59:53,448 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+18:59:53,645 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+18:59:58,805 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+18:59:58,878 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+18:59:58,878 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+18:59:58,913 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+18:59:58,913 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 350
+18:59:59,352 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 1 tuplas eliminadas
+19:01:33,640 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:01:33,642 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:01:33,701 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:01:50,190 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+19:01:50,345 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+19:01:56,994 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+19:01:57,064 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+19:01:57,064 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+19:01:57,489 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+19:01:57,489 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+19:03:04,555 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:03:04,556 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:03:04,593 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:03:30,408 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+19:03:30,581 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+19:03:42,262 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+19:03:42,313 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+19:03:42,313 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+19:03:42,351 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+19:03:42,351 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+19:05:13,761 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:05:13,762 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:05:13,800 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:05:29,178 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+19:05:29,560 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+19:05:35,615 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+19:05:35,650 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+19:05:35,650 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+19:05:35,685 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 2 existentes
+19:05:35,686 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+19:05:35,731 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 24
+19:05:35,966 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 1 tuplas eliminadas
+19:05:35,966 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+19:05:35,989 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 5
+19:05:36,021 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 1 tuplas eliminadas
+19:05:36,021 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando factura 
+19:05:36,087 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando factura: Factura [idFactura=30, habitacion=350, total=12000.0]
+19:05:36,087 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 350
+19:05:36,337 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 1 tuplas eliminadas
+21:39:13,660 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:39:13,661 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:39:13,702 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:39:28,160 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:39:28,308 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:39:38,154 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:39:47,121 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+21:39:47,169 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+21:39:47,217 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+21:39:47,217 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+21:39:47,505 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=31, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+21:39:47,505 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+21:39:47,607 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=32, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=360, totalCompras=0.0]
+21:39:47,612 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+21:39:47,648 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva servicio 
+21:39:47,763 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva servicio: ReservaServicio [id=0, tipoServicio=Masaje, diaReserva=2020-12-10, horaReserva=12:30, duracion=30, cliente=1000364541, servicio=1]
+21:43:03,850 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:43:03,852 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:43:03,887 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:43:21,754 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:43:21,900 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:43:42,364 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:44:07,760 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:44:07,761 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:44:07,796 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:44:21,346 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:44:21,441 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:44:26,953 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: 0
+21:44:35,098 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:44:40,324 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: 
+21:48:55,453 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:48:55,454 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:48:55,487 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:49:06,209 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: 0
+21:49:13,991 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:49:14,024 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:49:22,020 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: 0
+21:49:28,093 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: 0
+21:49:33,555 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:49:39,606 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: 
+21:51:02,355 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:51:02,355 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:51:02,390 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:51:14,219 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:51:14,314 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:51:22,740 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:51:30,408 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: 
+21:52:51,520 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:52:51,520 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:52:51,554 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:53:03,749 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:53:03,839 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:53:08,950 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:53:15,704 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: N
+21:54:36,643 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:54:36,644 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:54:36,689 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:54:49,636 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:54:49,729 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:54:55,598 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: 0
+21:54:59,929 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:55:06,537 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: N
+21:55:52,077 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:55:52,078 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:55:52,121 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:56:01,711 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:56:01,813 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:56:06,042 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+21:56:13,342 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: N
+21:56:29,218 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:56:29,219 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:56:29,251 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+21:56:48,331 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+21:56:48,425 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+21:57:02,397 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+22:25:28,042 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+22:25:28,042 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+22:25:28,074 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+22:25:44,778 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+22:25:44,870 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+22:27:01,607 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+22:27:01,608 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+22:27:01,642 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+22:27:13,209 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+22:27:13,359 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+22:27:19,361 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 350
+22:27:19,562 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 1 tuplas eliminadas
+22:27:47,371 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 350
+22:27:47,398 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 1 tuplas eliminadas
+10:45:50,606 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+10:45:50,608 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+10:45:50,681 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+10:49:45,848 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+10:49:45,849 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+10:49:45,909 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+10:50:15,922 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+10:50:15,922 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+10:50:15,953 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:14:13,432 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:14:13,433 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:14:13,638 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:14:39,311 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+19:14:39,553 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+19:28:22,695 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+19:28:50,396 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+19:28:50,516 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+19:28:50,560 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+19:28:50,560 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+19:28:51,057 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=44, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+19:28:51,058 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+19:28:51,145 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=45, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=360, totalCompras=0.0]
+19:28:51,147 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Sencilla
+19:30:26,705 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: 0
+19:30:32,317 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+19:30:38,247 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Suite
+19:30:38,289 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+19:30:38,322 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 2 existentes
+19:30:38,322 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+19:30:38,398 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=46, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=350, totalCompras=0.0]
+19:30:38,399 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+19:30:38,460 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=47, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=360, totalCompras=0.0]
+19:30:38,463 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando tipoHabitacion por tipo: Familiar
+19:30:38,490 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de tipo 
+19:30:38,515 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+19:30:38,515 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion 
+19:30:38,571 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva habitacion: ReservaHabitacion [id=48, fechaIngreso=2020-12-10, fechaSalida=2020-10-15, cantidadPersonas=4, planPago=Convencion1, cliente=1000364541, habitacion=370, totalCompras=0.0]
+19:30:38,573 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+19:30:38,610 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva servicio 
+19:30:38,662 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando reserva servicio: ReservaServicio [id=0, tipoServicio=Masaje, diaReserva=2020-12-10, horaReserva=12:30, duracion=30, cliente=1000364541, servicio=1]
+19:40:31,023 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:40:31,024 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:40:31,072 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:40:47,916 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+19:40:48,077 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+19:41:00,420 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+19:41:16,730 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando reserva habitacion por cliente350
+19:41:16,931 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando reserva habitacion por cliente: 7 tuplas eliminadas
+19:41:16,931 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando reserva servicio por tipoMasaje
+19:41:16,968 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando reserva servicio por tipo: 3 tuplas eliminadas
+20:17:17,747 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:17:17,749 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:17:17,838 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:18:05,699 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+20:18:05,859 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+20:18:21,297 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+20:19:15,837 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+20:19:16,139 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+20:19:16,339 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 0 existentes
+20:32:26,171 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+20:32:26,204 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+20:32:38,425 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+20:32:46,049 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+20:32:46,129 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+20:32:46,130 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: 350
+20:32:47,601 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: Consumo [id=61, idServicio=1, habitacion=350, producto=1, estado=Pendiente, cliente=0, fechaConsumo=2022-05-08]
+20:32:47,601 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando  Servicio por id: 1
+20:32:47,637 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando Servicio por id: 1 tuplas eliminadas
+20:35:51,505 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:35:51,506 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:35:51,552 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:36:05,608 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+20:36:05,714 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+20:36:17,986 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+20:36:31,009 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+20:36:31,088 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+20:36:31,089 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: 350
+20:36:31,771 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: Consumo [id=62, idServicio=1, habitacion=350, producto=1, estado=Pendiente, cliente=0, fechaConsumo=2022-05-08]
+20:36:31,771 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando  Servicio por id: 1
+20:36:31,819 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando Servicio por id: 1 tuplas eliminadas
+20:39:19,612 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:39:19,612 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:39:19,647 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:39:53,291 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+20:39:53,402 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+20:40:04,418 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Masaje
+20:40:06,532 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+20:40:06,592 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+20:40:06,593 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: 350
+20:40:06,916 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: Consumo [id=63, idServicio=1, habitacion=350, producto=1, estado=Pendiente, cliente=12345678, fechaConsumo=2022-05-08]
+20:40:06,916 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando  Servicio por id: 1
+20:40:06,961 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando Servicio por id: 1 tuplas eliminadas
+20:45:19,807 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Sandra
+20:45:19,859 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Recepcionista
+20:46:14,807 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones de cliente 
+20:46:14,851 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de las habitaciones: 1 existentes
+20:46:14,852 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Bar
+20:46:14,901 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de Consumo: 3 existentes
+20:46:14,902 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+20:46:14,936 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 62
+20:46:14,971 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 1 tuplas eliminadas
+20:46:14,971 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+20:46:15,018 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 63
+20:46:15,056 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 1 tuplas eliminadas
+20:46:15,056 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Producto por idProducto: 1
+20:46:15,104 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 61
+20:46:15,144 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Eliminando Consumo por id: 1 tuplas eliminadas
+20:46:15,144 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando factura 
+20:46:15,202 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando factura: Factura [idFactura=64, habitacion=350, total=12000.0]
+20:46:15,202 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 350
+20:46:15,224 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando habitacion por estado: 1 tuplas eliminadas
+21:50:10,688 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+21:50:10,689 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+21:50:10,730 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:32:30,841 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:32:30,842 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:32:30,873 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:32:42,706 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:32:42,867 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:32:47,806 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:34:10,208 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:34:10,209 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:34:10,242 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:34:20,847 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:34:20,967 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:34:25,465 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:42:04,229 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:42:04,230 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:42:04,259 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:42:20,262 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:42:20,398 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:42:27,101 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:43:36,888 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:43:36,889 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:43:36,919 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:43:48,339 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:43:48,494 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:43:55,443 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:57:57,758 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:57:57,759 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:57:57,791 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:58:09,910 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:58:10,068 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:58:16,009 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+17:58:49,452 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+17:58:49,453 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+17:58:49,486 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+17:59:01,297 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+17:59:01,383 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+17:59:11,017 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:00:28,947 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:00:28,948 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:00:28,981 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:00:39,432 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:00:39,564 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:00:47,414 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:13:51,027 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:13:51,027 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:13:51,059 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:14:00,670 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:14:00,870 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:14:07,615 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:16:02,259 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:16:02,260 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:16:02,295 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:16:12,231 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:16:12,333 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:16:18,072 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:17:59,292 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:17:59,293 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:17:59,322 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:18:14,986 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:18:15,075 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:18:21,333 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:23:46,989 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:23:46,989 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:23:47,020 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:24:10,970 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:24:11,149 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:24:19,750 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:24:19,843 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:26:58,909 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:26:58,910 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:26:58,942 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:27:10,056 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:27:10,297 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:27:19,781 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:27:19,865 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:29:57,929 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:29:57,930 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:29:57,963 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:30:12,958 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:30:13,136 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:30:19,468 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:30:19,547 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:34:47,066 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:34:47,067 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:34:47,097 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:34:58,827 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:34:58,944 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:35:43,613 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:35:43,614 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:35:43,640 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:35:57,535 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:35:57,617 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:36:41,516 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:36:41,517 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:36:41,546 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:36:50,841 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:36:50,947 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:36:58,005 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:36:58,067 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:41:21,814 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:41:21,815 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:41:21,845 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:41:31,078 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:41:31,202 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:41:35,893 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:41:36,016 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:47:35,335 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:47:35,336 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:47:35,366 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:47:46,032 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:47:46,120 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:47:50,067 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:47:50,115 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:49:44,523 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:49:44,524 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:49:44,549 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:50:02,118 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:50:02,200 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:50:08,388 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:50:08,451 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:50:08,503 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones
+18:50:08,546 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones : 1 existentes
+18:51:00,460 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:51:00,462 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:51:00,494 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:51:09,973 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:51:10,068 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:51:14,090 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:51:21,387 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:52:26,535 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:52:26,536 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:52:26,563 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:52:34,685 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:52:34,865 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:52:38,568 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:53:25,393 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:53:25,394 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+18:53:25,427 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:53:46,334 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+18:53:46,427 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+18:53:50,791 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+18:53:50,873 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando convención por id
+18:53:50,923 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones
+18:53:50,967 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones : 1 existentes
+19:04:56,040 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:04:56,041 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:04:56,072 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:05:07,120 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+19:05:07,207 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+19:05:11,721 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Pablo
+19:05:17,988 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+19:05:18,075 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando fecha incio de la convención por id
+19:05:18,108 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones
+19:05:18,152 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones : 1 existentes
+19:05:18,152 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Consumos
+19:05:18,228 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Consumos : 11 existentes
+19:13:22,802 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:13:22,802 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:13:22,828 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:13:33,201 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+19:13:33,313 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+19:13:39,366 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+19:13:39,405 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando fecha incio de la convención por id
+19:13:39,429 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones
+19:13:39,454 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Convenciones : 1 existentes
+19:13:39,454 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Consumos
+19:13:39,503 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Consumos : 5 existentes
+19:16:53,234 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:16:53,236 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:16:53,277 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:17:06,323 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+19:17:06,420 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+19:17:14,082 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: null
+19:17:19,969 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Mario
+19:17:20,015 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: Empleado
+19:17:27,632 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando producto por nombreProducto: Margarita coctel
+19:17:29,950 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+19:17:29,996 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Habitacion por id: 350
+19:17:29,997 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: 350
+19:17:30,339 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Adicionando Consumo: Consumo [id=101, idServicio=7, habitacion=350, producto=2, estado=Pendiente, cliente=12345678, fechaConsumo=2022-05-22]
+19:17:30,339 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando  Servicio por id: 7
+19:17:30,369 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Actualizando Servicio por id: 1 tuplas eliminadas
+19:44:05,890 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:44:05,892 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:44:05,922 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:44:26,688 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Usuario por nombre: Pablo
+19:44:26,796 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando TipoUsuario por tipoEmpleo: OrganizadorEventos
+19:44:31,240 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Convencion por nombre: Marvel
+19:44:31,298 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Consumos
+19:44:31,366 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Consultando Consumos : 0 existentes
+19:59:13,431 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:59:13,432 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:59:13,460 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:00:01,983 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:00:01,986 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:00:02,015 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:00:27,542 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Servicio por nombre: Spa
+20:00:37,521 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios
+20:01:06,736 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:01:06,737 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:01:06,762 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:01:14,364 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Servicio por nombre: Spa
+20:01:20,503 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios
+20:01:20,556 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios: 1 existentes
+20:28:07,187 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:28:07,188 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:28:07,204 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:28:11,865 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios
+20:28:11,952 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios: 0 existentes
+20:29:26,818 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+20:29:26,819 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+20:29:26,837 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+20:29:32,135 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios
+20:29:32,264 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios: 1 existentes

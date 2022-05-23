@@ -1,0 +1,12 @@
+CREATE TABLE FACTURA 
+   (idFactura NUMBER,
+    habitacion NUMBER,
+    montoTotal NUMBER,
+	CONSTRAINT FACTURA_PK PRIMARY KEY (idFactura));
+   
+ALTER TABLE FACTURA
+   ADD CONSTRAINT FK_Habitacion_F
+   FOREIGN KEY (habitacion)
+   REFERENCES HABITACION(numHabitacion)
+ENABLE;
+
