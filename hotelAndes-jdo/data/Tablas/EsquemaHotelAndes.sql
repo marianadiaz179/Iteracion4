@@ -31,7 +31,7 @@ CREATE TABLE CONVENCION
     fechaInicio DATE,
     fechaFin DATE,
     duracion NUMBER,
-    planPago VARCHAR2(255 BYTE),
+    planPago NUMBER,
    CONSTRAINT CONVENCION_PK PRIMARY KEY (id));
 
 -- Creación de tabla FACTURA
@@ -105,9 +105,10 @@ CREATE TABLE PISCINA
 
 -- Creación de la tabla PLANDEPAGO
 CREATE TABLE PLANDEPAGO 
-   (tipoPlan VARCHAR2 (255 BYTE),
+   (id NUMBER,
+   tipoPlan VARCHAR2 (255 BYTE),
    caracteristicas VARCHAR2 (255 BYTE),  
-	CONSTRAINT PLANDEPAGO_PK PRIMARY KEY (tipoPlan));
+	CONSTRAINT PLANDEPAGO_PK PRIMARY KEY (id));
 
 
 -- Creación de la tabla PRODUCTO
@@ -127,7 +128,7 @@ CREATE TABLE RESERVAHABITACION
     fechaSalida DATE,
     duracion NUMBER,
     cantidadPersonas NUMBER , 
-    planPago VARCHAR2 (255 BYTE),
+    planPago NUMBER,
     cedulaCliente NUMBER ,
     numHabitacion NUMBER,
     totalCompras NUMBER ,
@@ -291,7 +292,7 @@ ENABLE;
 ALTER TABLE CONVENCION 
    ADD CONSTRAINT FK_PLANPAGO_C
    FOREIGN KEY (planPago)
-   REFERENCES PLANDEPAGO (tipoPlan)
+   REFERENCES PLANDEPAGO (id)
 ENABLE;
 
 
@@ -387,7 +388,7 @@ ENABLE;
 ALTER TABLE RESERVAHABITACION
 ADD CONSTRAINT FK_PlandePago
     FOREIGN KEY (planPago)
-    REFERENCES PLANDEPAGO(tipoPlan)
+    REFERENCES PLANDEPAGO(id)
 ENABLE;
 
 ALTER TABLE RESERVAHABITACION
