@@ -1420,20 +1420,42 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 			long id = ser.getId();
 			Date fechaI = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha inicial del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE));
 			Date fechaF = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha final del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE));
-
 			
-    		List<VOUsuario> clientes = hotelAndes.darVOConsumidoresHotelAndes(fechaI, fechaF, id);
+			String consulta1 = JOptionPane.showInputDialog(this, "Desea conocer la información de los clientes ? (SI/NO)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
+			String consulta2 = JOptionPane.showInputDialog(this, "Desea conocer la cantidad de veces consumidas de los clientes ? (SI/NO)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
+			String resultado = "";
+
+			if (consulta1.equals("SI"))
+			{
+				List<VOUsuario> clientes = hotelAndes.darVOConsumidoresHotelAndes(fechaI, fechaF, id);
     		
-    		if (clientes.size()==0)
-    		{
-    			throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
-    		}
-    		String resultado = "Los clientes son: \n\n";
+				if (clientes.size()==0)
+				{
+					throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
+				}
+				resultado += "Los clientes son: \n\n";
     		
-    		for (VOUsuario c: clientes)
-    		{
-    			resultado += c.toString();
-    		}
+				for (VOUsuario c: clientes)
+				{
+					resultado += c.toString();
+				}
+			}
+			
+			if (consulta2.equals("SI"))
+			{
+				List<Object> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
+	    		
+				if (info.size()==0)
+				{
+					throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
+				}
+				resultado += "La información es: \n\n";
+    		
+				for (Object c: info)
+				{
+					resultado += c.toString();
+				}
+			}
     		
     		
 			resultado += "\n Operación terminada";

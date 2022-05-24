@@ -674,3 +674,13 @@
 07:57:55,581 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Servicio por nombre: Bar
 07:57:59,275 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios
 07:57:59,329 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Generando los VO de los usuarios: 1 existentes
+19:16:54,739 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:16:54,740 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:16:54,929 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:17:05,640 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Servicio por nombre: Spa
+19:17:16,979 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando cantidad de veces consumidas por cliente
+19:18:27,661 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:18:27,663 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se aplica configuración indicada en el archivo de configuración
+19:18:27,709 (main) INFO  [uniandes.isis2304.hotelAndes.interfazApp.InterfazHotelAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:18:45,427 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando Servicio por nombre: Spa
+19:18:54,236 (AWT-EventQueue-0) INFO  [uniandes.isis2304.hotelAndes.negocio.HotelAndes] - Buscando cantidad de veces consumidas por cliente

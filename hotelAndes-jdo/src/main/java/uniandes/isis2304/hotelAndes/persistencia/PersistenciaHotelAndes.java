@@ -954,6 +954,11 @@ public class PersistenciaHotelAndes
 		return sqlUsuario.consumidoresHotelAndes (pmf.getPersistenceManager(), fechaI, fechaF, id) ;
 	}
 	
+	public List<Object> cantidadConsumosConsumidores (Date fechaI, Date fechaF, long id) 
+	{
+		return sqlUsuario.cantidadConsumosConsumidores (pmf.getPersistenceManager(), fechaI, fechaF, id) ;
+	}
+	
 	public List<Usuario> darClientePorNombre (String nombreCliente) 
 	{
 		return sqlUsuario.darClientePorNombre (pmf.getPersistenceManager(), nombreCliente) ;
