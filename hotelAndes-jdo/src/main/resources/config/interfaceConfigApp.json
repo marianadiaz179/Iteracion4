@@ -118,6 +118,10 @@
 				  {
 					"label": "Consultar consumo en hotelAndes",
 					"event": "consultarConsumoHotelAndes"
+				  },
+				  {
+					"label": "Consultar consumo en hotelAndes 2",
+					"event": "consultarConsumoHotelAndes2"
 				  }
 
 			  ]

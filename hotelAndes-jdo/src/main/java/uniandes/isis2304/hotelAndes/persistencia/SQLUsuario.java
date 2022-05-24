@@ -131,6 +131,19 @@ class SQLUsuario
 		q.setParameters(id, fechaI, fechaF);
 		return q.executeList();
 	}
+	
+	public List<Usuario> consumidoresHotelAndes2 (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 
+	{
+		Query q = pm.newQuery(SQL, "SELECT usuario.*\r\n"
+				+ "FROM usuario, servicio, consumo\r\n"
+				+ "WHERE consumo.cliente = usuario.cedula\r\n"
+				+ "    AND consumo.idServicio <> servicio.id\r\n"
+				+ "    AND consumo.fechaconsumo BETWEEN ? AND ?\r\n"
+				+ "    AND servicio.id = ?");
+		q.setResultClass(Usuario.class);
+		q.setParameters(fechaI, fechaF,id);
+		return (List<Usuario>) q.executeList();
+	}
 
 	public List<Usuario> darUsuarios (PersistenceManager pm)
 	{

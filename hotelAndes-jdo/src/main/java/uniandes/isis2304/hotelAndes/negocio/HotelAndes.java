@@ -386,6 +386,18 @@ public class HotelAndes
         return voUsuario;
 	}
 	
+	public List<VOUsuario> darVOConsumidoresHotelAndes2 (Date fechaI, Date fechaF, long id)
+	{
+		log.info ("Generando los VO de los usuarios");       
+        List<VOUsuario> voUsuario = new LinkedList<VOUsuario> ();
+        for (VOUsuario em : pp.consumidoresHotelAndes2 (fechaI, fechaF, id))
+        {
+        	voUsuario.add (em);
+        }
+        log.info ("Generando los VO de los usuarios: " + voUsuario.size() + " existentes");
+        return voUsuario;
+	}
+	
 	public List<Object> cantidadConsumosConsumidores (Date fechaI, Date fechaF, long id)
 	{
 		log.info ("Buscando cantidad de veces consumidas por cliente");

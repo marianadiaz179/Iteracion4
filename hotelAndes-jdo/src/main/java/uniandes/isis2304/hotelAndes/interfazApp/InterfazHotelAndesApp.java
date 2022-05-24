@@ -1472,6 +1472,69 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 		panelDatos.actualizarInterfaz(resultado);
 	}
     }
+    
+    public void consultarConsumoHotelAndes2()
+    {
+    try 
+	{
+		
+			String nomServicio = JOptionPane.showInputDialog(this, "Ingrese el servicio a consultar", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
+			Servicio ser = hotelAndes.darServiciosPorNombre(nomServicio);
+			long id = ser.getId();
+			Date fechaI = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha inicial del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE));
+			Date fechaF = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha final del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE));
+			
+			String consulta1 = JOptionPane.showInputDialog(this, "Desea conocer la información de los clientes ? (SI/NO)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
+			String consulta2 = JOptionPane.showInputDialog(this, "Desea conocer la cantidad de veces consumidas de los clientes ? (SI/NO)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
+			String resultado = "";
+
+			if (consulta1.equals("SI"))
+			{
+				List<VOUsuario> clientes = hotelAndes.darVOConsumidoresHotelAndes2(fechaI, fechaF, id);
+    		
+				if (clientes.size()==0)
+				{
+					throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
+				}
+				resultado += "Los clientes son: \n\n";
+    		
+				for (VOUsuario c: clientes)
+				{
+					resultado += c.toString();
+				}
+			}
+			
+			if (consulta2.equals("SI"))
+			{
+				List<Object> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
+	    		
+				if (info.size()==0)
+				{
+					throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
+				}
+				resultado += "La información es: \n\n";
+    		
+				for (Object c: info)
+				{
+					resultado += c.toString();
+				}
+			}
+    		
+    		
+			resultado += "\n Operación terminada";
+			panelDatos.actualizarInterfaz(resultado);
+		
+	
+	
+	
+	}
+	catch (Exception e) 
+	{
+//		e.printStackTrace();
+		String resultado = generarMensajeError(e);
+		panelDatos.actualizarInterfaz(resultado);
+	}
+    }
 
 	/* ****************************************************************
 	 * 			Métodos administrativos
