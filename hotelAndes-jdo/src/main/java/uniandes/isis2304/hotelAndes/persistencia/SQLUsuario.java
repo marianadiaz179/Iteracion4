@@ -134,7 +134,7 @@ class SQLUsuario
 	
 	public List<Usuario> consumidoresHotelAndes2 (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 
 	{
-		Query q = pm.newQuery(SQL, "SELECT usuario.*\r\n"
+		Query q = pm.newQuery(SQL, "SELECT DISTINCT(usuario.cedula), usuario.*\r\n"
 				+ "FROM usuario, servicio, consumo\r\n"
 				+ "WHERE consumo.cliente = usuario.cedula\r\n"
 				+ "    AND consumo.idServicio <> servicio.id\r\n"

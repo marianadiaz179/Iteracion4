@@ -1391,7 +1391,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
     		for (VOUsuario c: clientes)
     		{
-    			resultado += c.toString();
+    			resultado += c.toString() + "\n";
     		}
     		
     		
@@ -1437,7 +1437,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
 				for (VOUsuario c: clientes)
 				{
-					resultado += c.toString();
+					resultado += c.toString() + "\n";
 				}
 			}
 			
@@ -1453,7 +1453,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
 				for (Object c: info)
 				{
-					resultado += c.toString();
+					resultado += c.toString() + "\n";
 				}
 			}
     		
@@ -1500,7 +1500,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
 				for (VOUsuario c: clientes)
 				{
-					resultado += c.toString();
+					resultado += c.toString() + "\n";
 				}
 			}
 			
@@ -1516,7 +1516,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
 				for (Object c: info)
 				{
-					resultado += c.toString();
+					resultado += c.toString() + "\n";
 				}
 			}
     		
