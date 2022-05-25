@@ -121,15 +121,16 @@ class SQLUsuario
 		return (List<Usuario>) q.executeList();
 	}
 	
-	public List<Object> cantidadConsumosConsumidores (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 
+	public List<Usuario> cantidadConsumosConsumidores (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 
 	{
-		Query q = pm.newQuery(SQL, "SELECT count(consumo.idservicio), idServicio, usuario.nombre\n"
+		Query q = pm.newQuery(SQL, "SELECT count(consumo.idservicio) as estadia, usuario.nombre\n"
 				+ "FROM CONSUMO, USUARIO\n"
 				+ "WHERE ESTADO = 'Pago' AND IDSERVICIO = ? AND FECHACONSUMO BETWEEN ? AND ?\n"
 				+ "AND CONSUMO.CLIENTE = USUARIO.CEDULA AND USUARIO.TIPOUSUARIO = 3\n"
 				+ "GROUP BY IDSERVICIO,USUARIO.NOMBRE");
 		q.setParameters(id, fechaI, fechaF);
-		return q.executeList();
+		q.setResultClass(Usuario.class);
+		return (List<Usuario>)  q.executeList();
 	}
 	
 	public List<Usuario> consumidoresHotelAndes2 (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 

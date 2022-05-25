@@ -1443,7 +1443,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 			
 			if (consulta2.equals("SI"))
 			{
-				List<Object> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
+				List<Usuario> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
 	    		
 				if (info.size()==0)
 				{
@@ -1451,7 +1451,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 				}
 				resultado += "La información es: \n\n";
     		
-				for (Object c: info)
+				for (Usuario c: info)
 				{
 					resultado += c.toString() + "\n";
 				}
@@ -1506,7 +1506,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 			
 			if (consulta2.equals("SI"))
 			{
-				List<Object> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
+				List<Usuario> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
 	    		
 				if (info.size()==0)
 				{
@@ -1514,7 +1514,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 				}
 				resultado += "La información es: \n\n";
     		
-				for (Object c: info)
+				for (Usuario c: info)
 				{
 					resultado += c.toString() + "\n";
 				}
