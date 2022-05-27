@@ -35,7 +35,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 34;7;6183;Gull, pacific
 35;7;1782;Pale-throated three-toed sloth
 36;7;3650;Red meerkat
-37;7;1591;Azara's zorro
+37;7;1591;Azaras zorro
 38;7;1768;Woodrat (unidentified)
 39;7;1011;Pelican, eastern white
 40;7;5396;Black kite
@@ -120,8 +120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 119;7;5849;Pademelon, red-legged
 120;7;2024;Great white pelican
 121;7;5064;Rhea, gray
-122;7;8545;Lion, steller's sea
-123;7;8210;Lion, steller's sea
+122;7;8545;Lion, stellers sea
+123;7;8210;Lion, stellers sea
 124;7;9191;Badger, american
 125;7;4318;Springbuck
 126;7;7201;Lemur, sportive
@@ -151,11 +151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 150;7;8064;Rattlesnake, dusky
 151;7;1993;Lizard, giant girdled
 152;7;5832;Bird, secretary
-153;7;5702;Lion, steller's sea
+153;7;5702;Lion, stellers sea
 154;7;5418;Gecko (unidentified)
 155;7;8340;Mountain lion
 156;7;2713;Green-backed heron
-157;7;8622;Lion, steller's sea
+157;7;8622;Lion, stellers sea
 158;7;8728;Kangaroo, red
 159;7;8385;Blackbird, red-winged
 160;7;1099;Pied crow
@@ -194,7 +194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 193;7;6021;Arctic hare
 194;7;6225;Bird, magnificent frigate
 195;7;3915;Squirrel, malabar
-196;7;7912;Verreaux's sifaka
+196;7;7912;Verreauxs sifaka
 197;7;7386;Grey lourie
 198;7;788;Partridge, coqui
 199;7;1686;Suricate
@@ -222,10 +222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 221;7;1740;Wattled crane
 222;7;418;Southern ground hornbill
 223;7;7545;Booby, blue-footed
-224;7;9287;Eagle, pallas's fish
+224;7;9287;Eagle, pallass fish
 225;7;6721;Four-spotted skimmer
 226;7;4978;Black and white colobus
-227;7;5838;Gonolek, burchell's
+227;7;5838;Gonolek, burchells
 228;7;6612;African wild dog
 229;7;1525;Lizard, desert spiny
 230;7;1025;Snake (unidentified)
@@ -258,7 +258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 257;7;3739;Blue shark
 258;7;9313;Feathertail glider
 259;7;4294;Waxbill, violet-eared
-260;7;1692;Sloth, hoffman's
+260;7;1692;Sloth, hoffmans
 261;7;8769;Barrows goldeneye
 262;7;8743;Seal, northern elephant
 263;7;2555;Waterbuck, common
@@ -269,7 +269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 268;7;2451;Cormorant, javanese
 269;7;1161;Common mynah
 270;7;6694;Dunnart, fat-tailed
-271;7;7332;Denham's bustard
+271;7;7332;Denhams bustard
 272;7;6010;Owl, madagascar hawk
 273;7;2303;Brocket, red
 274;7;1248;Common eland
@@ -300,7 +300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 299;7;5036;Dabchick
 300;7;5516;Mongoose, small indian
 301;7;960;Flycatcher, tyrant
-302;7;5030;Sifaka, verreaux's
+302;7;5030;Sifaka, verreauxs
 303;7;4874;Red-tailed hawk
 304;7;6155;Small-toothed palm civet
 305;7;6438;Marine iguana
@@ -334,11 +334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 333;7;6458;Tammar wallaby
 334;7;9014;Bandicoot, long-nosed
 335;7;3520;Native cat
-336;7;7558;Steller's sea lion
+336;7;7558;Stellers sea lion
 337;7;575;American buffalo
 338;7;3043;Killer whale
 339;7;2012;Barbet, black-collared
-340;7;8023;Wallaby, bennett's
+340;7;8023;Wallaby, bennetts
 341;7;3548;Grouse, sage
 342;7;8493;Snowy sheathbill
 343;7;6136;Eastern white pelican
@@ -356,7 +356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 355;7;7025;Owl, great horned
 356;7;2872;Goose, greylag
 357;7;9063;Blackish oystercatcher
-358;7;7120;Wallaby, bennett's
+358;7;7120;Wallaby, bennetts
 359;7;9409;Currasow (unidentified)
 360;7;4369;Tern, white-winged black
 361;7;6338;Cape fox
@@ -457,7 +457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 456;7;8266;Small-toothed palm civet
 457;7;5520;Stork, white-necked
 458;7;8388;Ostrich
-459;7;8533;Grant's gazelle
+459;7;8533;Grants gazelle
 460;7;9721;Dove, laughing
 461;7;8783;Tasmanian devil
 462;7;591;Langur, gray
@@ -491,7 +491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 490;7;2144;Western bearded dragon
 491;7;7188;Yellow-necked spurfowl
 492;7;6209;Wallaby, agile
-493;7;1951;Lion, steller's sea
+493;7;1951;Lion, stellers sea
 494;7;6518;Antelope, sable
 495;7;3375;Bear, polar
 496;7;2061;Red-winged blackbird
@@ -502,7 +502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 501;7;9440;Beaver, north american
 502;7;5033;Mudskipper (unidentified)
 503;7;5315;Dove, galapagos
-504;7;9936;Denham's bustard
+504;7;9936;Denhams bustard
 505;7;7549;Two-banded monitor
 506;7;2410;Common grenadier
 507;7;542;Colobus, white-mantled
@@ -521,7 +521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 520;7;7547;Goldeneye, barrows
 521;7;8418;Yellow-headed caracara
 522;7;3484;Saddle-billed stork
-523;7;2040;Squirrel, richardson's ground
+523;7;2040;Squirrel, richardsons ground
 524;7;3203;Wolf, timber
 525;7;6934;Blackbird, red-winged
 526;7;3008;African red-eyed bulbul
@@ -534,7 +534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 533;7;836;Rat, desert kangaroo
 534;7;7995;Puku
 535;7;9308;Square-lipped rhinoceros
-536;7;3419;Pallas's fish eagle
+536;7;3419;Pallass fish eagle
 537;7;4303;Cape raven
 538;7;2851;Monkey, vervet
 539;7;3983;Openbill, asian
@@ -549,22 +549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 548;7;983;Pheasant, common
 549;7;4776;Iguana, land
 550;7;9420;Egret, cattle
-551;7;3021;Thomson's gazelle
+551;7;3021;Thomsons gazelle
 552;7;7729;Cockatoo, slender-billed
 553;7;7016;Kinkajou
 554;7;5380;Cuis
 555;7;7797;Squirrel, antelope ground
 556;7;6468;Jungle cat
 557;7;438;Drongo, fork-tailed
-558;7;8293;Pallas's fish eagle
+558;7;8293;Pallass fish eagle
 559;7;352;Tiger snake
-560;7;8479;Swainson's francolin
+560;7;8479;Swainsons francolin
 561;7;1390;Boat-billed heron
 562;7;2074;Alligator, mississippi
 563;7;3141;Ferruginous hawk
 564;7;3035;Rufous tree pie
 565;7;1099;Giant otter
-566;7;3466;Pallas's fish eagle
+566;7;3466;Pallass fish eagle
 567;7;9801;Malachite kingfisher
 568;7;5521;Tiger
 569;7;590;Blackbuck
@@ -598,7 +598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 597;7;8026;Marshbird, brown and yellow
 598;7;1698;Blue and yellow macaw
 599;7;5832;Hanuman langur
-600;7;3227;Gazelle, grant's
+600;7;3227;Gazelle, grants
 601;7;2508;Giraffe
 602;7;5192;Brown antechinus
 603;7;3451;Common goldeneye
@@ -713,7 +713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 712;7;291;Eastern grey kangaroo
 713;7;5928;Lion, steller sea
 714;7;1594;Emerald green tree boa
-715;7;3161;Dik, kirk's dik
+715;7;3161;Dik, kirks dik
 716;7;2336;Egret, snowy
 717;7;7298;Duck, blue
 718;7;1430;Long-necked turtle
@@ -737,14 +737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 736;7;1037;Mouse, four-striped grass
 737;7;3413;Galah
 738;7;8356;Crested bunting
-739;7;7054;Gambel's quail
+739;7;7054;Gambels quail
 740;7;1345;Crow, american
 741;7;5535;Gray langur
 742;7;7042;Yellow-billed hornbill
 743;7;6384;White-mantled colobus
 744;7;6392;Weaver, red-billed buffalo
 745;7;5917;Mouse, four-striped grass
-746;7;8381;Gazelle, grant's
+746;7;8381;Gazelle, grants
 747;7;5119;Southern right whale
 748;7;1644;Boubou, southern
 749;7;3448;American racer
@@ -814,7 +814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 813;7;553;Amazon parrot (unidentified)
 814;7;6644;Bird, secretary
 815;7;414;Southern hairy-nosed wombat
-816;7;9930;Zorro, azara's
+816;7;9930;Zorro, azaras
 817;7;8733;Fox, savanna
 818;7;9486;Raccoon dog
 819;7;1068;Tyrant flycatcher
@@ -832,12 +832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 831;7;1198;Finch, common melba
 832;7;1779;Paradoxure
 833;7;8167;Water moccasin
-834;7;9235;Hartebeest, coke's
+834;7;9235;Hartebeest, cokes
 835;7;1366;Skua, long-tailed
 836;7;2398;African ground squirrel (unidentified)
 837;7;4097;Laughing kookaburra
 838;7;9794;Boubou, southern
-839;7;7620;Gonolek, burchell's
+839;7;7620;Gonolek, burchells
 840;7;5396;Great kiskadee
 841;7;5773;Squirrel, nelson ground
 842;7;8731;Vervet monkey
@@ -871,7 +871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 870;7;9679;Arctic ground squirrel
 871;7;4792;Vervet monkey
 872;7;3511;Giant heron
-873;7;215;Richardson's ground squirrel
+873;7;215;Richardsons ground squirrel
 874;7;5027;Yellow-throated sandgrouse
 875;7;8565;American bighorn sheep
 876;7;4469;Devil, tasmanian
@@ -902,7 +902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 901;7;3202;Zebra, common
 902;7;69;Black-crowned crane
 903;7;6839;Striped dolphin
-904;7;9100;Hoffman's sloth
+904;7;9100;Hoffmans sloth
 905;7;8003;Red-breasted cockatoo
 906;7;848;Beaver, north american
 907;7;7078;Blue racer
@@ -961,7 +961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 960;7;4361;Cape white-eye
 961;7;5578;Blue racer
 962;7;3632;Cape cobra
-963;7;5085;Boa, cook's tree
+963;7;5085;Boa, cooks tree
 964;7;8462;Bush dog
 965;7;870;Sungazer, yellow-brown
 966;7;4053;Shrike, crimson-breasted
@@ -1035,7 +1035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1034;7;6691;Gull, pacific
 1035;7;5791;Pale-throated three-toed sloth
 1036;7;3233;Red meerkat
-1037;7;8399;Azara's zorro
+1037;7;8399;Azaras zorro
 1038;7;2786;Woodrat (unidentified)
 1039;7;7268;Pelican, eastern white
 1040;7;4344;Black kite
@@ -1120,8 +1120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 1119;7;5222;Pademelon, red-legged
 1120;7;7277;Great white pelican
 1121;7;4275;Rhea, gray
-1122;7;5569;Lion, steller's sea
-1123;7;8147;Lion, steller's sea
+1122;7;5569;Lion, stellers sea
+1123;7;8147;Lion, stellers sea
 1124;7;7660;Badger, american
 1125;7;8497;Springbuck
 1126;7;9876;Lemur, sportive
@@ -1151,11 +1151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 1150;7;3017;Rattlesnake, dusky
 1151;7;9584;Lizard, giant girdled
 1152;7;8669;Bird, secretary
-1153;7;1189;Lion, steller's sea
+1153;7;1189;Lion, stellers sea
 1154;7;5354;Gecko (unidentified)
 1155;7;738;Mountain lion
 1156;7;6234;Green-backed heron
-1157;7;4266;Lion, steller's sea
+1157;7;4266;Lion, stellers sea
 1158;7;9346;Kangaroo, red
 1159;7;2655;Blackbird, red-winged
 1160;7;4483;Pied crow
@@ -1194,7 +1194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1193;7;7207;Arctic hare
 1194;7;8822;Bird, magnificent frigate
 1195;7;8823;Squirrel, malabar
-1196;7;8816;Verreaux's sifaka
+1196;7;8816;Verreauxs sifaka
 1197;7;3136;Grey lourie
 1198;7;8849;Partridge, coqui
 1199;7;5475;Suricate
@@ -1222,10 +1222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 1221;7;1544;Wattled crane
 1222;7;841;Southern ground hornbill
 1223;7;623;Booby, blue-footed
-1224;7;6771;Eagle, pallas's fish
+1224;7;6771;Eagle, pallass fish
 1225;7;8478;Four-spotted skimmer
 1226;7;6339;Black and white colobus
-1227;7;1232;Gonolek, burchell's
+1227;7;1232;Gonolek, burchells
 1228;7;1451;African wild dog
 1229;7;5820;Lizard, desert spiny
 1230;7;1409;Snake (unidentified)
@@ -1258,7 +1258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1257;7;9316;Blue shark
 1258;7;8932;Feathertail glider
 1259;7;2662;Waxbill, violet-eared
-1260;7;852;Sloth, hoffman's
+1260;7;852;Sloth, hoffmans
 1261;7;5447;Barrows goldeneye
 1262;7;7260;Seal, northern elephant
 1263;7;6745;Waterbuck, common
@@ -1269,7 +1269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1268;7;443;Cormorant, javanese
 1269;7;8518;Common mynah
 1270;7;7591;Dunnart, fat-tailed
-1271;7;7205;Denham's bustard
+1271;7;7205;Denhams bustard
 1272;7;6118;Owl, madagascar hawk
 1273;7;7953;Brocket, red
 1274;7;824;Common eland
@@ -1300,7 +1300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1299;7;3298;Dabchick
 1300;7;939;Mongoose, small indian
 1301;7;4948;Flycatcher, tyrant
-1302;7;3561;Sifaka, verreaux's
+1302;7;3561;Sifaka, verreauxs
 1303;7;8116;Red-tailed hawk
 1304;7;7216;Small-toothed palm civet
 1305;7;9239;Marine iguana
@@ -1334,11 +1334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 1333;7;6394;Tammar wallaby
 1334;7;3508;Bandicoot, long-nosed
 1335;7;4861;Native cat
-1336;7;2722;Steller's sea lion
+1336;7;2722;Stellers sea lion
 1337;7;9339;American buffalo
 1338;7;1367;Killer whale
 1339;7;1523;Barbet, black-collared
-1340;7;416;Wallaby, bennett's
+1340;7;416;Wallaby, bennetts
 1341;7;1552;Grouse, sage
 1342;7;1052;Snowy sheathbill
 1343;7;4423;Eastern white pelican
@@ -1356,7 +1356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1355;7;3603;Owl, great horned
 1356;7;5974;Goose, greylag
 1357;7;1690;Blackish oystercatcher
-1358;7;727;Wallaby, bennett's
+1358;7;727;Wallaby, bennetts
 1359;7;7928;Currasow (unidentified)
 1360;7;8006;Tern, white-winged black
 1361;7;8660;Cape fox
@@ -1457,7 +1457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1456;7;7980;Small-toothed palm civet
 1457;7;8517;Stork, white-necked
 1458;7;2983;Ostrich
-1459;7;3878;Grant's gazelle
+1459;7;3878;Grants gazelle
 1460;7;3848;Dove, laughing
 1461;7;8897;Tasmanian devil
 1462;7;8136;Langur, gray
@@ -1491,7 +1491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1490;7;7528;Western bearded dragon
 1491;7;7918;Yellow-necked spurfowl
 1492;7;7233;Wallaby, agile
-1493;7;9727;Lion, steller's sea
+1493;7;9727;Lion, stellers sea
 1494;7;7104;Antelope, sable
 1495;7;4983;Bear, polar
 1496;7;2038;Red-winged blackbird
@@ -1502,7 +1502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1501;7;6999;Beaver, north american
 1502;7;2584;Mudskipper (unidentified)
 1503;7;5519;Dove, galapagos
-1504;7;1659;Denham's bustard
+1504;7;1659;Denhams bustard
 1505;7;1070;Two-banded monitor
 1506;7;7549;Common grenadier
 1507;7;3695;Colobus, white-mantled
@@ -1521,7 +1521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1520;7;8270;Goldeneye, barrows
 1521;7;8372;Yellow-headed caracara
 1522;7;2567;Saddle-billed stork
-1523;7;4557;Squirrel, richardson's ground
+1523;7;4557;Squirrel, richardsons ground
 1524;7;3968;Wolf, timber
 1525;7;5993;Blackbird, red-winged
 1526;7;8105;African red-eyed bulbul
@@ -1534,7 +1534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1533;7;6798;Rat, desert kangaroo
 1534;7;4505;Puku
 1535;7;7769;Square-lipped rhinoceros
-1536;7;4015;Pallas's fish eagle
+1536;7;4015;Pallass fish eagle
 1537;7;3364;Cape raven
 1538;7;8197;Monkey, vervet
 1539;7;5399;Openbill, asian
@@ -1549,22 +1549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 1548;7;9440;Pheasant, common
 1549;7;4266;Iguana, land
 1550;7;5170;Egret, cattle
-1551;7;8351;Thomson's gazelle
+1551;7;8351;Thomsons gazelle
 1552;7;8855;Cockatoo, slender-billed
 1553;7;3160;Kinkajou
 1554;7;8980;Cuis
 1555;7;4689;Squirrel, antelope ground
 1556;7;1864;Jungle cat
 1557;7;5907;Drongo, fork-tailed
-1558;7;8329;Pallas's fish eagle
+1558;7;8329;Pallass fish eagle
 1559;7;9463;Tiger snake
-1560;7;9120;Swainson's francolin
+1560;7;9120;Swainsons francolin
 1561;7;3507;Boat-billed heron
 1562;7;9117;Alligator, mississippi
 1563;7;251;Ferruginous hawk
 1564;7;5086;Rufous tree pie
 1565;7;8307;Giant otter
-1566;7;5222;Pallas's fish eagle
+1566;7;5222;Pallass fish eagle
 1567;7;7784;Malachite kingfisher
 1568;7;2101;Tiger
 1569;7;7390;Blackbuck
@@ -1598,7 +1598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1597;7;163;Marshbird, brown and yellow
 1598;7;3743;Blue and yellow macaw
 1599;7;9910;Hanuman langur
-1600;7;6625;Gazelle, grant's
+1600;7;6625;Gazelle, grants
 1601;7;6044;Giraffe
 1602;7;5956;Brown antechinus
 1603;7;4805;Common goldeneye
@@ -1713,7 +1713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1712;7;4917;Eastern grey kangaroo
 1713;7;1074;Lion, steller sea
 1714;7;969;Emerald green tree boa
-1715;7;5057;Dik, kirk's dik
+1715;7;5057;Dik, kirks dik
 1716;7;2903;Egret, snowy
 1717;7;763;Duck, blue
 1718;7;5049;Long-necked turtle
@@ -1737,14 +1737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 1736;7;4641;Mouse, four-striped grass
 1737;7;4084;Galah
 1738;7;5709;Crested bunting
-1739;7;3330;Gambel's quail
+1739;7;3330;Gambels quail
 1740;7;5230;Crow, american
 1741;7;5840;Gray langur
 1742;7;6191;Yellow-billed hornbill
 1743;7;4000;White-mantled colobus
 1744;7;1190;Weaver, red-billed buffalo
 1745;7;6057;Mouse, four-striped grass
-1746;7;8919;Gazelle, grant's
+1746;7;8919;Gazelle, grants
 1747;7;6695;Southern right whale
 1748;7;8785;Boubou, southern
 1749;7;3876;American racer
@@ -1814,7 +1814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1813;7;1012;Amazon parrot (unidentified)
 1814;7;938;Bird, secretary
 1815;7;6304;Southern hairy-nosed wombat
-1816;7;1081;Zorro, azara's
+1816;7;1081;Zorro, azaras
 1817;7;6861;Fox, savanna
 1818;7;6739;Raccoon dog
 1819;7;2370;Tyrant flycatcher
@@ -1832,12 +1832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 1831;7;8637;Finch, common melba
 1832;7;7458;Paradoxure
 1833;7;4081;Water moccasin
-1834;7;8286;Hartebeest, coke's
+1834;7;8286;Hartebeest, cokes
 1835;7;6094;Skua, long-tailed
 1836;7;3139;African ground squirrel (unidentified)
 1837;7;2214;Laughing kookaburra
 1838;7;5901;Boubou, southern
-1839;7;2563;Gonolek, burchell's
+1839;7;2563;Gonolek, burchells
 1840;7;4113;Great kiskadee
 1841;7;6867;Squirrel, nelson ground
 1842;7;1893;Vervet monkey
@@ -1871,7 +1871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1870;7;392;Arctic ground squirrel
 1871;7;3183;Vervet monkey
 1872;7;8469;Giant heron
-1873;7;7510;Richardson's ground squirrel
+1873;7;7510;Richardsons ground squirrel
 1874;7;3443;Yellow-throated sandgrouse
 1875;7;2593;American bighorn sheep
 1876;7;4089;Devil, tasmanian
@@ -1902,7 +1902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1901;7;4801;Zebra, common
 1902;7;4521;Black-crowned crane
 1903;7;4630;Striped dolphin
-1904;7;5664;Hoffman's sloth
+1904;7;5664;Hoffmans sloth
 1905;7;5333;Red-breasted cockatoo
 1906;7;8728;Beaver, north american
 1907;7;425;Blue racer
@@ -1961,7 +1961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 1960;7;1428;Cape white-eye
 1961;7;5872;Blue racer
 1962;7;9719;Cape cobra
-1963;7;8417;Boa, cook's tree
+1963;7;8417;Boa, cooks tree
 1964;7;1895;Bush dog
 1965;7;8363;Sungazer, yellow-brown
 1966;7;8120;Shrike, crimson-breasted
@@ -2035,7 +2035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2034;7;5096;Gull, pacific
 2035;7;2822;Pale-throated three-toed sloth
 2036;7;9398;Red meerkat
-2037;7;3112;Azara's zorro
+2037;7;3112;Azaras zorro
 2038;7;2395;Woodrat (unidentified)
 2039;7;668;Pelican, eastern white
 2040;7;8396;Black kite
@@ -2120,8 +2120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 2119;7;2490;Pademelon, red-legged
 2120;7;8485;Great white pelican
 2121;7;9613;Rhea, gray
-2122;7;6057;Lion, steller's sea
-2123;7;8900;Lion, steller's sea
+2122;7;6057;Lion, stellers sea
+2123;7;8900;Lion, stellers sea
 2124;7;3334;Badger, american
 2125;7;5608;Springbuck
 2126;7;3672;Lemur, sportive
@@ -2151,11 +2151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 2150;7;9342;Rattlesnake, dusky
 2151;7;7598;Lizard, giant girdled
 2152;7;7467;Bird, secretary
-2153;7;6617;Lion, steller's sea
+2153;7;6617;Lion, stellers sea
 2154;7;4582;Gecko (unidentified)
 2155;7;7255;Mountain lion
 2156;7;999;Green-backed heron
-2157;7;3199;Lion, steller's sea
+2157;7;3199;Lion, stellers sea
 2158;7;3740;Kangaroo, red
 2159;7;5955;Blackbird, red-winged
 2160;7;3775;Pied crow
@@ -2194,7 +2194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2193;7;4615;Arctic hare
 2194;7;7962;Bird, magnificent frigate
 2195;7;7805;Squirrel, malabar
-2196;7;6749;Verreaux's sifaka
+2196;7;6749;Verreauxs sifaka
 2197;7;9338;Grey lourie
 2198;7;8644;Partridge, coqui
 2199;7;9324;Suricate
@@ -2222,10 +2222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 2221;7;2942;Wattled crane
 2222;7;4427;Southern ground hornbill
 2223;7;6731;Booby, blue-footed
-2224;7;8809;Eagle, pallas's fish
+2224;7;8809;Eagle, pallass fish
 2225;7;8712;Four-spotted skimmer
 2226;7;7966;Black and white colobus
-2227;7;9388;Gonolek, burchell's
+2227;7;9388;Gonolek, burchells
 2228;7;1115;African wild dog
 2229;7;4262;Lizard, desert spiny
 2230;7;2200;Snake (unidentified)
@@ -2258,7 +2258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2257;7;1894;Blue shark
 2258;7;9930;Feathertail glider
 2259;7;3909;Waxbill, violet-eared
-2260;7;3766;Sloth, hoffman's
+2260;7;3766;Sloth, hoffmans
 2261;7;5129;Barrows goldeneye
 2262;7;2082;Seal, northern elephant
 2263;7;1880;Waterbuck, common
@@ -2269,7 +2269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2268;7;7668;Cormorant, javanese
 2269;7;4530;Common mynah
 2270;7;9837;Dunnart, fat-tailed
-2271;7;5242;Denham's bustard
+2271;7;5242;Denhams bustard
 2272;7;4875;Owl, madagascar hawk
 2273;7;3873;Brocket, red
 2274;7;1898;Common eland
@@ -2300,7 +2300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2299;7;4572;Dabchick
 2300;7;6852;Mongoose, small indian
 2301;7;1617;Flycatcher, tyrant
-2302;7;6851;Sifaka, verreaux's
+2302;7;6851;Sifaka, verreauxs
 2303;7;5668;Red-tailed hawk
 2304;7;5968;Small-toothed palm civet
 2305;7;6088;Marine iguana
@@ -2334,11 +2334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 2333;7;4235;Tammar wallaby
 2334;7;982;Bandicoot, long-nosed
 2335;7;8973;Native cat
-2336;7;2468;Steller's sea lion
+2336;7;2468;Stellers sea lion
 2337;7;1082;American buffalo
 2338;7;9399;Killer whale
 2339;7;3882;Barbet, black-collared
-2340;7;8089;Wallaby, bennett's
+2340;7;8089;Wallaby, bennetts
 2341;7;5979;Grouse, sage
 2342;7;9670;Snowy sheathbill
 2343;7;7642;Eastern white pelican
@@ -2356,7 +2356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2355;7;4622;Owl, great horned
 2356;7;2635;Goose, greylag
 2357;7;9200;Blackish oystercatcher
-2358;7;5799;Wallaby, bennett's
+2358;7;5799;Wallaby, bennetts
 2359;7;3202;Currasow (unidentified)
 2360;7;630;Tern, white-winged black
 2361;7;250;Cape fox
@@ -2457,7 +2457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2456;7;7594;Small-toothed palm civet
 2457;7;5811;Stork, white-necked
 2458;7;795;Ostrich
-2459;7;1119;Grant's gazelle
+2459;7;1119;Grants gazelle
 2460;7;4562;Dove, laughing
 2461;7;4854;Tasmanian devil
 2462;7;3253;Langur, gray
@@ -2491,7 +2491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2490;7;1167;Western bearded dragon
 2491;7;4282;Yellow-necked spurfowl
 2492;7;3039;Wallaby, agile
-2493;7;7316;Lion, steller's sea
+2493;7;7316;Lion, stellers sea
 2494;7;9773;Antelope, sable
 2495;7;8018;Bear, polar
 2496;7;2979;Red-winged blackbird
@@ -2502,7 +2502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2501;7;759;Beaver, north american
 2502;7;180;Mudskipper (unidentified)
 2503;7;9279;Dove, galapagos
-2504;7;7984;Denham's bustard
+2504;7;7984;Denhams bustard
 2505;7;2867;Two-banded monitor
 2506;7;810;Common grenadier
 2507;7;5178;Colobus, white-mantled
@@ -2521,7 +2521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2520;7;1485;Goldeneye, barrows
 2521;7;1564;Yellow-headed caracara
 2522;7;8271;Saddle-billed stork
-2523;7;3052;Squirrel, richardson's ground
+2523;7;3052;Squirrel, richardsons ground
 2524;7;2740;Wolf, timber
 2525;7;8552;Blackbird, red-winged
 2526;7;2532;African red-eyed bulbul
@@ -2534,7 +2534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2533;7;1938;Rat, desert kangaroo
 2534;7;5682;Puku
 2535;7;4105;Square-lipped rhinoceros
-2536;7;273;Pallas's fish eagle
+2536;7;273;Pallass fish eagle
 2537;7;2496;Cape raven
 2538;7;9670;Monkey, vervet
 2539;7;3779;Openbill, asian
@@ -2549,22 +2549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 2548;7;6269;Pheasant, common
 2549;7;5508;Iguana, land
 2550;7;3985;Egret, cattle
-2551;7;5424;Thomson's gazelle
+2551;7;5424;Thomsons gazelle
 2552;7;2432;Cockatoo, slender-billed
 2553;7;6497;Kinkajou
 2554;7;5924;Cuis
 2555;7;3515;Squirrel, antelope ground
 2556;7;7890;Jungle cat
 2557;7;5876;Drongo, fork-tailed
-2558;7;6566;Pallas's fish eagle
+2558;7;6566;Pallass fish eagle
 2559;7;1753;Tiger snake
-2560;7;3333;Swainson's francolin
+2560;7;3333;Swainsons francolin
 2561;7;1978;Boat-billed heron
 2562;7;4469;Alligator, mississippi
 2563;7;4838;Ferruginous hawk
 2564;7;954;Rufous tree pie
 2565;7;8382;Giant otter
-2566;7;3786;Pallas's fish eagle
+2566;7;3786;Pallass fish eagle
 2567;7;3309;Malachite kingfisher
 2568;7;2795;Tiger
 2569;7;6782;Blackbuck
@@ -2598,7 +2598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2597;7;2544;Marshbird, brown and yellow
 2598;7;4979;Blue and yellow macaw
 2599;7;9070;Hanuman langur
-2600;7;6480;Gazelle, grant's
+2600;7;6480;Gazelle, grants
 2601;7;7793;Giraffe
 2602;7;3453;Brown antechinus
 2603;7;4698;Common goldeneye
@@ -2713,7 +2713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2712;7;2383;Eastern grey kangaroo
 2713;7;7276;Lion, steller sea
 2714;7;3554;Emerald green tree boa
-2715;7;3328;Dik, kirk's dik
+2715;7;3328;Dik, kirks dik
 2716;7;6910;Egret, snowy
 2717;7;5385;Duck, blue
 2718;7;6012;Long-necked turtle
@@ -2737,14 +2737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 2736;7;8083;Mouse, four-striped grass
 2737;7;8975;Galah
 2738;7;4764;Crested bunting
-2739;7;7171;Gambel's quail
+2739;7;7171;Gambels quail
 2740;7;2539;Crow, american
 2741;7;7149;Gray langur
 2742;7;7341;Yellow-billed hornbill
 2743;7;4066;White-mantled colobus
 2744;7;3110;Weaver, red-billed buffalo
 2745;7;9827;Mouse, four-striped grass
-2746;7;356;Gazelle, grant's
+2746;7;356;Gazelle, grants
 2747;7;9336;Southern right whale
 2748;7;496;Boubou, southern
 2749;7;3420;American racer
@@ -2814,7 +2814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2813;7;957;Amazon parrot (unidentified)
 2814;7;964;Bird, secretary
 2815;7;5463;Southern hairy-nosed wombat
-2816;7;8696;Zorro, azara's
+2816;7;8696;Zorro, azaras
 2817;7;8620;Fox, savanna
 2818;7;9185;Raccoon dog
 2819;7;6377;Tyrant flycatcher
@@ -2832,12 +2832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 2831;7;5982;Finch, common melba
 2832;7;3095;Paradoxure
 2833;7;4802;Water moccasin
-2834;7;1766;Hartebeest, coke's
+2834;7;1766;Hartebeest, cokes
 2835;7;9621;Skua, long-tailed
 2836;7;2790;African ground squirrel (unidentified)
 2837;7;8159;Laughing kookaburra
 2838;7;4587;Boubou, southern
-2839;7;4509;Gonolek, burchell's
+2839;7;4509;Gonolek, burchells
 2840;7;162;Great kiskadee
 2841;7;9055;Squirrel, nelson ground
 2842;7;8750;Vervet monkey
@@ -2871,7 +2871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2870;7;9574;Arctic ground squirrel
 2871;7;7721;Vervet monkey
 2872;7;837;Giant heron
-2873;7;8627;Richardson's ground squirrel
+2873;7;8627;Richardsons ground squirrel
 2874;7;9063;Yellow-throated sandgrouse
 2875;7;1493;American bighorn sheep
 2876;7;4457;Devil, tasmanian
@@ -2902,7 +2902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2901;7;4552;Zebra, common
 2902;7;4487;Black-crowned crane
 2903;7;7427;Striped dolphin
-2904;7;8246;Hoffman's sloth
+2904;7;8246;Hoffmans sloth
 2905;7;1684;Red-breasted cockatoo
 2906;7;7525;Beaver, north american
 2907;7;2607;Blue racer
@@ -2961,7 +2961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 2960;7;3359;Cape white-eye
 2961;7;620;Blue racer
 2962;7;5460;Cape cobra
-2963;7;228;Boa, cook's tree
+2963;7;228;Boa, cooks tree
 2964;7;674;Bush dog
 2965;7;9707;Sungazer, yellow-brown
 2966;7;743;Shrike, crimson-breasted
@@ -3035,7 +3035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3034;7;4991;Gull, pacific
 3035;7;8181;Pale-throated three-toed sloth
 3036;7;6986;Red meerkat
-3037;7;8096;Azara's zorro
+3037;7;8096;Azaras zorro
 3038;7;6364;Woodrat (unidentified)
 3039;7;6071;Pelican, eastern white
 3040;7;7216;Black kite
@@ -3120,8 +3120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 3119;7;5506;Pademelon, red-legged
 3120;7;3121;Great white pelican
 3121;7;4784;Rhea, gray
-3122;7;1445;Lion, steller's sea
-3123;7;180;Lion, steller's sea
+3122;7;1445;Lion, stellers sea
+3123;7;180;Lion, stellers sea
 3124;7;4097;Badger, american
 3125;7;2219;Springbuck
 3126;7;3058;Lemur, sportive
@@ -3151,11 +3151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 3150;7;1228;Rattlesnake, dusky
 3151;7;3465;Lizard, giant girdled
 3152;7;5555;Bird, secretary
-3153;7;8953;Lion, steller's sea
+3153;7;8953;Lion, stellers sea
 3154;7;1901;Gecko (unidentified)
 3155;7;5783;Mountain lion
 3156;7;7130;Green-backed heron
-3157;7;3210;Lion, steller's sea
+3157;7;3210;Lion, stellers sea
 3158;7;3127;Kangaroo, red
 3159;7;6140;Blackbird, red-winged
 3160;7;6751;Pied crow
@@ -3194,7 +3194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3193;7;4521;Arctic hare
 3194;7;5861;Bird, magnificent frigate
 3195;7;7885;Squirrel, malabar
-3196;7;8030;Verreaux's sifaka
+3196;7;8030;Verreauxs sifaka
 3197;7;649;Grey lourie
 3198;7;4587;Partridge, coqui
 3199;7;908;Suricate
@@ -3222,10 +3222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 3221;7;7156;Wattled crane
 3222;7;3640;Southern ground hornbill
 3223;7;3651;Booby, blue-footed
-3224;7;9811;Eagle, pallas's fish
+3224;7;9811;Eagle, pallass fish
 3225;7;6894;Four-spotted skimmer
 3226;7;80;Black and white colobus
-3227;7;9582;Gonolek, burchell's
+3227;7;9582;Gonolek, burchells
 3228;7;9344;African wild dog
 3229;7;8158;Lizard, desert spiny
 3230;7;1225;Snake (unidentified)
@@ -3258,7 +3258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3257;7;3634;Blue shark
 3258;7;6935;Feathertail glider
 3259;7;2701;Waxbill, violet-eared
-3260;7;6050;Sloth, hoffman's
+3260;7;6050;Sloth, hoffmans
 3261;7;4499;Barrows goldeneye
 3262;7;7020;Seal, northern elephant
 3263;7;8702;Waterbuck, common
@@ -3269,7 +3269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3268;7;4558;Cormorant, javanese
 3269;7;816;Common mynah
 3270;7;9850;Dunnart, fat-tailed
-3271;7;6832;Denham's bustard
+3271;7;6832;Denhams bustard
 3272;7;2262;Owl, madagascar hawk
 3273;7;2035;Brocket, red
 3274;7;8236;Common eland
@@ -3300,7 +3300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3299;7;4394;Dabchick
 3300;7;117;Mongoose, small indian
 3301;7;107;Flycatcher, tyrant
-3302;7;8929;Sifaka, verreaux's
+3302;7;8929;Sifaka, verreauxs
 3303;7;5418;Red-tailed hawk
 3304;7;3128;Small-toothed palm civet
 3305;7;5582;Marine iguana
@@ -3334,11 +3334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 3333;7;1433;Tammar wallaby
 3334;7;864;Bandicoot, long-nosed
 3335;7;1338;Native cat
-3336;7;5611;Steller's sea lion
+3336;7;5611;Stellers sea lion
 3337;7;9375;American buffalo
 3338;7;8579;Killer whale
 3339;7;9592;Barbet, black-collared
-3340;7;5597;Wallaby, bennett's
+3340;7;5597;Wallaby, bennetts
 3341;7;2873;Grouse, sage
 3342;7;6628;Snowy sheathbill
 3343;7;3852;Eastern white pelican
@@ -3356,7 +3356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3355;7;6646;Owl, great horned
 3356;7;8705;Goose, greylag
 3357;7;8434;Blackish oystercatcher
-3358;7;452;Wallaby, bennett's
+3358;7;452;Wallaby, bennetts
 3359;7;2900;Currasow (unidentified)
 3360;7;1456;Tern, white-winged black
 3361;7;6879;Cape fox
@@ -3457,7 +3457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3456;7;5470;Small-toothed palm civet
 3457;7;2853;Stork, white-necked
 3458;7;5159;Ostrich
-3459;7;5479;Grant's gazelle
+3459;7;5479;Grants gazelle
 3460;7;1405;Dove, laughing
 3461;7;9703;Tasmanian devil
 3462;7;1372;Langur, gray
@@ -3491,7 +3491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3490;7;1400;Western bearded dragon
 3491;7;1239;Yellow-necked spurfowl
 3492;7;5864;Wallaby, agile
-3493;7;2674;Lion, steller's sea
+3493;7;2674;Lion, stellers sea
 3494;7;2647;Antelope, sable
 3495;7;328;Bear, polar
 3496;7;2405;Red-winged blackbird
@@ -3502,7 +3502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3501;7;9444;Beaver, north american
 3502;7;4092;Mudskipper (unidentified)
 3503;7;2305;Dove, galapagos
-3504;7;2568;Denham's bustard
+3504;7;2568;Denhams bustard
 3505;7;307;Two-banded monitor
 3506;7;5213;Common grenadier
 3507;7;2152;Colobus, white-mantled
@@ -3521,7 +3521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3520;7;1606;Goldeneye, barrows
 3521;7;7174;Yellow-headed caracara
 3522;7;3757;Saddle-billed stork
-3523;7;3015;Squirrel, richardson's ground
+3523;7;3015;Squirrel, richardsons ground
 3524;7;7948;Wolf, timber
 3525;7;4885;Blackbird, red-winged
 3526;7;6403;African red-eyed bulbul
@@ -3534,7 +3534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3533;7;1904;Rat, desert kangaroo
 3534;7;7675;Puku
 3535;7;131;Square-lipped rhinoceros
-3536;7;4244;Pallas's fish eagle
+3536;7;4244;Pallass fish eagle
 3537;7;3350;Cape raven
 3538;7;3884;Monkey, vervet
 3539;7;3026;Openbill, asian
@@ -3549,22 +3549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 3548;7;8494;Pheasant, common
 3549;7;3143;Iguana, land
 3550;7;893;Egret, cattle
-3551;7;3715;Thomson's gazelle
+3551;7;3715;Thomsons gazelle
 3552;7;9977;Cockatoo, slender-billed
 3553;7;792;Kinkajou
 3554;7;4309;Cuis
 3555;7;620;Squirrel, antelope ground
 3556;7;9585;Jungle cat
 3557;7;7080;Drongo, fork-tailed
-3558;7;6570;Pallas's fish eagle
+3558;7;6570;Pallass fish eagle
 3559;7;3193;Tiger snake
-3560;7;124;Swainson's francolin
+3560;7;124;Swainsons francolin
 3561;7;4682;Boat-billed heron
 3562;7;2344;Alligator, mississippi
 3563;7;4121;Ferruginous hawk
 3564;7;7873;Rufous tree pie
 3565;7;7214;Giant otter
-3566;7;1661;Pallas's fish eagle
+3566;7;1661;Pallass fish eagle
 3567;7;2704;Malachite kingfisher
 3568;7;7723;Tiger
 3569;7;9758;Blackbuck
@@ -3598,7 +3598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3597;7;7878;Marshbird, brown and yellow
 3598;7;4371;Blue and yellow macaw
 3599;7;2149;Hanuman langur
-3600;7;4019;Gazelle, grant's
+3600;7;4019;Gazelle, grants
 3601;7;6423;Giraffe
 3602;7;6325;Brown antechinus
 3603;7;9703;Common goldeneye
@@ -3713,7 +3713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3712;7;9103;Eastern grey kangaroo
 3713;7;2975;Lion, steller sea
 3714;7;8225;Emerald green tree boa
-3715;7;2780;Dik, kirk's dik
+3715;7;2780;Dik, kirks dik
 3716;7;6219;Egret, snowy
 3717;7;1600;Duck, blue
 3718;7;8725;Long-necked turtle
@@ -3737,14 +3737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 3736;7;6740;Mouse, four-striped grass
 3737;7;7975;Galah
 3738;7;4855;Crested bunting
-3739;7;9900;Gambel's quail
+3739;7;9900;Gambels quail
 3740;7;8216;Crow, american
 3741;7;1034;Gray langur
 3742;7;9437;Yellow-billed hornbill
 3743;7;3697;White-mantled colobus
 3744;7;5637;Weaver, red-billed buffalo
 3745;7;6941;Mouse, four-striped grass
-3746;7;8753;Gazelle, grant's
+3746;7;8753;Gazelle, grants
 3747;7;1105;Southern right whale
 3748;7;5438;Boubou, southern
 3749;7;340;American racer
@@ -3814,7 +3814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3813;7;6112;Amazon parrot (unidentified)
 3814;7;3788;Bird, secretary
 3815;7;544;Southern hairy-nosed wombat
-3816;7;3452;Zorro, azara's
+3816;7;3452;Zorro, azaras
 3817;7;4932;Fox, savanna
 3818;7;8515;Raccoon dog
 3819;7;1937;Tyrant flycatcher
@@ -3832,12 +3832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 3831;7;7650;Finch, common melba
 3832;7;2359;Paradoxure
 3833;7;1125;Water moccasin
-3834;7;7327;Hartebeest, coke's
+3834;7;7327;Hartebeest, cokes
 3835;7;3236;Skua, long-tailed
 3836;7;3447;African ground squirrel (unidentified)
 3837;7;7158;Laughing kookaburra
 3838;7;7898;Boubou, southern
-3839;7;9298;Gonolek, burchell's
+3839;7;9298;Gonolek, burchells
 3840;7;345;Great kiskadee
 3841;7;1287;Squirrel, nelson ground
 3842;7;8810;Vervet monkey
@@ -3871,7 +3871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3870;7;8651;Arctic ground squirrel
 3871;7;3764;Vervet monkey
 3872;7;6870;Giant heron
-3873;7;555;Richardson's ground squirrel
+3873;7;555;Richardsons ground squirrel
 3874;7;7039;Yellow-throated sandgrouse
 3875;7;9256;American bighorn sheep
 3876;7;3442;Devil, tasmanian
@@ -3902,7 +3902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3901;7;2497;Zebra, common
 3902;7;2568;Black-crowned crane
 3903;7;6670;Striped dolphin
-3904;7;6602;Hoffman's sloth
+3904;7;6602;Hoffmans sloth
 3905;7;2490;Red-breasted cockatoo
 3906;7;7562;Beaver, north american
 3907;7;8011;Blue racer
@@ -3961,7 +3961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 3960;7;5254;Cape white-eye
 3961;7;8088;Blue racer
 3962;7;7375;Cape cobra
-3963;7;5033;Boa, cook's tree
+3963;7;5033;Boa, cooks tree
 3964;7;4234;Bush dog
 3965;7;9071;Sungazer, yellow-brown
 3966;7;7483;Shrike, crimson-breasted
@@ -4035,7 +4035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4034;7;6002;Gull, pacific
 4035;7;4047;Pale-throated three-toed sloth
 4036;7;7327;Red meerkat
-4037;7;7206;Azara's zorro
+4037;7;7206;Azaras zorro
 4038;7;764;Woodrat (unidentified)
 4039;7;4033;Pelican, eastern white
 4040;7;6741;Black kite
@@ -4120,8 +4120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 4119;7;4835;Pademelon, red-legged
 4120;7;6461;Great white pelican
 4121;7;6183;Rhea, gray
-4122;7;2207;Lion, steller's sea
-4123;7;9862;Lion, steller's sea
+4122;7;2207;Lion, stellers sea
+4123;7;9862;Lion, stellers sea
 4124;7;5812;Badger, american
 4125;7;8655;Springbuck
 4126;7;9251;Lemur, sportive
@@ -4151,11 +4151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 4150;7;3825;Rattlesnake, dusky
 4151;7;4566;Lizard, giant girdled
 4152;7;4789;Bird, secretary
-4153;7;5664;Lion, steller's sea
+4153;7;5664;Lion, stellers sea
 4154;7;3213;Gecko (unidentified)
 4155;7;4597;Mountain lion
 4156;7;7433;Green-backed heron
-4157;7;904;Lion, steller's sea
+4157;7;904;Lion, stellers sea
 4158;7;7981;Kangaroo, red
 4159;7;7231;Blackbird, red-winged
 4160;7;4678;Pied crow
@@ -4194,7 +4194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4193;7;210;Arctic hare
 4194;7;5524;Bird, magnificent frigate
 4195;7;6082;Squirrel, malabar
-4196;7;5820;Verreaux's sifaka
+4196;7;5820;Verreauxs sifaka
 4197;7;3339;Grey lourie
 4198;7;137;Partridge, coqui
 4199;7;3595;Suricate
@@ -4222,10 +4222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 4221;7;6310;Wattled crane
 4222;7;1886;Southern ground hornbill
 4223;7;3316;Booby, blue-footed
-4224;7;2107;Eagle, pallas's fish
+4224;7;2107;Eagle, pallass fish
 4225;7;540;Four-spotted skimmer
 4226;7;7521;Black and white colobus
-4227;7;1757;Gonolek, burchell's
+4227;7;1757;Gonolek, burchells
 4228;7;4867;African wild dog
 4229;7;204;Lizard, desert spiny
 4230;7;5633;Snake (unidentified)
@@ -4258,7 +4258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4257;7;8199;Blue shark
 4258;7;6249;Feathertail glider
 4259;7;5434;Waxbill, violet-eared
-4260;7;6361;Sloth, hoffman's
+4260;7;6361;Sloth, hoffmans
 4261;7;5382;Barrows goldeneye
 4262;7;1157;Seal, northern elephant
 4263;7;9894;Waterbuck, common
@@ -4269,7 +4269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4268;7;3066;Cormorant, javanese
 4269;7;5862;Common mynah
 4270;7;391;Dunnart, fat-tailed
-4271;7;8795;Denham's bustard
+4271;7;8795;Denhams bustard
 4272;7;6425;Owl, madagascar hawk
 4273;7;3596;Brocket, red
 4274;7;4080;Common eland
@@ -4300,7 +4300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4299;7;7273;Dabchick
 4300;7;6877;Mongoose, small indian
 4301;7;5017;Flycatcher, tyrant
-4302;7;8968;Sifaka, verreaux's
+4302;7;8968;Sifaka, verreauxs
 4303;7;6079;Red-tailed hawk
 4304;7;9316;Small-toothed palm civet
 4305;7;5644;Marine iguana
@@ -4334,11 +4334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 4333;7;4102;Tammar wallaby
 4334;7;2673;Bandicoot, long-nosed
 4335;7;7973;Native cat
-4336;7;4772;Steller's sea lion
+4336;7;4772;Stellers sea lion
 4337;7;9816;American buffalo
 4338;7;3306;Killer whale
 4339;7;3380;Barbet, black-collared
-4340;7;7976;Wallaby, bennett's
+4340;7;7976;Wallaby, bennetts
 4341;7;935;Grouse, sage
 4342;7;3694;Snowy sheathbill
 4343;7;7930;Eastern white pelican
@@ -4356,7 +4356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4355;7;689;Owl, great horned
 4356;7;8558;Goose, greylag
 4357;7;6473;Blackish oystercatcher
-4358;7;8498;Wallaby, bennett's
+4358;7;8498;Wallaby, bennetts
 4359;7;9480;Currasow (unidentified)
 4360;7;6583;Tern, white-winged black
 4361;7;9421;Cape fox
@@ -4457,7 +4457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4456;7;1291;Small-toothed palm civet
 4457;7;3625;Stork, white-necked
 4458;7;4036;Ostrich
-4459;7;6083;Grant's gazelle
+4459;7;6083;Grants gazelle
 4460;7;2073;Dove, laughing
 4461;7;6855;Tasmanian devil
 4462;7;8713;Langur, gray
@@ -4491,7 +4491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4490;7;2829;Western bearded dragon
 4491;7;368;Yellow-necked spurfowl
 4492;7;7859;Wallaby, agile
-4493;7;2736;Lion, steller's sea
+4493;7;2736;Lion, stellers sea
 4494;7;5545;Antelope, sable
 4495;7;7382;Bear, polar
 4496;7;6577;Red-winged blackbird
@@ -4502,7 +4502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4501;7;6397;Beaver, north american
 4502;7;422;Mudskipper (unidentified)
 4503;7;4604;Dove, galapagos
-4504;7;2985;Denham's bustard
+4504;7;2985;Denhams bustard
 4505;7;450;Two-banded monitor
 4506;7;5386;Common grenadier
 4507;7;9797;Colobus, white-mantled
@@ -4521,7 +4521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4520;7;1796;Goldeneye, barrows
 4521;7;4986;Yellow-headed caracara
 4522;7;5175;Saddle-billed stork
-4523;7;7832;Squirrel, richardson's ground
+4523;7;7832;Squirrel, richardsons ground
 4524;7;4401;Wolf, timber
 4525;7;2802;Blackbird, red-winged
 4526;7;4994;African red-eyed bulbul
@@ -4534,7 +4534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4533;7;3768;Rat, desert kangaroo
 4534;7;5962;Puku
 4535;7;9883;Square-lipped rhinoceros
-4536;7;4031;Pallas's fish eagle
+4536;7;4031;Pallass fish eagle
 4537;7;2566;Cape raven
 4538;7;5300;Monkey, vervet
 4539;7;3460;Openbill, asian
@@ -4549,22 +4549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 4548;7;7776;Pheasant, common
 4549;7;1818;Iguana, land
 4550;7;8237;Egret, cattle
-4551;7;5983;Thomson's gazelle
+4551;7;5983;Thomsons gazelle
 4552;7;3907;Cockatoo, slender-billed
 4553;7;9166;Kinkajou
 4554;7;9841;Cuis
 4555;7;7072;Squirrel, antelope ground
 4556;7;7916;Jungle cat
 4557;7;7503;Drongo, fork-tailed
-4558;7;2492;Pallas's fish eagle
+4558;7;2492;Pallass fish eagle
 4559;7;7048;Tiger snake
-4560;7;4071;Swainson's francolin
+4560;7;4071;Swainsons francolin
 4561;7;9791;Boat-billed heron
 4562;7;4934;Alligator, mississippi
 4563;7;4085;Ferruginous hawk
 4564;7;546;Rufous tree pie
 4565;7;406;Giant otter
-4566;7;9983;Pallas's fish eagle
+4566;7;9983;Pallass fish eagle
 4567;7;4931;Malachite kingfisher
 4568;7;5424;Tiger
 4569;7;2545;Blackbuck
@@ -4598,7 +4598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4597;7;5354;Marshbird, brown and yellow
 4598;7;7280;Blue and yellow macaw
 4599;7;6432;Hanuman langur
-4600;7;2926;Gazelle, grant's
+4600;7;2926;Gazelle, grants
 4601;7;1560;Giraffe
 4602;7;7625;Brown antechinus
 4603;7;503;Common goldeneye
@@ -4713,7 +4713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4712;7;2816;Eastern grey kangaroo
 4713;7;7326;Lion, steller sea
 4714;7;7121;Emerald green tree boa
-4715;7;7338;Dik, kirk's dik
+4715;7;7338;Dik, kirks dik
 4716;7;2064;Egret, snowy
 4717;7;8742;Duck, blue
 4718;7;8765;Long-necked turtle
@@ -4737,14 +4737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 4736;7;6103;Mouse, four-striped grass
 4737;7;8085;Galah
 4738;7;1377;Crested bunting
-4739;7;751;Gambel's quail
+4739;7;751;Gambels quail
 4740;7;5567;Crow, american
 4741;7;3204;Gray langur
 4742;7;2435;Yellow-billed hornbill
 4743;7;2164;White-mantled colobus
 4744;7;5654;Weaver, red-billed buffalo
 4745;7;8495;Mouse, four-striped grass
-4746;7;7173;Gazelle, grant's
+4746;7;7173;Gazelle, grants
 4747;7;2658;Southern right whale
 4748;7;8489;Boubou, southern
 4749;7;1341;American racer
@@ -4814,7 +4814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4813;7;4041;Amazon parrot (unidentified)
 4814;7;1716;Bird, secretary
 4815;7;7697;Southern hairy-nosed wombat
-4816;7;1692;Zorro, azara's
+4816;7;1692;Zorro, azaras
 4817;7;1459;Fox, savanna
 4818;7;7576;Raccoon dog
 4819;7;7015;Tyrant flycatcher
@@ -4832,12 +4832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 4831;7;7662;Finch, common melba
 4832;7;9295;Paradoxure
 4833;7;9581;Water moccasin
-4834;7;5952;Hartebeest, coke's
+4834;7;5952;Hartebeest, cokes
 4835;7;8169;Skua, long-tailed
 4836;7;800;African ground squirrel (unidentified)
 4837;7;6410;Laughing kookaburra
 4838;7;7256;Boubou, southern
-4839;7;2471;Gonolek, burchell's
+4839;7;2471;Gonolek, burchells
 4840;7;396;Great kiskadee
 4841;7;4942;Squirrel, nelson ground
 4842;7;8997;Vervet monkey
@@ -4871,7 +4871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4870;7;8886;Arctic ground squirrel
 4871;7;1737;Vervet monkey
 4872;7;6048;Giant heron
-4873;7;1157;Richardson's ground squirrel
+4873;7;1157;Richardsons ground squirrel
 4874;7;7691;Yellow-throated sandgrouse
 4875;7;9740;American bighorn sheep
 4876;7;4615;Devil, tasmanian
@@ -4902,7 +4902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4901;7;1174;Zebra, common
 4902;7;6422;Black-crowned crane
 4903;7;6353;Striped dolphin
-4904;7;8796;Hoffman's sloth
+4904;7;8796;Hoffmans sloth
 4905;7;469;Red-breasted cockatoo
 4906;7;7617;Beaver, north american
 4907;7;2560;Blue racer
@@ -4961,7 +4961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 4960;7;3070;Cape white-eye
 4961;7;1954;Blue racer
 4962;7;8469;Cape cobra
-4963;7;6568;Boa, cook's tree
+4963;7;6568;Boa, cooks tree
 4964;7;4809;Bush dog
 4965;7;4289;Sungazer, yellow-brown
 4966;7;2756;Shrike, crimson-breasted
@@ -5035,7 +5035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5034;7;1577;Gull, pacific
 5035;7;7799;Pale-throated three-toed sloth
 5036;7;3536;Red meerkat
-5037;7;6636;Azara's zorro
+5037;7;6636;Azaras zorro
 5038;7;5798;Woodrat (unidentified)
 5039;7;8576;Pelican, eastern white
 5040;7;957;Black kite
@@ -5120,8 +5120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 5119;7;2167;Pademelon, red-legged
 5120;7;9357;Great white pelican
 5121;7;1402;Rhea, gray
-5122;7;9400;Lion, steller's sea
-5123;7;8367;Lion, steller's sea
+5122;7;9400;Lion, stellers sea
+5123;7;8367;Lion, stellers sea
 5124;7;565;Badger, american
 5125;7;7209;Springbuck
 5126;7;4458;Lemur, sportive
@@ -5151,11 +5151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 5150;7;8621;Rattlesnake, dusky
 5151;7;6772;Lizard, giant girdled
 5152;7;3969;Bird, secretary
-5153;7;4227;Lion, steller's sea
+5153;7;4227;Lion, stellers sea
 5154;7;5375;Gecko (unidentified)
 5155;7;2278;Mountain lion
 5156;7;6807;Green-backed heron
-5157;7;1781;Lion, steller's sea
+5157;7;1781;Lion, stellers sea
 5158;7;2347;Kangaroo, red
 5159;7;1849;Blackbird, red-winged
 5160;7;547;Pied crow
@@ -5194,7 +5194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5193;7;4732;Arctic hare
 5194;7;4949;Bird, magnificent frigate
 5195;7;5483;Squirrel, malabar
-5196;7;9552;Verreaux's sifaka
+5196;7;9552;Verreauxs sifaka
 5197;7;9952;Grey lourie
 5198;7;4702;Partridge, coqui
 5199;7;4741;Suricate
@@ -5222,10 +5222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 5221;7;2746;Wattled crane
 5222;7;4386;Southern ground hornbill
 5223;7;9152;Booby, blue-footed
-5224;7;2069;Eagle, pallas's fish
+5224;7;2069;Eagle, pallass fish
 5225;7;932;Four-spotted skimmer
 5226;7;4386;Black and white colobus
-5227;7;4406;Gonolek, burchell's
+5227;7;4406;Gonolek, burchells
 5228;7;9093;African wild dog
 5229;7;2759;Lizard, desert spiny
 5230;7;8518;Snake (unidentified)
@@ -5258,7 +5258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5257;7;5236;Blue shark
 5258;7;9254;Feathertail glider
 5259;7;4463;Waxbill, violet-eared
-5260;7;1561;Sloth, hoffman's
+5260;7;1561;Sloth, hoffmans
 5261;7;6071;Barrows goldeneye
 5262;7;4260;Seal, northern elephant
 5263;7;8724;Waterbuck, common
@@ -5269,7 +5269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5268;7;4893;Cormorant, javanese
 5269;7;7397;Common mynah
 5270;7;1523;Dunnart, fat-tailed
-5271;7;525;Denham's bustard
+5271;7;525;Denhams bustard
 5272;7;1894;Owl, madagascar hawk
 5273;7;4243;Brocket, red
 5274;7;76;Common eland
@@ -5300,7 +5300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5299;7;5398;Dabchick
 5300;7;229;Mongoose, small indian
 5301;7;7976;Flycatcher, tyrant
-5302;7;2472;Sifaka, verreaux's
+5302;7;2472;Sifaka, verreauxs
 5303;7;2245;Red-tailed hawk
 5304;7;260;Small-toothed palm civet
 5305;7;623;Marine iguana
@@ -5334,11 +5334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 5333;7;5394;Tammar wallaby
 5334;7;4190;Bandicoot, long-nosed
 5335;7;3416;Native cat
-5336;7;4665;Steller's sea lion
+5336;7;4665;Stellers sea lion
 5337;7;1409;American buffalo
 5338;7;8781;Killer whale
 5339;7;6868;Barbet, black-collared
-5340;7;3249;Wallaby, bennett's
+5340;7;3249;Wallaby, bennetts
 5341;7;5204;Grouse, sage
 5342;7;8258;Snowy sheathbill
 5343;7;5202;Eastern white pelican
@@ -5356,7 +5356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5355;7;3647;Owl, great horned
 5356;7;7945;Goose, greylag
 5357;7;2455;Blackish oystercatcher
-5358;7;230;Wallaby, bennett's
+5358;7;230;Wallaby, bennetts
 5359;7;4761;Currasow (unidentified)
 5360;7;3154;Tern, white-winged black
 5361;7;6461;Cape fox
@@ -5457,7 +5457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5456;7;4371;Small-toothed palm civet
 5457;7;2157;Stork, white-necked
 5458;7;4673;Ostrich
-5459;7;5932;Grant's gazelle
+5459;7;5932;Grants gazelle
 5460;7;813;Dove, laughing
 5461;7;2638;Tasmanian devil
 5462;7;1248;Langur, gray
@@ -5491,7 +5491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5490;7;3265;Western bearded dragon
 5491;7;6969;Yellow-necked spurfowl
 5492;7;819;Wallaby, agile
-5493;7;9499;Lion, steller's sea
+5493;7;9499;Lion, stellers sea
 5494;7;3705;Antelope, sable
 5495;7;7001;Bear, polar
 5496;7;2005;Red-winged blackbird
@@ -5502,7 +5502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5501;7;431;Beaver, north american
 5502;7;8214;Mudskipper (unidentified)
 5503;7;3792;Dove, galapagos
-5504;7;2911;Denham's bustard
+5504;7;2911;Denhams bustard
 5505;7;2420;Two-banded monitor
 5506;7;1543;Common grenadier
 5507;7;9048;Colobus, white-mantled
@@ -5521,7 +5521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5520;7;9363;Goldeneye, barrows
 5521;7;3742;Yellow-headed caracara
 5522;7;4294;Saddle-billed stork
-5523;7;6874;Squirrel, richardson's ground
+5523;7;6874;Squirrel, richardsons ground
 5524;7;899;Wolf, timber
 5525;7;5407;Blackbird, red-winged
 5526;7;5247;African red-eyed bulbul
@@ -5534,7 +5534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5533;7;8550;Rat, desert kangaroo
 5534;7;6025;Puku
 5535;7;4146;Square-lipped rhinoceros
-5536;7;409;Pallas's fish eagle
+5536;7;409;Pallass fish eagle
 5537;7;2933;Cape raven
 5538;7;864;Monkey, vervet
 5539;7;6864;Openbill, asian
@@ -5549,22 +5549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 5548;7;4696;Pheasant, common
 5549;7;5794;Iguana, land
 5550;7;3549;Egret, cattle
-5551;7;7736;Thomson's gazelle
+5551;7;7736;Thomsons gazelle
 5552;7;8686;Cockatoo, slender-billed
 5553;7;6445;Kinkajou
 5554;7;8098;Cuis
 5555;7;7085;Squirrel, antelope ground
 5556;7;7454;Jungle cat
 5557;7;7804;Drongo, fork-tailed
-5558;7;7884;Pallas's fish eagle
+5558;7;7884;Pallass fish eagle
 5559;7;5307;Tiger snake
-5560;7;742;Swainson's francolin
+5560;7;742;Swainsons francolin
 5561;7;1609;Boat-billed heron
 5562;7;8682;Alligator, mississippi
 5563;7;8701;Ferruginous hawk
 5564;7;5643;Rufous tree pie
 5565;7;8444;Giant otter
-5566;7;4448;Pallas's fish eagle
+5566;7;4448;Pallass fish eagle
 5567;7;8938;Malachite kingfisher
 5568;7;3375;Tiger
 5569;7;1369;Blackbuck
@@ -5598,7 +5598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5597;7;3121;Marshbird, brown and yellow
 5598;7;239;Blue and yellow macaw
 5599;7;475;Hanuman langur
-5600;7;2834;Gazelle, grant's
+5600;7;2834;Gazelle, grants
 5601;7;513;Giraffe
 5602;7;2810;Brown antechinus
 5603;7;859;Common goldeneye
@@ -5713,7 +5713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5712;7;4140;Eastern grey kangaroo
 5713;7;3355;Lion, steller sea
 5714;7;9842;Emerald green tree boa
-5715;7;9431;Dik, kirk's dik
+5715;7;9431;Dik, kirks dik
 5716;7;6664;Egret, snowy
 5717;7;8897;Duck, blue
 5718;7;8281;Long-necked turtle
@@ -5737,14 +5737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 5736;7;3333;Mouse, four-striped grass
 5737;7;5521;Galah
 5738;7;6918;Crested bunting
-5739;7;4765;Gambel's quail
+5739;7;4765;Gambels quail
 5740;7;464;Crow, american
 5741;7;3986;Gray langur
 5742;7;9936;Yellow-billed hornbill
 5743;7;2688;White-mantled colobus
 5744;7;3969;Weaver, red-billed buffalo
 5745;7;5908;Mouse, four-striped grass
-5746;7;3148;Gazelle, grant's
+5746;7;3148;Gazelle, grants
 5747;7;3751;Southern right whale
 5748;7;5355;Boubou, southern
 5749;7;9548;American racer
@@ -5814,7 +5814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5813;7;7946;Amazon parrot (unidentified)
 5814;7;2442;Bird, secretary
 5815;7;9427;Southern hairy-nosed wombat
-5816;7;3850;Zorro, azara's
+5816;7;3850;Zorro, azaras
 5817;7;1225;Fox, savanna
 5818;7;8338;Raccoon dog
 5819;7;7589;Tyrant flycatcher
@@ -5832,12 +5832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 5831;7;3224;Finch, common melba
 5832;7;8398;Paradoxure
 5833;7;4426;Water moccasin
-5834;7;9520;Hartebeest, coke's
+5834;7;9520;Hartebeest, cokes
 5835;7;4118;Skua, long-tailed
 5836;7;9013;African ground squirrel (unidentified)
 5837;7;3534;Laughing kookaburra
 5838;7;9791;Boubou, southern
-5839;7;4772;Gonolek, burchell's
+5839;7;4772;Gonolek, burchells
 5840;7;7524;Great kiskadee
 5841;7;6155;Squirrel, nelson ground
 5842;7;3327;Vervet monkey
@@ -5871,7 +5871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5870;7;2915;Arctic ground squirrel
 5871;7;2745;Vervet monkey
 5872;7;2815;Giant heron
-5873;7;967;Richardson's ground squirrel
+5873;7;967;Richardsons ground squirrel
 5874;7;5511;Yellow-throated sandgrouse
 5875;7;6618;American bighorn sheep
 5876;7;5315;Devil, tasmanian
@@ -5902,7 +5902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5901;7;7596;Zebra, common
 5902;7;2180;Black-crowned crane
 5903;7;8810;Striped dolphin
-5904;7;815;Hoffman's sloth
+5904;7;815;Hoffmans sloth
 5905;7;3089;Red-breasted cockatoo
 5906;7;3486;Beaver, north american
 5907;7;9914;Blue racer
@@ -5961,7 +5961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 5960;7;2141;Cape white-eye
 5961;7;4558;Blue racer
 5962;7;1650;Cape cobra
-5963;7;5427;Boa, cook's tree
+5963;7;5427;Boa, cooks tree
 5964;7;6311;Bush dog
 5965;7;8567;Sungazer, yellow-brown
 5966;7;2378;Shrike, crimson-breasted
@@ -6035,7 +6035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6034;7;4816;Gull, pacific
 6035;7;6245;Pale-throated three-toed sloth
 6036;7;4751;Red meerkat
-6037;7;2584;Azara's zorro
+6037;7;2584;Azaras zorro
 6038;7;574;Woodrat (unidentified)
 6039;7;4382;Pelican, eastern white
 6040;7;6477;Black kite
@@ -6120,8 +6120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 6119;7;7822;Pademelon, red-legged
 6120;7;1870;Great white pelican
 6121;7;8911;Rhea, gray
-6122;7;6233;Lion, steller's sea
-6123;7;2368;Lion, steller's sea
+6122;7;6233;Lion, stellers sea
+6123;7;2368;Lion, stellers sea
 6124;7;8760;Badger, american
 6125;7;6970;Springbuck
 6126;7;4774;Lemur, sportive
@@ -6151,11 +6151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 6150;7;1952;Rattlesnake, dusky
 6151;7;345;Lizard, giant girdled
 6152;7;1427;Bird, secretary
-6153;7;3787;Lion, steller's sea
+6153;7;3787;Lion, stellers sea
 6154;7;2660;Gecko (unidentified)
 6155;7;7836;Mountain lion
 6156;7;1241;Green-backed heron
-6157;7;5918;Lion, steller's sea
+6157;7;5918;Lion, stellers sea
 6158;7;3446;Kangaroo, red
 6159;7;8143;Blackbird, red-winged
 6160;7;3062;Pied crow
@@ -6194,7 +6194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6193;7;5946;Arctic hare
 6194;7;5666;Bird, magnificent frigate
 6195;7;4792;Squirrel, malabar
-6196;7;933;Verreaux's sifaka
+6196;7;933;Verreauxs sifaka
 6197;7;286;Grey lourie
 6198;7;2441;Partridge, coqui
 6199;7;6350;Suricate
@@ -6222,10 +6222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 6221;7;9741;Wattled crane
 6222;7;7383;Southern ground hornbill
 6223;7;9516;Booby, blue-footed
-6224;7;1937;Eagle, pallas's fish
+6224;7;1937;Eagle, pallass fish
 6225;7;585;Four-spotted skimmer
 6226;7;1234;Black and white colobus
-6227;7;4825;Gonolek, burchell's
+6227;7;4825;Gonolek, burchells
 6228;7;292;African wild dog
 6229;7;8079;Lizard, desert spiny
 6230;7;1750;Snake (unidentified)
@@ -6258,7 +6258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6257;7;5596;Blue shark
 6258;7;1560;Feathertail glider
 6259;7;6936;Waxbill, violet-eared
-6260;7;4689;Sloth, hoffman's
+6260;7;4689;Sloth, hoffmans
 6261;7;5396;Barrows goldeneye
 6262;7;6245;Seal, northern elephant
 6263;7;1132;Waterbuck, common
@@ -6269,7 +6269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6268;7;7378;Cormorant, javanese
 6269;7;3005;Common mynah
 6270;7;554;Dunnart, fat-tailed
-6271;7;7160;Denham's bustard
+6271;7;7160;Denhams bustard
 6272;7;7490;Owl, madagascar hawk
 6273;7;1439;Brocket, red
 6274;7;1457;Common eland
@@ -6300,7 +6300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6299;7;4389;Dabchick
 6300;7;7116;Mongoose, small indian
 6301;7;1415;Flycatcher, tyrant
-6302;7;5985;Sifaka, verreaux's
+6302;7;5985;Sifaka, verreauxs
 6303;7;4359;Red-tailed hawk
 6304;7;8895;Small-toothed palm civet
 6305;7;8457;Marine iguana
@@ -6334,11 +6334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 6333;7;7709;Tammar wallaby
 6334;7;6614;Bandicoot, long-nosed
 6335;7;5543;Native cat
-6336;7;1770;Steller's sea lion
+6336;7;1770;Stellers sea lion
 6337;7;4701;American buffalo
 6338;7;2657;Killer whale
 6339;7;5862;Barbet, black-collared
-6340;7;4622;Wallaby, bennett's
+6340;7;4622;Wallaby, bennetts
 6341;7;2090;Grouse, sage
 6342;7;707;Snowy sheathbill
 6343;7;9681;Eastern white pelican
@@ -6356,7 +6356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6355;7;9760;Owl, great horned
 6356;7;312;Goose, greylag
 6357;7;84;Blackish oystercatcher
-6358;7;9525;Wallaby, bennett's
+6358;7;9525;Wallaby, bennetts
 6359;7;1587;Currasow (unidentified)
 6360;7;4854;Tern, white-winged black
 6361;7;7425;Cape fox
@@ -6457,7 +6457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6456;7;9709;Small-toothed palm civet
 6457;7;8428;Stork, white-necked
 6458;7;7713;Ostrich
-6459;7;818;Grant's gazelle
+6459;7;818;Grants gazelle
 6460;7;7550;Dove, laughing
 6461;7;176;Tasmanian devil
 6462;7;4444;Langur, gray
@@ -6491,7 +6491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6490;7;1524;Western bearded dragon
 6491;7;4709;Yellow-necked spurfowl
 6492;7;6321;Wallaby, agile
-6493;7;9583;Lion, steller's sea
+6493;7;9583;Lion, stellers sea
 6494;7;2216;Antelope, sable
 6495;7;1395;Bear, polar
 6496;7;2004;Red-winged blackbird
@@ -6502,7 +6502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6501;7;4661;Beaver, north american
 6502;7;5630;Mudskipper (unidentified)
 6503;7;9961;Dove, galapagos
-6504;7;2447;Denham's bustard
+6504;7;2447;Denhams bustard
 6505;7;6211;Two-banded monitor
 6506;7;9793;Common grenadier
 6507;7;2242;Colobus, white-mantled
@@ -6521,7 +6521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6520;7;3073;Goldeneye, barrows
 6521;7;1921;Yellow-headed caracara
 6522;7;8984;Saddle-billed stork
-6523;7;6545;Squirrel, richardson's ground
+6523;7;6545;Squirrel, richardsons ground
 6524;7;8483;Wolf, timber
 6525;7;7035;Blackbird, red-winged
 6526;7;735;African red-eyed bulbul
@@ -6534,7 +6534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6533;7;9385;Rat, desert kangaroo
 6534;7;3546;Puku
 6535;7;6943;Square-lipped rhinoceros
-6536;7;1894;Pallas's fish eagle
+6536;7;1894;Pallass fish eagle
 6537;7;3880;Cape raven
 6538;7;9498;Monkey, vervet
 6539;7;4103;Openbill, asian
@@ -6549,22 +6549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 6548;7;1735;Pheasant, common
 6549;7;2895;Iguana, land
 6550;7;5704;Egret, cattle
-6551;7;7582;Thomson's gazelle
+6551;7;7582;Thomsons gazelle
 6552;7;6776;Cockatoo, slender-billed
 6553;7;6296;Kinkajou
 6554;7;9446;Cuis
 6555;7;7590;Squirrel, antelope ground
 6556;7;1105;Jungle cat
 6557;7;8086;Drongo, fork-tailed
-6558;7;1171;Pallas's fish eagle
+6558;7;1171;Pallass fish eagle
 6559;7;6045;Tiger snake
-6560;7;2643;Swainson's francolin
+6560;7;2643;Swainsons francolin
 6561;7;3859;Boat-billed heron
 6562;7;7990;Alligator, mississippi
 6563;7;1738;Ferruginous hawk
 6564;7;2631;Rufous tree pie
 6565;7;7886;Giant otter
-6566;7;9312;Pallas's fish eagle
+6566;7;9312;Pallass fish eagle
 6567;7;1210;Malachite kingfisher
 6568;7;2206;Tiger
 6569;7;7649;Blackbuck
@@ -6598,7 +6598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6597;7;159;Marshbird, brown and yellow
 6598;7;5891;Blue and yellow macaw
 6599;7;2024;Hanuman langur
-6600;7;6496;Gazelle, grant's
+6600;7;6496;Gazelle, grants
 6601;7;5595;Giraffe
 6602;7;4019;Brown antechinus
 6603;7;2090;Common goldeneye
@@ -6713,7 +6713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6712;7;3682;Eastern grey kangaroo
 6713;7;1332;Lion, steller sea
 6714;7;956;Emerald green tree boa
-6715;7;2277;Dik, kirk's dik
+6715;7;2277;Dik, kirks dik
 6716;7;6234;Egret, snowy
 6717;7;278;Duck, blue
 6718;7;8617;Long-necked turtle
@@ -6737,14 +6737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 6736;7;6715;Mouse, four-striped grass
 6737;7;9872;Galah
 6738;7;4656;Crested bunting
-6739;7;521;Gambel's quail
+6739;7;521;Gambels quail
 6740;7;8452;Crow, american
 6741;7;7329;Gray langur
 6742;7;79;Yellow-billed hornbill
 6743;7;7696;White-mantled colobus
 6744;7;7587;Weaver, red-billed buffalo
 6745;7;5817;Mouse, four-striped grass
-6746;7;9353;Gazelle, grant's
+6746;7;9353;Gazelle, grants
 6747;7;421;Southern right whale
 6748;7;2113;Boubou, southern
 6749;7;3379;American racer
@@ -6814,7 +6814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6813;7;8092;Amazon parrot (unidentified)
 6814;7;5358;Bird, secretary
 6815;7;102;Southern hairy-nosed wombat
-6816;7;2807;Zorro, azara's
+6816;7;2807;Zorro, azaras
 6817;7;4369;Fox, savanna
 6818;7;4558;Raccoon dog
 6819;7;2696;Tyrant flycatcher
@@ -6832,12 +6832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 6831;7;5475;Finch, common melba
 6832;7;5997;Paradoxure
 6833;7;8191;Water moccasin
-6834;7;3470;Hartebeest, coke's
+6834;7;3470;Hartebeest, cokes
 6835;7;4695;Skua, long-tailed
 6836;7;2008;African ground squirrel (unidentified)
 6837;7;3774;Laughing kookaburra
 6838;7;4159;Boubou, southern
-6839;7;3961;Gonolek, burchell's
+6839;7;3961;Gonolek, burchells
 6840;7;540;Great kiskadee
 6841;7;2934;Squirrel, nelson ground
 6842;7;439;Vervet monkey
@@ -6871,7 +6871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6870;7;1868;Arctic ground squirrel
 6871;7;6896;Vervet monkey
 6872;7;4162;Giant heron
-6873;7;9566;Richardson's ground squirrel
+6873;7;9566;Richardsons ground squirrel
 6874;7;9489;Yellow-throated sandgrouse
 6875;7;3288;American bighorn sheep
 6876;7;9724;Devil, tasmanian
@@ -6902,7 +6902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6901;7;8118;Zebra, common
 6902;7;410;Black-crowned crane
 6903;7;667;Striped dolphin
-6904;7;1690;Hoffman's sloth
+6904;7;1690;Hoffmans sloth
 6905;7;671;Red-breasted cockatoo
 6906;7;879;Beaver, north american
 6907;7;2422;Blue racer
@@ -6961,7 +6961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 6960;7;4484;Cape white-eye
 6961;7;5352;Blue racer
 6962;7;7372;Cape cobra
-6963;7;2524;Boa, cook's tree
+6963;7;2524;Boa, cooks tree
 6964;7;9810;Bush dog
 6965;7;8625;Sungazer, yellow-brown
 6966;7;3448;Shrike, crimson-breasted
@@ -7035,7 +7035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7034;7;6445;Gull, pacific
 7035;7;4851;Pale-throated three-toed sloth
 7036;7;8726;Red meerkat
-7037;7;2026;Azara's zorro
+7037;7;2026;Azaras zorro
 7038;7;5324;Woodrat (unidentified)
 7039;7;3546;Pelican, eastern white
 7040;7;3028;Black kite
@@ -7120,8 +7120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 7119;7;1804;Pademelon, red-legged
 7120;7;6422;Great white pelican
 7121;7;3698;Rhea, gray
-7122;7;5181;Lion, steller's sea
-7123;7;5398;Lion, steller's sea
+7122;7;5181;Lion, stellers sea
+7123;7;5398;Lion, stellers sea
 7124;7;6802;Badger, american
 7125;7;73;Springbuck
 7126;7;8972;Lemur, sportive
@@ -7151,11 +7151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 7150;7;1348;Rattlesnake, dusky
 7151;7;9905;Lizard, giant girdled
 7152;7;7339;Bird, secretary
-7153;7;3122;Lion, steller's sea
+7153;7;3122;Lion, stellers sea
 7154;7;3666;Gecko (unidentified)
 7155;7;8657;Mountain lion
 7156;7;3501;Green-backed heron
-7157;7;2942;Lion, steller's sea
+7157;7;2942;Lion, stellers sea
 7158;7;8987;Kangaroo, red
 7159;7;9599;Blackbird, red-winged
 7160;7;5039;Pied crow
@@ -7194,7 +7194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7193;7;419;Arctic hare
 7194;7;3249;Bird, magnificent frigate
 7195;7;3109;Squirrel, malabar
-7196;7;5355;Verreaux's sifaka
+7196;7;5355;Verreauxs sifaka
 7197;7;217;Grey lourie
 7198;7;5144;Partridge, coqui
 7199;7;4415;Suricate
@@ -7222,10 +7222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 7221;7;9111;Wattled crane
 7222;7;6089;Southern ground hornbill
 7223;7;4015;Booby, blue-footed
-7224;7;4458;Eagle, pallas's fish
+7224;7;4458;Eagle, pallass fish
 7225;7;9528;Four-spotted skimmer
 7226;7;3975;Black and white colobus
-7227;7;610;Gonolek, burchell's
+7227;7;610;Gonolek, burchells
 7228;7;8036;African wild dog
 7229;7;6844;Lizard, desert spiny
 7230;7;7545;Snake (unidentified)
@@ -7258,7 +7258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7257;7;8866;Blue shark
 7258;7;7020;Feathertail glider
 7259;7;7775;Waxbill, violet-eared
-7260;7;9680;Sloth, hoffman's
+7260;7;9680;Sloth, hoffmans
 7261;7;9303;Barrows goldeneye
 7262;7;788;Seal, northern elephant
 7263;7;6336;Waterbuck, common
@@ -7269,7 +7269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7268;7;963;Cormorant, javanese
 7269;7;375;Common mynah
 7270;7;4372;Dunnart, fat-tailed
-7271;7;4118;Denham's bustard
+7271;7;4118;Denhams bustard
 7272;7;9326;Owl, madagascar hawk
 7273;7;4024;Brocket, red
 7274;7;1716;Common eland
@@ -7300,7 +7300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7299;7;3094;Dabchick
 7300;7;2207;Mongoose, small indian
 7301;7;8322;Flycatcher, tyrant
-7302;7;3694;Sifaka, verreaux's
+7302;7;3694;Sifaka, verreauxs
 7303;7;2995;Red-tailed hawk
 7304;7;5429;Small-toothed palm civet
 7305;7;8163;Marine iguana
@@ -7334,11 +7334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 7333;7;8537;Tammar wallaby
 7334;7;1358;Bandicoot, long-nosed
 7335;7;1099;Native cat
-7336;7;6028;Steller's sea lion
+7336;7;6028;Stellers sea lion
 7337;7;3937;American buffalo
 7338;7;2984;Killer whale
 7339;7;8044;Barbet, black-collared
-7340;7;246;Wallaby, bennett's
+7340;7;246;Wallaby, bennetts
 7341;7;6220;Grouse, sage
 7342;7;2393;Snowy sheathbill
 7343;7;8629;Eastern white pelican
@@ -7356,7 +7356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7355;7;3928;Owl, great horned
 7356;7;1543;Goose, greylag
 7357;7;6314;Blackish oystercatcher
-7358;7;6522;Wallaby, bennett's
+7358;7;6522;Wallaby, bennetts
 7359;7;9699;Currasow (unidentified)
 7360;7;7509;Tern, white-winged black
 7361;7;9188;Cape fox
@@ -7457,7 +7457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7456;7;7154;Small-toothed palm civet
 7457;7;8998;Stork, white-necked
 7458;7;2855;Ostrich
-7459;7;9669;Grant's gazelle
+7459;7;9669;Grants gazelle
 7460;7;3648;Dove, laughing
 7461;7;706;Tasmanian devil
 7462;7;7199;Langur, gray
@@ -7491,7 +7491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7490;7;1468;Western bearded dragon
 7491;7;628;Yellow-necked spurfowl
 7492;7;7464;Wallaby, agile
-7493;7;5479;Lion, steller's sea
+7493;7;5479;Lion, stellers sea
 7494;7;5828;Antelope, sable
 7495;7;2617;Bear, polar
 7496;7;5405;Red-winged blackbird
@@ -7502,7 +7502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7501;7;85;Beaver, north american
 7502;7;4378;Mudskipper (unidentified)
 7503;7;101;Dove, galapagos
-7504;7;3762;Denham's bustard
+7504;7;3762;Denhams bustard
 7505;7;7009;Two-banded monitor
 7506;7;4288;Common grenadier
 7507;7;8523;Colobus, white-mantled
@@ -7521,7 +7521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7520;7;9875;Goldeneye, barrows
 7521;7;6129;Yellow-headed caracara
 7522;7;6272;Saddle-billed stork
-7523;7;3965;Squirrel, richardson's ground
+7523;7;3965;Squirrel, richardsons ground
 7524;7;3583;Wolf, timber
 7525;7;6023;Blackbird, red-winged
 7526;7;5528;African red-eyed bulbul
@@ -7534,7 +7534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7533;7;2131;Rat, desert kangaroo
 7534;7;4188;Puku
 7535;7;3781;Square-lipped rhinoceros
-7536;7;6359;Pallas's fish eagle
+7536;7;6359;Pallass fish eagle
 7537;7;7323;Cape raven
 7538;7;2636;Monkey, vervet
 7539;7;8300;Openbill, asian
@@ -7549,22 +7549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 7548;7;3400;Pheasant, common
 7549;7;6991;Iguana, land
 7550;7;360;Egret, cattle
-7551;7;282;Thomson's gazelle
+7551;7;282;Thomsons gazelle
 7552;7;3026;Cockatoo, slender-billed
 7553;7;5963;Kinkajou
 7554;7;4922;Cuis
 7555;7;5205;Squirrel, antelope ground
 7556;7;555;Jungle cat
 7557;7;4491;Drongo, fork-tailed
-7558;7;8593;Pallas's fish eagle
+7558;7;8593;Pallass fish eagle
 7559;7;3546;Tiger snake
-7560;7;7794;Swainson's francolin
+7560;7;7794;Swainsons francolin
 7561;7;6656;Boat-billed heron
 7562;7;7302;Alligator, mississippi
 7563;7;9421;Ferruginous hawk
 7564;7;4701;Rufous tree pie
 7565;7;8785;Giant otter
-7566;7;5364;Pallas's fish eagle
+7566;7;5364;Pallass fish eagle
 7567;7;4181;Malachite kingfisher
 7568;7;5534;Tiger
 7569;7;2472;Blackbuck
@@ -7598,7 +7598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7597;7;616;Marshbird, brown and yellow
 7598;7;5644;Blue and yellow macaw
 7599;7;385;Hanuman langur
-7600;7;1345;Gazelle, grant's
+7600;7;1345;Gazelle, grants
 7601;7;7901;Giraffe
 7602;7;6824;Brown antechinus
 7603;7;9134;Common goldeneye
@@ -7713,7 +7713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7712;7;2986;Eastern grey kangaroo
 7713;7;3496;Lion, steller sea
 7714;7;133;Emerald green tree boa
-7715;7;855;Dik, kirk's dik
+7715;7;855;Dik, kirks dik
 7716;7;3497;Egret, snowy
 7717;7;8564;Duck, blue
 7718;7;1693;Long-necked turtle
@@ -7737,14 +7737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 7736;7;5771;Mouse, four-striped grass
 7737;7;2122;Galah
 7738;7;5148;Crested bunting
-7739;7;9124;Gambel's quail
+7739;7;9124;Gambels quail
 7740;7;7098;Crow, american
 7741;7;5271;Gray langur
 7742;7;2526;Yellow-billed hornbill
 7743;7;9918;White-mantled colobus
 7744;7;8973;Weaver, red-billed buffalo
 7745;7;3112;Mouse, four-striped grass
-7746;7;7371;Gazelle, grant's
+7746;7;7371;Gazelle, grants
 7747;7;407;Southern right whale
 7748;7;9721;Boubou, southern
 7749;7;700;American racer
@@ -7814,7 +7814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7813;7;6005;Amazon parrot (unidentified)
 7814;7;6550;Bird, secretary
 7815;7;9931;Southern hairy-nosed wombat
-7816;7;866;Zorro, azara's
+7816;7;866;Zorro, azaras
 7817;7;8828;Fox, savanna
 7818;7;715;Raccoon dog
 7819;7;6774;Tyrant flycatcher
@@ -7832,12 +7832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 7831;7;8033;Finch, common melba
 7832;7;5964;Paradoxure
 7833;7;7271;Water moccasin
-7834;7;9556;Hartebeest, coke's
+7834;7;9556;Hartebeest, cokes
 7835;7;382;Skua, long-tailed
 7836;7;8961;African ground squirrel (unidentified)
 7837;7;8482;Laughing kookaburra
 7838;7;3646;Boubou, southern
-7839;7;2378;Gonolek, burchell's
+7839;7;2378;Gonolek, burchells
 7840;7;1856;Great kiskadee
 7841;7;5928;Squirrel, nelson ground
 7842;7;7822;Vervet monkey
@@ -7871,7 +7871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7870;7;5307;Arctic ground squirrel
 7871;7;1979;Vervet monkey
 7872;7;9387;Giant heron
-7873;7;7269;Richardson's ground squirrel
+7873;7;7269;Richardsons ground squirrel
 7874;7;5601;Yellow-throated sandgrouse
 7875;7;6564;American bighorn sheep
 7876;7;3352;Devil, tasmanian
@@ -7902,7 +7902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7901;7;8995;Zebra, common
 7902;7;7332;Black-crowned crane
 7903;7;420;Striped dolphin
-7904;7;3984;Hoffman's sloth
+7904;7;3984;Hoffmans sloth
 7905;7;385;Red-breasted cockatoo
 7906;7;5664;Beaver, north american
 7907;7;6052;Blue racer
@@ -7961,7 +7961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 7960;7;271;Cape white-eye
 7961;7;3057;Blue racer
 7962;7;3173;Cape cobra
-7963;7;9480;Boa, cook's tree
+7963;7;9480;Boa, cooks tree
 7964;7;8535;Bush dog
 7965;7;4249;Sungazer, yellow-brown
 7966;7;4826;Shrike, crimson-breasted
@@ -8035,7 +8035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8034;7;8896;Gull, pacific
 8035;7;4990;Pale-throated three-toed sloth
 8036;7;1067;Red meerkat
-8037;7;347;Azara's zorro
+8037;7;347;Azaras zorro
 8038;7;8083;Woodrat (unidentified)
 8039;7;6001;Pelican, eastern white
 8040;7;4575;Black kite
@@ -8120,8 +8120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 8119;7;4231;Pademelon, red-legged
 8120;7;6328;Great white pelican
 8121;7;7531;Rhea, gray
-8122;7;7769;Lion, steller's sea
-8123;7;2115;Lion, steller's sea
+8122;7;7769;Lion, stellers sea
+8123;7;2115;Lion, stellers sea
 8124;7;6630;Badger, american
 8125;7;9153;Springbuck
 8126;7;6872;Lemur, sportive
@@ -8151,11 +8151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 8150;7;6134;Rattlesnake, dusky
 8151;7;9905;Lizard, giant girdled
 8152;7;3679;Bird, secretary
-8153;7;1476;Lion, steller's sea
+8153;7;1476;Lion, stellers sea
 8154;7;7193;Gecko (unidentified)
 8155;7;5325;Mountain lion
 8156;7;8918;Green-backed heron
-8157;7;8545;Lion, steller's sea
+8157;7;8545;Lion, stellers sea
 8158;7;9385;Kangaroo, red
 8159;7;4735;Blackbird, red-winged
 8160;7;1573;Pied crow
@@ -8194,7 +8194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8193;7;6506;Arctic hare
 8194;7;3786;Bird, magnificent frigate
 8195;7;4871;Squirrel, malabar
-8196;7;880;Verreaux's sifaka
+8196;7;880;Verreauxs sifaka
 8197;7;3509;Grey lourie
 8198;7;7206;Partridge, coqui
 8199;7;1144;Suricate
@@ -8222,10 +8222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 8221;7;5945;Wattled crane
 8222;7;6027;Southern ground hornbill
 8223;7;5531;Booby, blue-footed
-8224;7;6382;Eagle, pallas's fish
+8224;7;6382;Eagle, pallass fish
 8225;7;7447;Four-spotted skimmer
 8226;7;5645;Black and white colobus
-8227;7;9174;Gonolek, burchell's
+8227;7;9174;Gonolek, burchells
 8228;7;809;African wild dog
 8229;7;9906;Lizard, desert spiny
 8230;7;6279;Snake (unidentified)
@@ -8258,7 +8258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8257;7;500;Blue shark
 8258;7;512;Feathertail glider
 8259;7;1406;Waxbill, violet-eared
-8260;7;2857;Sloth, hoffman's
+8260;7;2857;Sloth, hoffmans
 8261;7;3058;Barrows goldeneye
 8262;7;2268;Seal, northern elephant
 8263;7;4493;Waterbuck, common
@@ -8269,7 +8269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8268;7;2808;Cormorant, javanese
 8269;7;467;Common mynah
 8270;7;760;Dunnart, fat-tailed
-8271;7;5886;Denham's bustard
+8271;7;5886;Denhams bustard
 8272;7;761;Owl, madagascar hawk
 8273;7;9782;Brocket, red
 8274;7;4773;Common eland
@@ -8300,7 +8300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8299;7;6422;Dabchick
 8300;7;4580;Mongoose, small indian
 8301;7;4620;Flycatcher, tyrant
-8302;7;9236;Sifaka, verreaux's
+8302;7;9236;Sifaka, verreauxs
 8303;7;5225;Red-tailed hawk
 8304;7;1769;Small-toothed palm civet
 8305;7;6771;Marine iguana
@@ -8334,11 +8334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 8333;7;1459;Tammar wallaby
 8334;7;1688;Bandicoot, long-nosed
 8335;7;1314;Native cat
-8336;7;4939;Steller's sea lion
+8336;7;4939;Stellers sea lion
 8337;7;5315;American buffalo
 8338;7;768;Killer whale
 8339;7;9118;Barbet, black-collared
-8340;7;5899;Wallaby, bennett's
+8340;7;5899;Wallaby, bennetts
 8341;7;9457;Grouse, sage
 8342;7;6134;Snowy sheathbill
 8343;7;5697;Eastern white pelican
@@ -8356,7 +8356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8355;7;4971;Owl, great horned
 8356;7;7675;Goose, greylag
 8357;7;9835;Blackish oystercatcher
-8358;7;5146;Wallaby, bennett's
+8358;7;5146;Wallaby, bennetts
 8359;7;4353;Currasow (unidentified)
 8360;7;1812;Tern, white-winged black
 8361;7;6762;Cape fox
@@ -8457,7 +8457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8456;7;1551;Small-toothed palm civet
 8457;7;7362;Stork, white-necked
 8458;7;6979;Ostrich
-8459;7;9107;Grant's gazelle
+8459;7;9107;Grants gazelle
 8460;7;5991;Dove, laughing
 8461;7;8624;Tasmanian devil
 8462;7;1725;Langur, gray
@@ -8491,7 +8491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8490;7;9743;Western bearded dragon
 8491;7;425;Yellow-necked spurfowl
 8492;7;1080;Wallaby, agile
-8493;7;7695;Lion, steller's sea
+8493;7;7695;Lion, stellers sea
 8494;7;7458;Antelope, sable
 8495;7;5244;Bear, polar
 8496;7;2378;Red-winged blackbird
@@ -8502,7 +8502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8501;7;2368;Beaver, north american
 8502;7;4363;Mudskipper (unidentified)
 8503;7;671;Dove, galapagos
-8504;7;1553;Denham's bustard
+8504;7;1553;Denhams bustard
 8505;7;1336;Two-banded monitor
 8506;7;4701;Common grenadier
 8507;7;6410;Colobus, white-mantled
@@ -8521,7 +8521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8520;7;5545;Goldeneye, barrows
 8521;7;5913;Yellow-headed caracara
 8522;7;1435;Saddle-billed stork
-8523;7;6491;Squirrel, richardson's ground
+8523;7;6491;Squirrel, richardsons ground
 8524;7;9763;Wolf, timber
 8525;7;9295;Blackbird, red-winged
 8526;7;360;African red-eyed bulbul
@@ -8534,7 +8534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8533;7;8024;Rat, desert kangaroo
 8534;7;8440;Puku
 8535;7;8357;Square-lipped rhinoceros
-8536;7;1449;Pallas's fish eagle
+8536;7;1449;Pallass fish eagle
 8537;7;1056;Cape raven
 8538;7;9779;Monkey, vervet
 8539;7;8919;Openbill, asian
@@ -8549,22 +8549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 8548;7;8490;Pheasant, common
 8549;7;7877;Iguana, land
 8550;7;2940;Egret, cattle
-8551;7;1951;Thomson's gazelle
+8551;7;1951;Thomsons gazelle
 8552;7;3487;Cockatoo, slender-billed
 8553;7;1628;Kinkajou
 8554;7;4152;Cuis
 8555;7;5624;Squirrel, antelope ground
 8556;7;8700;Jungle cat
 8557;7;3705;Drongo, fork-tailed
-8558;7;9217;Pallas's fish eagle
+8558;7;9217;Pallass fish eagle
 8559;7;959;Tiger snake
-8560;7;4017;Swainson's francolin
+8560;7;4017;Swainsons francolin
 8561;7;7717;Boat-billed heron
 8562;7;3422;Alligator, mississippi
 8563;7;7028;Ferruginous hawk
 8564;7;7882;Rufous tree pie
 8565;7;8111;Giant otter
-8566;7;7350;Pallas's fish eagle
+8566;7;7350;Pallass fish eagle
 8567;7;7481;Malachite kingfisher
 8568;7;4390;Tiger
 8569;7;917;Blackbuck
@@ -8598,7 +8598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8597;7;53;Marshbird, brown and yellow
 8598;7;7490;Blue and yellow macaw
 8599;7;7098;Hanuman langur
-8600;7;5190;Gazelle, grant's
+8600;7;5190;Gazelle, grants
 8601;7;1402;Giraffe
 8602;7;6305;Brown antechinus
 8603;7;7218;Common goldeneye
@@ -8713,7 +8713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8712;7;959;Eastern grey kangaroo
 8713;7;7757;Lion, steller sea
 8714;7;1424;Emerald green tree boa
-8715;7;7001;Dik, kirk's dik
+8715;7;7001;Dik, kirks dik
 8716;7;7224;Egret, snowy
 8717;7;9700;Duck, blue
 8718;7;5996;Long-necked turtle
@@ -8737,14 +8737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 8736;7;9782;Mouse, four-striped grass
 8737;7;5842;Galah
 8738;7;3357;Crested bunting
-8739;7;5902;Gambel's quail
+8739;7;5902;Gambels quail
 8740;7;8542;Crow, american
 8741;7;6442;Gray langur
 8742;7;9783;Yellow-billed hornbill
 8743;7;5349;White-mantled colobus
 8744;7;9953;Weaver, red-billed buffalo
 8745;7;1266;Mouse, four-striped grass
-8746;7;8518;Gazelle, grant's
+8746;7;8518;Gazelle, grants
 8747;7;8860;Southern right whale
 8748;7;2587;Boubou, southern
 8749;7;4209;American racer
@@ -8814,7 +8814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8813;7;6513;Amazon parrot (unidentified)
 8814;7;6178;Bird, secretary
 8815;7;7244;Southern hairy-nosed wombat
-8816;7;6326;Zorro, azara's
+8816;7;6326;Zorro, azaras
 8817;7;320;Fox, savanna
 8818;7;8414;Raccoon dog
 8819;7;9534;Tyrant flycatcher
@@ -8832,12 +8832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 8831;7;4005;Finch, common melba
 8832;7;4983;Paradoxure
 8833;7;3135;Water moccasin
-8834;7;6484;Hartebeest, coke's
+8834;7;6484;Hartebeest, cokes
 8835;7;6360;Skua, long-tailed
 8836;7;8822;African ground squirrel (unidentified)
 8837;7;3382;Laughing kookaburra
 8838;7;6428;Boubou, southern
-8839;7;1394;Gonolek, burchell's
+8839;7;1394;Gonolek, burchells
 8840;7;324;Great kiskadee
 8841;7;2315;Squirrel, nelson ground
 8842;7;2453;Vervet monkey
@@ -8871,7 +8871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8870;7;9498;Arctic ground squirrel
 8871;7;3275;Vervet monkey
 8872;7;1198;Giant heron
-8873;7;1303;Richardson's ground squirrel
+8873;7;1303;Richardsons ground squirrel
 8874;7;2844;Yellow-throated sandgrouse
 8875;7;6619;American bighorn sheep
 8876;7;3392;Devil, tasmanian
@@ -8902,7 +8902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8901;7;3741;Zebra, common
 8902;7;1852;Black-crowned crane
 8903;7;281;Striped dolphin
-8904;7;6186;Hoffman's sloth
+8904;7;6186;Hoffmans sloth
 8905;7;8324;Red-breasted cockatoo
 8906;7;5907;Beaver, north american
 8907;7;1502;Blue racer
@@ -8961,7 +8961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 8960;7;3046;Cape white-eye
 8961;7;5917;Blue racer
 8962;7;6591;Cape cobra
-8963;7;8508;Boa, cook's tree
+8963;7;8508;Boa, cooks tree
 8964;7;1020;Bush dog
 8965;7;8394;Sungazer, yellow-brown
 8966;7;1325;Shrike, crimson-breasted
@@ -9035,7 +9035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9034;7;6034;Gull, pacific
 9035;7;3039;Pale-throated three-toed sloth
 9036;7;2674;Red meerkat
-9037;7;5832;Azara's zorro
+9037;7;5832;Azaras zorro
 9038;7;5747;Woodrat (unidentified)
 9039;7;8790;Pelican, eastern white
 9040;7;6503;Black kite
@@ -9120,8 +9120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 9119;7;7009;Pademelon, red-legged
 9120;7;6601;Great white pelican
 9121;7;3287;Rhea, gray
-9122;7;5964;Lion, steller's sea
-9123;7;3756;Lion, steller's sea
+9122;7;5964;Lion, stellers sea
+9123;7;3756;Lion, stellers sea
 9124;7;6026;Badger, american
 9125;7;6072;Springbuck
 9126;7;9594;Lemur, sportive
@@ -9151,11 +9151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 9150;7;9594;Rattlesnake, dusky
 9151;7;3900;Lizard, giant girdled
 9152;7;4732;Bird, secretary
-9153;7;1416;Lion, steller's sea
+9153;7;1416;Lion, stellers sea
 9154;7;5867;Gecko (unidentified)
 9155;7;9292;Mountain lion
 9156;7;7415;Green-backed heron
-9157;7;2685;Lion, steller's sea
+9157;7;2685;Lion, stellers sea
 9158;7;2581;Kangaroo, red
 9159;7;4131;Blackbird, red-winged
 9160;7;7136;Pied crow
@@ -9194,7 +9194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9193;7;4288;Arctic hare
 9194;7;3679;Bird, magnificent frigate
 9195;7;5769;Squirrel, malabar
-9196;7;1563;Verreaux's sifaka
+9196;7;1563;Verreauxs sifaka
 9197;7;61;Grey lourie
 9198;7;3702;Partridge, coqui
 9199;7;4400;Suricate
@@ -9222,10 +9222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 9221;7;1823;Wattled crane
 9222;7;2386;Southern ground hornbill
 9223;7;6410;Booby, blue-footed
-9224;7;8725;Eagle, pallas's fish
+9224;7;8725;Eagle, pallass fish
 9225;7;3587;Four-spotted skimmer
 9226;7;8662;Black and white colobus
-9227;7;4163;Gonolek, burchell's
+9227;7;4163;Gonolek, burchells
 9228;7;9236;African wild dog
 9229;7;1329;Lizard, desert spiny
 9230;7;6268;Snake (unidentified)
@@ -9258,7 +9258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9257;7;8387;Blue shark
 9258;7;2532;Feathertail glider
 9259;7;7964;Waxbill, violet-eared
-9260;7;2292;Sloth, hoffman's
+9260;7;2292;Sloth, hoffmans
 9261;7;5411;Barrows goldeneye
 9262;7;6393;Seal, northern elephant
 9263;7;166;Waterbuck, common
@@ -9269,7 +9269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9268;7;9913;Cormorant, javanese
 9269;7;8155;Common mynah
 9270;7;4674;Dunnart, fat-tailed
-9271;7;148;Denham's bustard
+9271;7;148;Denhams bustard
 9272;7;56;Owl, madagascar hawk
 9273;7;5013;Brocket, red
 9274;7;5882;Common eland
@@ -9300,7 +9300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9299;7;6853;Dabchick
 9300;7;5350;Mongoose, small indian
 9301;7;5202;Flycatcher, tyrant
-9302;7;6819;Sifaka, verreaux's
+9302;7;6819;Sifaka, verreauxs
 9303;7;3603;Red-tailed hawk
 9304;7;1936;Small-toothed palm civet
 9305;7;3242;Marine iguana
@@ -9334,11 +9334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 9333;7;3568;Tammar wallaby
 9334;7;8240;Bandicoot, long-nosed
 9335;7;4482;Native cat
-9336;7;6850;Steller's sea lion
+9336;7;6850;Stellers sea lion
 9337;7;6249;American buffalo
 9338;7;8325;Killer whale
 9339;7;3269;Barbet, black-collared
-9340;7;3575;Wallaby, bennett's
+9340;7;3575;Wallaby, bennetts
 9341;7;6415;Grouse, sage
 9342;7;9152;Snowy sheathbill
 9343;7;5544;Eastern white pelican
@@ -9356,7 +9356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9355;7;4392;Owl, great horned
 9356;7;1864;Goose, greylag
 9357;7;2266;Blackish oystercatcher
-9358;7;9515;Wallaby, bennett's
+9358;7;9515;Wallaby, bennetts
 9359;7;4429;Currasow (unidentified)
 9360;7;4398;Tern, white-winged black
 9361;7;2663;Cape fox
@@ -9457,7 +9457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9456;7;8156;Small-toothed palm civet
 9457;7;6651;Stork, white-necked
 9458;7;6794;Ostrich
-9459;7;4811;Grant's gazelle
+9459;7;4811;Grants gazelle
 9460;7;5382;Dove, laughing
 9461;7;2921;Tasmanian devil
 9462;7;9814;Langur, gray
@@ -9491,7 +9491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9490;7;5555;Western bearded dragon
 9491;7;3388;Yellow-necked spurfowl
 9492;7;8561;Wallaby, agile
-9493;7;8882;Lion, steller's sea
+9493;7;8882;Lion, stellers sea
 9494;7;7810;Antelope, sable
 9495;7;6434;Bear, polar
 9496;7;3713;Red-winged blackbird
@@ -9502,7 +9502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9501;7;2811;Beaver, north american
 9502;7;8079;Mudskipper (unidentified)
 9503;7;5104;Dove, galapagos
-9504;7;6236;Denham's bustard
+9504;7;6236;Denhams bustard
 9505;7;4613;Two-banded monitor
 9506;7;9708;Common grenadier
 9507;7;1415;Colobus, white-mantled
@@ -9521,7 +9521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9520;7;9422;Goldeneye, barrows
 9521;7;193;Yellow-headed caracara
 9522;7;2271;Saddle-billed stork
-9523;7;9776;Squirrel, richardson's ground
+9523;7;9776;Squirrel, richardsons ground
 9524;7;6659;Wolf, timber
 9525;7;7251;Blackbird, red-winged
 9526;7;8029;African red-eyed bulbul
@@ -9534,7 +9534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9533;7;9247;Rat, desert kangaroo
 9534;7;4180;Puku
 9535;7;6447;Square-lipped rhinoceros
-9536;7;1511;Pallas's fish eagle
+9536;7;1511;Pallass fish eagle
 9537;7;3014;Cape raven
 9538;7;798;Monkey, vervet
 9539;7;5647;Openbill, asian
@@ -9549,22 +9549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 9548;7;7541;Pheasant, common
 9549;7;9798;Iguana, land
 9550;7;2012;Egret, cattle
-9551;7;3688;Thomson's gazelle
+9551;7;3688;Thomsons gazelle
 9552;7;2377;Cockatoo, slender-billed
 9553;7;7854;Kinkajou
 9554;7;9815;Cuis
 9555;7;7466;Squirrel, antelope ground
 9556;7;1066;Jungle cat
 9557;7;1185;Drongo, fork-tailed
-9558;7;8913;Pallas's fish eagle
+9558;7;8913;Pallass fish eagle
 9559;7;8981;Tiger snake
-9560;7;7927;Swainson's francolin
+9560;7;7927;Swainsons francolin
 9561;7;3621;Boat-billed heron
 9562;7;6946;Alligator, mississippi
 9563;7;4907;Ferruginous hawk
 9564;7;7251;Rufous tree pie
 9565;7;6817;Giant otter
-9566;7;1919;Pallas's fish eagle
+9566;7;1919;Pallass fish eagle
 9567;7;240;Malachite kingfisher
 9568;7;3398;Tiger
 9569;7;5346;Blackbuck
@@ -9598,7 +9598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9597;7;1593;Marshbird, brown and yellow
 9598;7;5705;Blue and yellow macaw
 9599;7;490;Hanuman langur
-9600;7;4407;Gazelle, grant's
+9600;7;4407;Gazelle, grants
 9601;7;6778;Giraffe
 9602;7;521;Brown antechinus
 9603;7;6521;Common goldeneye
@@ -9713,7 +9713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9712;7;4366;Eastern grey kangaroo
 9713;7;5064;Lion, steller sea
 9714;7;7312;Emerald green tree boa
-9715;7;6737;Dik, kirk's dik
+9715;7;6737;Dik, kirks dik
 9716;7;4187;Egret, snowy
 9717;7;5772;Duck, blue
 9718;7;4400;Long-necked turtle
@@ -9737,14 +9737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 9736;7;7945;Mouse, four-striped grass
 9737;7;1456;Galah
 9738;7;6316;Crested bunting
-9739;7;1448;Gambel's quail
+9739;7;1448;Gambels quail
 9740;7;9470;Crow, american
 9741;7;314;Gray langur
 9742;7;2410;Yellow-billed hornbill
 9743;7;1256;White-mantled colobus
 9744;7;5940;Weaver, red-billed buffalo
 9745;7;8750;Mouse, four-striped grass
-9746;7;184;Gazelle, grant's
+9746;7;184;Gazelle, grants
 9747;7;3746;Southern right whale
 9748;7;6225;Boubou, southern
 9749;7;6611;American racer
@@ -9814,7 +9814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9813;7;460;Amazon parrot (unidentified)
 9814;7;5299;Bird, secretary
 9815;7;6920;Southern hairy-nosed wombat
-9816;7;1508;Zorro, azara's
+9816;7;1508;Zorro, azaras
 9817;7;7058;Fox, savanna
 9818;7;1495;Raccoon dog
 9819;7;4278;Tyrant flycatcher
@@ -9832,12 +9832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 9831;7;2745;Finch, common melba
 9832;7;2625;Paradoxure
 9833;7;1844;Water moccasin
-9834;7;6882;Hartebeest, coke's
+9834;7;6882;Hartebeest, cokes
 9835;7;1282;Skua, long-tailed
 9836;7;415;African ground squirrel (unidentified)
 9837;7;3520;Laughing kookaburra
 9838;7;3409;Boubou, southern
-9839;7;4655;Gonolek, burchell's
+9839;7;4655;Gonolek, burchells
 9840;7;8728;Great kiskadee
 9841;7;8549;Squirrel, nelson ground
 9842;7;148;Vervet monkey
@@ -9871,7 +9871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9870;7;623;Arctic ground squirrel
 9871;7;4033;Vervet monkey
 9872;7;923;Giant heron
-9873;7;122;Richardson's ground squirrel
+9873;7;122;Richardsons ground squirrel
 9874;7;6426;Yellow-throated sandgrouse
 9875;7;1634;American bighorn sheep
 9876;7;3204;Devil, tasmanian
@@ -9902,7 +9902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9901;7;5884;Zebra, common
 9902;7;7326;Black-crowned crane
 9903;7;7350;Striped dolphin
-9904;7;8900;Hoffman's sloth
+9904;7;8900;Hoffmans sloth
 9905;7;7028;Red-breasted cockatoo
 9906;7;6565;Beaver, north american
 9907;7;8160;Blue racer
@@ -9961,7 +9961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 9960;7;6694;Cape white-eye
 9961;7;6909;Blue racer
 9962;7;5538;Cape cobra
-9963;7;688;Boa, cook's tree
+9963;7;688;Boa, cooks tree
 9964;7;8267;Bush dog
 9965;7;5809;Sungazer, yellow-brown
 9966;7;9263;Shrike, crimson-breasted
@@ -10035,7 +10035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10034;7;4720;Gull, pacific
 10035;7;6376;Pale-throated three-toed sloth
 10036;7;7490;Red meerkat
-10037;7;6714;Azara's zorro
+10037;7;6714;Azaras zorro
 10038;7;1229;Woodrat (unidentified)
 10039;7;7391;Pelican, eastern white
 10040;7;6883;Black kite
@@ -10120,8 +10120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 10119;7;1884;Pademelon, red-legged
 10120;7;5632;Great white pelican
 10121;7;6043;Rhea, gray
-10122;7;1608;Lion, steller's sea
-10123;7;573;Lion, steller's sea
+10122;7;1608;Lion, stellers sea
+10123;7;573;Lion, stellers sea
 10124;7;1863;Badger, american
 10125;7;6745;Springbuck
 10126;7;6032;Lemur, sportive
@@ -10151,11 +10151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 10150;7;1235;Rattlesnake, dusky
 10151;7;2565;Lizard, giant girdled
 10152;7;8617;Bird, secretary
-10153;7;9322;Lion, steller's sea
+10153;7;9322;Lion, stellers sea
 10154;7;4481;Gecko (unidentified)
 10155;7;2358;Mountain lion
 10156;7;6202;Green-backed heron
-10157;7;3605;Lion, steller's sea
+10157;7;3605;Lion, stellers sea
 10158;7;1120;Kangaroo, red
 10159;7;9274;Blackbird, red-winged
 10160;7;3797;Pied crow
@@ -10194,7 +10194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10193;7;3444;Arctic hare
 10194;7;8921;Bird, magnificent frigate
 10195;7;6838;Squirrel, malabar
-10196;7;1050;Verreaux's sifaka
+10196;7;1050;Verreauxs sifaka
 10197;7;3655;Grey lourie
 10198;7;8687;Partridge, coqui
 10199;7;9593;Suricate
@@ -10222,10 +10222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 10221;7;7312;Wattled crane
 10222;7;799;Southern ground hornbill
 10223;7;7262;Booby, blue-footed
-10224;7;6846;Eagle, pallas's fish
+10224;7;6846;Eagle, pallass fish
 10225;7;2273;Four-spotted skimmer
 10226;7;4832;Black and white colobus
-10227;7;6802;Gonolek, burchell's
+10227;7;6802;Gonolek, burchells
 10228;7;8726;African wild dog
 10229;7;2229;Lizard, desert spiny
 10230;7;201;Snake (unidentified)
@@ -10258,7 +10258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10257;7;6404;Blue shark
 10258;7;7884;Feathertail glider
 10259;7;9346;Waxbill, violet-eared
-10260;7;3047;Sloth, hoffman's
+10260;7;3047;Sloth, hoffmans
 10261;7;8635;Barrows goldeneye
 10262;7;5400;Seal, northern elephant
 10263;7;6052;Waterbuck, common
@@ -10269,7 +10269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10268;7;2535;Cormorant, javanese
 10269;7;2505;Common mynah
 10270;7;3423;Dunnart, fat-tailed
-10271;7;8539;Denham's bustard
+10271;7;8539;Denhams bustard
 10272;7;3190;Owl, madagascar hawk
 10273;7;8590;Brocket, red
 10274;7;9897;Common eland
@@ -10300,7 +10300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10299;7;4339;Dabchick
 10300;7;9772;Mongoose, small indian
 10301;7;170;Flycatcher, tyrant
-10302;7;2749;Sifaka, verreaux's
+10302;7;2749;Sifaka, verreauxs
 10303;7;6255;Red-tailed hawk
 10304;7;3945;Small-toothed palm civet
 10305;7;5678;Marine iguana
@@ -10334,11 +10334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 10333;7;2389;Tammar wallaby
 10334;7;4998;Bandicoot, long-nosed
 10335;7;8678;Native cat
-10336;7;8092;Steller's sea lion
+10336;7;8092;Stellers sea lion
 10337;7;9886;American buffalo
 10338;7;7684;Killer whale
 10339;7;71;Barbet, black-collared
-10340;7;5091;Wallaby, bennett's
+10340;7;5091;Wallaby, bennetts
 10341;7;1891;Grouse, sage
 10342;7;3044;Snowy sheathbill
 10343;7;7032;Eastern white pelican
@@ -10356,7 +10356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10355;7;6776;Owl, great horned
 10356;7;6809;Goose, greylag
 10357;7;628;Blackish oystercatcher
-10358;7;7322;Wallaby, bennett's
+10358;7;7322;Wallaby, bennetts
 10359;7;7983;Currasow (unidentified)
 10360;7;9792;Tern, white-winged black
 10361;7;1616;Cape fox
@@ -10457,7 +10457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10456;7;9550;Small-toothed palm civet
 10457;7;959;Stork, white-necked
 10458;7;1931;Ostrich
-10459;7;756;Grant's gazelle
+10459;7;756;Grants gazelle
 10460;7;4222;Dove, laughing
 10461;7;5525;Tasmanian devil
 10462;7;1424;Langur, gray
@@ -10491,7 +10491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10490;7;4404;Western bearded dragon
 10491;7;7063;Yellow-necked spurfowl
 10492;7;7203;Wallaby, agile
-10493;7;6856;Lion, steller's sea
+10493;7;6856;Lion, stellers sea
 10494;7;5981;Antelope, sable
 10495;7;7697;Bear, polar
 10496;7;4071;Red-winged blackbird
@@ -10502,7 +10502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10501;7;605;Beaver, north american
 10502;7;6409;Mudskipper (unidentified)
 10503;7;2566;Dove, galapagos
-10504;7;8067;Denham's bustard
+10504;7;8067;Denhams bustard
 10505;7;1651;Two-banded monitor
 10506;7;6989;Common grenadier
 10507;7;9708;Colobus, white-mantled
@@ -10521,7 +10521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10520;7;2156;Goldeneye, barrows
 10521;7;7831;Yellow-headed caracara
 10522;7;4098;Saddle-billed stork
-10523;7;3640;Squirrel, richardson's ground
+10523;7;3640;Squirrel, richardsons ground
 10524;7;2887;Wolf, timber
 10525;7;4216;Blackbird, red-winged
 10526;7;9515;African red-eyed bulbul
@@ -10534,7 +10534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10533;7;917;Rat, desert kangaroo
 10534;7;6275;Puku
 10535;7;9600;Square-lipped rhinoceros
-10536;7;3440;Pallas's fish eagle
+10536;7;3440;Pallass fish eagle
 10537;7;7339;Cape raven
 10538;7;6246;Monkey, vervet
 10539;7;4576;Openbill, asian
@@ -10549,22 +10549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 10548;7;6565;Pheasant, common
 10549;7;8443;Iguana, land
 10550;7;2982;Egret, cattle
-10551;7;7485;Thomson's gazelle
+10551;7;7485;Thomsons gazelle
 10552;7;669;Cockatoo, slender-billed
 10553;7;4158;Kinkajou
 10554;7;1305;Cuis
 10555;7;7292;Squirrel, antelope ground
 10556;7;9688;Jungle cat
 10557;7;2201;Drongo, fork-tailed
-10558;7;5418;Pallas's fish eagle
+10558;7;5418;Pallass fish eagle
 10559;7;3093;Tiger snake
-10560;7;4072;Swainson's francolin
+10560;7;4072;Swainsons francolin
 10561;7;6814;Boat-billed heron
 10562;7;2140;Alligator, mississippi
 10563;7;1538;Ferruginous hawk
 10564;7;9646;Rufous tree pie
 10565;7;7538;Giant otter
-10566;7;313;Pallas's fish eagle
+10566;7;313;Pallass fish eagle
 10567;7;5930;Malachite kingfisher
 10568;7;7145;Tiger
 10569;7;9761;Blackbuck
@@ -10598,7 +10598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10597;7;861;Marshbird, brown and yellow
 10598;7;2908;Blue and yellow macaw
 10599;7;5597;Hanuman langur
-10600;7;1177;Gazelle, grant's
+10600;7;1177;Gazelle, grants
 10601;7;4561;Giraffe
 10602;7;8252;Brown antechinus
 10603;7;1651;Common goldeneye
@@ -10713,7 +10713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10712;7;8733;Eastern grey kangaroo
 10713;7;2322;Lion, steller sea
 10714;7;3286;Emerald green tree boa
-10715;7;161;Dik, kirk's dik
+10715;7;161;Dik, kirks dik
 10716;7;5787;Egret, snowy
 10717;7;8102;Duck, blue
 10718;7;1692;Long-necked turtle
@@ -10737,14 +10737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 10736;7;5249;Mouse, four-striped grass
 10737;7;896;Galah
 10738;7;1248;Crested bunting
-10739;7;4058;Gambel's quail
+10739;7;4058;Gambels quail
 10740;7;7231;Crow, american
 10741;7;4722;Gray langur
 10742;7;1397;Yellow-billed hornbill
 10743;7;725;White-mantled colobus
 10744;7;4368;Weaver, red-billed buffalo
 10745;7;6711;Mouse, four-striped grass
-10746;7;3169;Gazelle, grant's
+10746;7;3169;Gazelle, grants
 10747;7;3788;Southern right whale
 10748;7;9414;Boubou, southern
 10749;7;8018;American racer
@@ -10814,7 +10814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10813;7;7194;Amazon parrot (unidentified)
 10814;7;7249;Bird, secretary
 10815;7;5010;Southern hairy-nosed wombat
-10816;7;4704;Zorro, azara's
+10816;7;4704;Zorro, azaras
 10817;7;6533;Fox, savanna
 10818;7;1843;Raccoon dog
 10819;7;1427;Tyrant flycatcher
@@ -10832,12 +10832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 10831;7;4775;Finch, common melba
 10832;7;8350;Paradoxure
 10833;7;6787;Water moccasin
-10834;7;4088;Hartebeest, coke's
+10834;7;4088;Hartebeest, cokes
 10835;7;4541;Skua, long-tailed
 10836;7;7290;African ground squirrel (unidentified)
 10837;7;9777;Laughing kookaburra
 10838;7;9510;Boubou, southern
-10839;7;9346;Gonolek, burchell's
+10839;7;9346;Gonolek, burchells
 10840;7;7298;Great kiskadee
 10841;7;7538;Squirrel, nelson ground
 10842;7;9209;Vervet monkey
@@ -10871,7 +10871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10870;7;6978;Arctic ground squirrel
 10871;7;1765;Vervet monkey
 10872;7;7234;Giant heron
-10873;7;5249;Richardson's ground squirrel
+10873;7;5249;Richardsons ground squirrel
 10874;7;3225;Yellow-throated sandgrouse
 10875;7;7526;American bighorn sheep
 10876;7;321;Devil, tasmanian
@@ -10902,7 +10902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10901;7;7576;Zebra, common
 10902;7;724;Black-crowned crane
 10903;7;5547;Striped dolphin
-10904;7;4816;Hoffman's sloth
+10904;7;4816;Hoffmans sloth
 10905;7;8090;Red-breasted cockatoo
 10906;7;379;Beaver, north american
 10907;7;3654;Blue racer
@@ -10961,7 +10961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 10960;7;2481;Cape white-eye
 10961;7;4559;Blue racer
 10962;7;1152;Cape cobra
-10963;7;4871;Boa, cook's tree
+10963;7;4871;Boa, cooks tree
 10964;7;5006;Bush dog
 10965;7;4402;Sungazer, yellow-brown
 10966;7;4330;Shrike, crimson-breasted
@@ -11035,7 +11035,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11034;7;3300;Gull, pacific
 11035;7;1613;Pale-throated three-toed sloth
 11036;7;8477;Red meerkat
-11037;7;7485;Azara's zorro
+11037;7;7485;Azaras zorro
 11038;7;5987;Woodrat (unidentified)
 11039;7;9630;Pelican, eastern white
 11040;7;3082;Black kite
@@ -11120,8 +11120,8 @@ id;idServicio;capacidadPersonas;nombreSalon
 11119;7;3516;Pademelon, red-legged
 11120;7;1932;Great white pelican
 11121;7;5855;Rhea, gray
-11122;7;1710;Lion, steller's sea
-11123;7;8464;Lion, steller's sea
+11122;7;1710;Lion, stellers sea
+11123;7;8464;Lion, stellers sea
 11124;7;3314;Badger, american
 11125;7;9856;Springbuck
 11126;7;680;Lemur, sportive
@@ -11151,11 +11151,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 11150;7;1910;Rattlesnake, dusky
 11151;7;2749;Lizard, giant girdled
 11152;7;9881;Bird, secretary
-11153;7;4440;Lion, steller's sea
+11153;7;4440;Lion, stellers sea
 11154;7;8710;Gecko (unidentified)
 11155;7;8733;Mountain lion
 11156;7;9686;Green-backed heron
-11157;7;3666;Lion, steller's sea
+11157;7;3666;Lion, stellers sea
 11158;7;4185;Kangaroo, red
 11159;7;8303;Blackbird, red-winged
 11160;7;6541;Pied crow
@@ -11194,7 +11194,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11193;7;8643;Arctic hare
 11194;7;4992;Bird, magnificent frigate
 11195;7;8127;Squirrel, malabar
-11196;7;6728;Verreaux's sifaka
+11196;7;6728;Verreauxs sifaka
 11197;7;4032;Grey lourie
 11198;7;9756;Partridge, coqui
 11199;7;6981;Suricate
@@ -11222,10 +11222,10 @@ id;idServicio;capacidadPersonas;nombreSalon
 11221;7;8129;Wattled crane
 11222;7;4354;Southern ground hornbill
 11223;7;6205;Booby, blue-footed
-11224;7;5521;Eagle, pallas's fish
+11224;7;5521;Eagle, pallass fish
 11225;7;2089;Four-spotted skimmer
 11226;7;8311;Black and white colobus
-11227;7;2058;Gonolek, burchell's
+11227;7;2058;Gonolek, burchells
 11228;7;7606;African wild dog
 11229;7;6860;Lizard, desert spiny
 11230;7;3729;Snake (unidentified)
@@ -11258,7 +11258,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11257;7;1595;Blue shark
 11258;7;5165;Feathertail glider
 11259;7;6260;Waxbill, violet-eared
-11260;7;3261;Sloth, hoffman's
+11260;7;3261;Sloth, hoffmans
 11261;7;1510;Barrows goldeneye
 11262;7;4680;Seal, northern elephant
 11263;7;3214;Waterbuck, common
@@ -11269,7 +11269,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11268;7;8364;Cormorant, javanese
 11269;7;2542;Common mynah
 11270;7;7487;Dunnart, fat-tailed
-11271;7;4242;Denham's bustard
+11271;7;4242;Denhams bustard
 11272;7;3537;Owl, madagascar hawk
 11273;7;9590;Brocket, red
 11274;7;8430;Common eland
@@ -11300,7 +11300,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11299;7;512;Dabchick
 11300;7;244;Mongoose, small indian
 11301;7;3762;Flycatcher, tyrant
-11302;7;4254;Sifaka, verreaux's
+11302;7;4254;Sifaka, verreauxs
 11303;7;3913;Red-tailed hawk
 11304;7;3640;Small-toothed palm civet
 11305;7;6978;Marine iguana
@@ -11334,11 +11334,11 @@ id;idServicio;capacidadPersonas;nombreSalon
 11333;7;1483;Tammar wallaby
 11334;7;4004;Bandicoot, long-nosed
 11335;7;1905;Native cat
-11336;7;9738;Steller's sea lion
+11336;7;9738;Stellers sea lion
 11337;7;6444;American buffalo
 11338;7;8409;Killer whale
 11339;7;1490;Barbet, black-collared
-11340;7;5290;Wallaby, bennett's
+11340;7;5290;Wallaby, bennetts
 11341;7;3391;Grouse, sage
 11342;7;3080;Snowy sheathbill
 11343;7;5033;Eastern white pelican
@@ -11356,7 +11356,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11355;7;1760;Owl, great horned
 11356;7;1979;Goose, greylag
 11357;7;1773;Blackish oystercatcher
-11358;7;5242;Wallaby, bennett's
+11358;7;5242;Wallaby, bennetts
 11359;7;9895;Currasow (unidentified)
 11360;7;1412;Tern, white-winged black
 11361;7;2604;Cape fox
@@ -11457,7 +11457,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11456;7;9989;Small-toothed palm civet
 11457;7;4461;Stork, white-necked
 11458;7;5173;Ostrich
-11459;7;6115;Grant's gazelle
+11459;7;6115;Grants gazelle
 11460;7;258;Dove, laughing
 11461;7;4595;Tasmanian devil
 11462;7;1201;Langur, gray
@@ -11491,7 +11491,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11490;7;9782;Western bearded dragon
 11491;7;8576;Yellow-necked spurfowl
 11492;7;1123;Wallaby, agile
-11493;7;9655;Lion, steller's sea
+11493;7;9655;Lion, stellers sea
 11494;7;4502;Antelope, sable
 11495;7;1355;Bear, polar
 11496;7;4958;Red-winged blackbird
@@ -11502,7 +11502,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11501;7;4350;Beaver, north american
 11502;7;6520;Mudskipper (unidentified)
 11503;7;9021;Dove, galapagos
-11504;7;4289;Denham's bustard
+11504;7;4289;Denhams bustard
 11505;7;1869;Two-banded monitor
 11506;7;1660;Common grenadier
 11507;7;4557;Colobus, white-mantled
@@ -11521,7 +11521,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11520;7;7899;Goldeneye, barrows
 11521;7;4349;Yellow-headed caracara
 11522;7;5180;Saddle-billed stork
-11523;7;900;Squirrel, richardson's ground
+11523;7;900;Squirrel, richardsons ground
 11524;7;9130;Wolf, timber
 11525;7;224;Blackbird, red-winged
 11526;7;1146;African red-eyed bulbul
@@ -11534,7 +11534,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11533;7;3255;Rat, desert kangaroo
 11534;7;9140;Puku
 11535;7;1707;Square-lipped rhinoceros
-11536;7;4276;Pallas's fish eagle
+11536;7;4276;Pallass fish eagle
 11537;7;7406;Cape raven
 11538;7;9096;Monkey, vervet
 11539;7;6502;Openbill, asian
@@ -11549,22 +11549,22 @@ id;idServicio;capacidadPersonas;nombreSalon
 11548;7;6293;Pheasant, common
 11549;7;2133;Iguana, land
 11550;7;7513;Egret, cattle
-11551;7;3627;Thomson's gazelle
+11551;7;3627;Thomsons gazelle
 11552;7;4825;Cockatoo, slender-billed
 11553;7;2825;Kinkajou
 11554;7;4699;Cuis
 11555;7;1695;Squirrel, antelope ground
 11556;7;188;Jungle cat
 11557;7;4995;Drongo, fork-tailed
-11558;7;4717;Pallas's fish eagle
+11558;7;4717;Pallass fish eagle
 11559;7;1309;Tiger snake
-11560;7;5965;Swainson's francolin
+11560;7;5965;Swainsons francolin
 11561;7;3657;Boat-billed heron
 11562;7;3208;Alligator, mississippi
 11563;7;723;Ferruginous hawk
 11564;7;4175;Rufous tree pie
 11565;7;6679;Giant otter
-11566;7;6166;Pallas's fish eagle
+11566;7;6166;Pallass fish eagle
 11567;7;3051;Malachite kingfisher
 11568;7;8808;Tiger
 11569;7;7201;Blackbuck
@@ -11598,7 +11598,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11597;7;9587;Marshbird, brown and yellow
 11598;7;8711;Blue and yellow macaw
 11599;7;7984;Hanuman langur
-11600;7;8202;Gazelle, grant's
+11600;7;8202;Gazelle, grants
 11601;7;3850;Giraffe
 11602;7;2249;Brown antechinus
 11603;7;6280;Common goldeneye
@@ -11713,7 +11713,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11712;7;4318;Eastern grey kangaroo
 11713;7;757;Lion, steller sea
 11714;7;4106;Emerald green tree boa
-11715;7;2780;Dik, kirk's dik
+11715;7;2780;Dik, kirks dik
 11716;7;6494;Egret, snowy
 11717;7;1202;Duck, blue
 11718;7;3283;Long-necked turtle
@@ -11737,14 +11737,14 @@ id;idServicio;capacidadPersonas;nombreSalon
 11736;7;9694;Mouse, four-striped grass
 11737;7;3843;Galah
 11738;7;963;Crested bunting
-11739;7;1203;Gambel's quail
+11739;7;1203;Gambels quail
 11740;7;2340;Crow, american
 11741;7;8855;Gray langur
 11742;7;7787;Yellow-billed hornbill
 11743;7;1917;White-mantled colobus
 11744;7;881;Weaver, red-billed buffalo
 11745;7;3362;Mouse, four-striped grass
-11746;7;6073;Gazelle, grant's
+11746;7;6073;Gazelle, grants
 11747;7;1138;Southern right whale
 11748;7;3196;Boubou, southern
 11749;7;2950;American racer
@@ -11814,7 +11814,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11813;7;6004;Amazon parrot (unidentified)
 11814;7;3925;Bird, secretary
 11815;7;3840;Southern hairy-nosed wombat
-11816;7;6245;Zorro, azara's
+11816;7;6245;Zorro, azaras
 11817;7;3885;Fox, savanna
 11818;7;2500;Raccoon dog
 11819;7;9250;Tyrant flycatcher
@@ -11832,12 +11832,12 @@ id;idServicio;capacidadPersonas;nombreSalon
 11831;7;5784;Finch, common melba
 11832;7;1328;Paradoxure
 11833;7;6505;Water moccasin
-11834;7;4866;Hartebeest, coke's
+11834;7;4866;Hartebeest, cokes
 11835;7;1510;Skua, long-tailed
 11836;7;1754;African ground squirrel (unidentified)
 11837;7;3420;Laughing kookaburra
 11838;7;6498;Boubou, southern
-11839;7;9911;Gonolek, burchell's
+11839;7;9911;Gonolek, burchells
 11840;7;8207;Great kiskadee
 11841;7;7151;Squirrel, nelson ground
 11842;7;7350;Vervet monkey
@@ -11871,7 +11871,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11870;7;6352;Arctic ground squirrel
 11871;7;8233;Vervet monkey
 11872;7;4459;Giant heron
-11873;7;9410;Richardson's ground squirrel
+11873;7;9410;Richardsons ground squirrel
 11874;7;3102;Yellow-throated sandgrouse
 11875;7;6657;American bighorn sheep
 11876;7;1914;Devil, tasmanian
@@ -11902,7 +11902,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11901;7;2608;Zebra, common
 11902;7;176;Black-crowned crane
 11903;7;3915;Striped dolphin
-11904;7;1433;Hoffman's sloth
+11904;7;1433;Hoffmans sloth
 11905;7;7098;Red-breasted cockatoo
 11906;7;9248;Beaver, north american
 11907;7;8046;Blue racer
@@ -11961,7 +11961,7 @@ id;idServicio;capacidadPersonas;nombreSalon
 11960;7;858;Cape white-eye
 11961;7;2959;Blue racer
 11962;7;9884;Cape cobra
-11963;7;2409;Boa, cook's tree
+11963;7;2409;Boa, cooks tree
 11964;7;2894;Bush dog
 11965;7;3247;Sungazer, yellow-brown
 11966;7;7755;Shrike, crimson-breasted

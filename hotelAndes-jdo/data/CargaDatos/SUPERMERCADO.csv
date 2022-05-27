@@ -12,7 +12,7 @@ idServicio;id;nombreSupermercado;horario
 10;11;Multi-Sector Companies;DIURNO
 10;12;n/a;COMPLETO
 10;13;Packaged Foods;NOCTURNO
-10;14;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;14;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;15;n/a;DIURNO
 10;16;Real Estate Investment Trusts;COMPLETO
 10;17;Telecommunications Equipment;NOCTURNO
@@ -23,19 +23,19 @@ idServicio;id;nombreSupermercado;horario
 10;22;Oil Refining/Marketing;NOCTURNO
 10;23;Business Services;DIURNO
 10;24;n/a;DIURNO
-10;25;Oil & Gas Production;DIURNO
+10;25;Oil - Gas Production;DIURNO
 10;26;n/a;COMPLETO
 10;27;Electric Utilities: Central;DIURNO
 10;28;n/a;COMPLETO
 10;29;Major Pharmaceuticals;DIURNO
 10;30;Industrial Machinery/Components;NOCTURNO
-10;31;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;31;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;32;Consumer Specialties;DIURNO
 10;33;n/a;NOCTURNO
-10;34;Oil & Gas Production;NOCTURNO
+10;34;Oil - Gas Production;NOCTURNO
 10;35;Broadcasting;DIURNO
 10;36;Motor Vehicles;COMPLETO
-10;37;Oil & Gas Production;NOCTURNO
+10;37;Oil - Gas Production;NOCTURNO
 10;38;Electric Utilities: Central;NOCTURNO
 10;39;Fluid Controls;NOCTURNO
 10;40;Investment Bankers/Brokers/Service;DIURNO
@@ -112,7 +112,7 @@ idServicio;id;nombreSupermercado;horario
 10;111;Finance: Consumer Services;NOCTURNO
 10;112;Metal Fabrications;NOCTURNO
 10;113;Transportation Services;DIURNO
-10;114;Oil & Gas Production;DIURNO
+10;114;Oil - Gas Production;DIURNO
 10;115;Hospital/Nursing Management;NOCTURNO
 10;116;n/a;DIURNO
 10;117;Real Estate Investment Trusts;NOCTURNO
@@ -143,14 +143,14 @@ idServicio;id;nombreSupermercado;horario
 10;142;Industrial Machinery/Components;COMPLETO
 10;143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;144;Environmental Services;DIURNO
-10;145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;146;Major Pharmaceuticals;COMPLETO
 10;147;Commercial Banks;COMPLETO
 10;148;Metal Fabrications;NOCTURNO
 10;149;Department/Specialty Retail Stores;NOCTURNO
 10;150;Major Pharmaceuticals;COMPLETO
 10;151;Major Pharmaceuticals;NOCTURNO
-10;152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;153;Banks;DIURNO
 10;154;Restaurants;NOCTURNO
 10;155;Home Furnishings;DIURNO
@@ -162,7 +162,7 @@ idServicio;id;nombreSupermercado;horario
 10;161;Real Estate Investment Trusts;COMPLETO
 10;162;Industrial Machinery/Components;COMPLETO
 10;163;Major Pharmaceuticals;NOCTURNO
-10;164;Oil & Gas Production;DIURNO
+10;164;Oil - Gas Production;DIURNO
 10;165;Real Estate Investment Trusts;DIURNO
 10;166;Major Pharmaceuticals;COMPLETO
 10;167;Trucking Freight/Courier Services;DIURNO
@@ -183,7 +183,7 @@ idServicio;id;nombreSupermercado;horario
 10;182;Integrated oil Companies;DIURNO
 10;183;n/a;COMPLETO
 10;184;Other Specialty Stores;DIURNO
-10;185;Oil & Gas Production;DIURNO
+10;185;Oil - Gas Production;DIURNO
 10;186;Industrial Machinery/Components;COMPLETO
 10;187;Marine Transportation;DIURNO
 10;188;Business Services;DIURNO
@@ -196,7 +196,7 @@ idServicio;id;nombreSupermercado;horario
 10;195;Major Banks;NOCTURNO
 10;196;n/a;COMPLETO
 10;197;Real Estate Investment Trusts;DIURNO
-10;198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;199;n/a;NOCTURNO
 10;200;Major Banks;COMPLETO
 10;201;n/a;DIURNO
@@ -204,7 +204,7 @@ idServicio;id;nombreSupermercado;horario
 10;203;Office Equipment/Supplies/Services;NOCTURNO
 10;204;Major Pharmaceuticals;NOCTURNO
 10;205;Metal Fabrications;DIURNO
-10;206;Oil & Gas Production;COMPLETO
+10;206;Oil - Gas Production;COMPLETO
 10;207;Medical Specialities;NOCTURNO
 10;208;Real Estate;COMPLETO
 10;209;Television Services;DIURNO
@@ -245,15 +245,15 @@ idServicio;id;nombreSupermercado;horario
 10;244;Industrial Specialties;DIURNO
 10;245;Integrated oil Companies;NOCTURNO
 10;246;EDP Services;NOCTURNO
-10;247;Oil & Gas Production;NOCTURNO
+10;247;Oil - Gas Production;NOCTURNO
 10;248;Savings Institutions;COMPLETO
 10;249;Advertising;COMPLETO
 10;250;Real Estate Investment Trusts;NOCTURNO
-10;251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;252;Major Banks;DIURNO
 10;253;Containers/Packaging;NOCTURNO
 10;254;Restaurants;NOCTURNO
-10;255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;256;Computer Software: Prepackaged Software;COMPLETO
 10;257;Major Pharmaceuticals;COMPLETO
 10;258;Hospital/Nursing Management;DIURNO
@@ -298,7 +298,7 @@ idServicio;id;nombreSupermercado;horario
 10;297;Major Banks;COMPLETO
 10;298;Newspapers/Magazines;COMPLETO
 10;299;Computer Software: Prepackaged Software;NOCTURNO
-10;300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;301;Metal Fabrications;DIURNO
 10;302;n/a;COMPLETO
 10;303;Medical Specialities;NOCTURNO
@@ -311,7 +311,7 @@ idServicio;id;nombreSupermercado;horario
 10;310;n/a;DIURNO
 10;311;Major Banks;DIURNO
 10;312;Major Banks;NOCTURNO
-10;313;Oil & Gas Production;DIURNO
+10;313;Oil - Gas Production;DIURNO
 10;314;Major Chemicals;NOCTURNO
 10;315;Restaurants;DIURNO
 10;316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -347,7 +347,7 @@ idServicio;id;nombreSupermercado;horario
 10;346;Department/Specialty Retail Stores;COMPLETO
 10;347;n/a;NOCTURNO
 10;348;Other Specialty Stores;COMPLETO
-10;349;Oil & Gas Production;DIURNO
+10;349;Oil - Gas Production;DIURNO
 10;350;Major Banks;NOCTURNO
 10;351;Real Estate Investment Trusts;DIURNO
 10;352;Industrial Specialties;DIURNO
@@ -355,7 +355,7 @@ idServicio;id;nombreSupermercado;horario
 10;354;n/a;COMPLETO
 10;355;Semiconductors;COMPLETO
 10;356;n/a;DIURNO
-10;357;Oil & Gas Production;COMPLETO
+10;357;Oil - Gas Production;COMPLETO
 10;358;Broadcasting;NOCTURNO
 10;359;Major Pharmaceuticals;COMPLETO
 10;360;Military/Government/Technical;DIURNO
@@ -370,13 +370,13 @@ idServicio;id;nombreSupermercado;horario
 10;369;Hospital/Nursing Management;NOCTURNO
 10;370;Commercial Banks;NOCTURNO
 10;371;n/a;NOCTURNO
-10;372;Accident &Health Insurance;DIURNO
+10;372;Accident -Health Insurance;DIURNO
 10;373;Major Pharmaceuticals;COMPLETO
 10;374;Clothing/Shoe/Accessory Stores;DIURNO
 10;375;Diversified Financial Services;NOCTURNO
 10;376;Packaged Foods;COMPLETO
 10;377;n/a;DIURNO
-10;378;Oil & Gas Production;DIURNO
+10;378;Oil - Gas Production;DIURNO
 10;379;Computer Software: Programming, Data Processing;NOCTURNO
 10;380;Investment Bankers/Brokers/Service;NOCTURNO
 10;381;Professional Services;COMPLETO
@@ -406,9 +406,9 @@ idServicio;id;nombreSupermercado;horario
 10;405;Major Banks;DIURNO
 10;406;n/a;COMPLETO
 10;407;Computer Software: Prepackaged Software;COMPLETO
-10;408;Oil & Gas Production;DIURNO
+10;408;Oil - Gas Production;DIURNO
 10;409;Steel/Iron Ore;NOCTURNO
-10;410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;411;Major Chemicals;NOCTURNO
 10;412;Hospital/Nursing Management;COMPLETO
 10;413;Industrial Specialties;COMPLETO
@@ -427,7 +427,7 @@ idServicio;id;nombreSupermercado;horario
 10;426;Medical/Dental Instruments;DIURNO
 10;427;Semiconductors;COMPLETO
 10;428;Specialty Foods;NOCTURNO
-10;429;Services-Misc. Amusement & Recreation;DIURNO
+10;429;Services-Misc. Amusement - Recreation;DIURNO
 10;430;EDP Services;NOCTURNO
 10;431;Other Consumer Services;NOCTURNO
 10;432;n/a;NOCTURNO
@@ -468,7 +468,7 @@ idServicio;id;nombreSupermercado;horario
 10;467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;468;n/a;DIURNO
 10;469;n/a;DIURNO
-10;470;Services-Misc. Amusement & Recreation;COMPLETO
+10;470;Services-Misc. Amusement - Recreation;COMPLETO
 10;471;Transportation Services;NOCTURNO
 10;472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;473;Commercial Banks;DIURNO
@@ -511,7 +511,7 @@ idServicio;id;nombreSupermercado;horario
 10;510;Metal Fabrications;DIURNO
 10;511;Environmental Services;COMPLETO
 10;512;Other Consumer Services;DIURNO
-10;513;Oil & Gas Production;COMPLETO
+10;513;Oil - Gas Production;COMPLETO
 10;514;Finance: Consumer Services;NOCTURNO
 10;515;n/a;NOCTURNO
 10;516;Specialty Insurers;DIURNO
@@ -527,7 +527,7 @@ idServicio;id;nombreSupermercado;horario
 10;526;Farming/Seeds/Milling;NOCTURNO
 10;527;Department/Specialty Retail Stores;DIURNO
 10;528;n/a;COMPLETO
-10;529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;530;Electric Utilities: Central;DIURNO
 10;531;Real Estate;NOCTURNO
 10;532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -603,7 +603,7 @@ idServicio;id;nombreSupermercado;horario
 10;602;n/a;DIURNO
 10;603;n/a;COMPLETO
 10;604;n/a;DIURNO
-10;605;Oil & Gas Production;DIURNO
+10;605;Oil - Gas Production;DIURNO
 10;606;Major Chemicals;COMPLETO
 10;607;Medical/Nursing Services;DIURNO
 10;608;Major Pharmaceuticals;COMPLETO
@@ -665,9 +665,9 @@ idServicio;id;nombreSupermercado;horario
 10;664;Diversified Commercial Services;DIURNO
 10;665;n/a;NOCTURNO
 10;666;Major Pharmaceuticals;COMPLETO
-10;667;Accident &Health Insurance;NOCTURNO
+10;667;Accident -Health Insurance;NOCTURNO
 10;668;Transportation Services;DIURNO
-10;669;Oil & Gas Production;NOCTURNO
+10;669;Oil - Gas Production;NOCTURNO
 10;670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;671;n/a;DIURNO
 10;672;n/a;COMPLETO
@@ -677,13 +677,13 @@ idServicio;id;nombreSupermercado;horario
 10;676;Telecommunications Equipment;DIURNO
 10;677;n/a;COMPLETO
 10;678;Water Supply;COMPLETO
-10;679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;680;n/a;COMPLETO
-10;681;Oil & Gas Production;DIURNO
+10;681;Oil - Gas Production;DIURNO
 10;682;Finance: Consumer Services;DIURNO
 10;683;n/a;COMPLETO
 10;684;Semiconductors;NOCTURNO
-10;685;Oil & Gas Production;COMPLETO
+10;685;Oil - Gas Production;COMPLETO
 10;686;Real Estate Investment Trusts;DIURNO
 10;687;Computer Manufacturing;NOCTURNO
 10;688;Other Specialty Stores;DIURNO
@@ -733,13 +733,13 @@ idServicio;id;nombreSupermercado;horario
 10;732;Major Pharmaceuticals;DIURNO
 10;733;Savings Institutions;COMPLETO
 10;734;n/a;COMPLETO
-10;735;Oil & Gas Production;COMPLETO
+10;735;Oil - Gas Production;COMPLETO
 10;736;Major Banks;NOCTURNO
 10;737;EDP Services;COMPLETO
 10;738;Marine Transportation;COMPLETO
 10;739;n/a;COMPLETO
 10;740;Apparel;DIURNO
-10;741;Accident &Health Insurance;COMPLETO
+10;741;Accident -Health Insurance;COMPLETO
 10;742;Packaged Foods;DIURNO
 10;743;Semiconductors;COMPLETO
 10;744;n/a;DIURNO
@@ -754,7 +754,7 @@ idServicio;id;nombreSupermercado;horario
 10;753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;754;Natural Gas Distribution;COMPLETO
 10;755;n/a;DIURNO
-10;756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;757;Professional Services;NOCTURNO
 10;758;Air Freight/Delivery Services;COMPLETO
 10;759;n/a;COMPLETO
@@ -773,7 +773,7 @@ idServicio;id;nombreSupermercado;horario
 10;772;Savings Institutions;NOCTURNO
 10;773;Major Pharmaceuticals;COMPLETO
 10;774;Major Pharmaceuticals;DIURNO
-10;775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;776;Department/Specialty Retail Stores;DIURNO
 10;777;Packaged Foods;DIURNO
 10;778;Precious Metals;COMPLETO
@@ -785,7 +785,7 @@ idServicio;id;nombreSupermercado;horario
 10;784;Finance: Consumer Services;DIURNO
 10;785;n/a;NOCTURNO
 10;786;Major Banks;COMPLETO
-10;787;Oil & Gas Production;COMPLETO
+10;787;Oil - Gas Production;COMPLETO
 10;788;n/a;COMPLETO
 10;789;Air Freight/Delivery Services;COMPLETO
 10;790;n/a;NOCTURNO
@@ -826,7 +826,7 @@ idServicio;id;nombreSupermercado;horario
 10;825;Semiconductors;DIURNO
 10;826;n/a;COMPLETO
 10;827;Business Services;DIURNO
-10;828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;829;n/a;COMPLETO
 10;830;Oilfield Services/Equipment;DIURNO
 10;831;Hospital/Nursing Management;COMPLETO
@@ -871,10 +871,10 @@ idServicio;id;nombreSupermercado;horario
 10;870;Major Banks;DIURNO
 10;871;Other Consumer Services;COMPLETO
 10;872;Major Banks;COMPLETO
-10;873;Oil & Gas Production;DIURNO
+10;873;Oil - Gas Production;DIURNO
 10;874;Paints/Coatings;COMPLETO
 10;875;Investment Bankers/Brokers/Service;NOCTURNO
-10;876;Oil & Gas Production;DIURNO
+10;876;Oil - Gas Production;DIURNO
 10;877;Home Furnishings;NOCTURNO
 10;878;n/a;COMPLETO
 10;879;Business Services;DIURNO
@@ -886,7 +886,7 @@ idServicio;id;nombreSupermercado;horario
 10;885;Major Banks;COMPLETO
 10;886;Integrated oil Companies;COMPLETO
 10;887;Packaged Foods;COMPLETO
-10;888;Services-Misc. Amusement & Recreation;COMPLETO
+10;888;Services-Misc. Amusement - Recreation;COMPLETO
 10;889;n/a;NOCTURNO
 10;890;Medical Specialities;COMPLETO
 10;891;Apparel;COMPLETO
@@ -900,7 +900,7 @@ idServicio;id;nombreSupermercado;horario
 10;899;Computer Software: Prepackaged Software;NOCTURNO
 10;900;Medical/Dental Instruments;COMPLETO
 10;901;Apparel;DIURNO
-10;902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;903;Marine Transportation;DIURNO
 10;904;n/a;COMPLETO
 10;905;Business Services;COMPLETO
@@ -939,17 +939,17 @@ idServicio;id;nombreSupermercado;horario
 10;938;Transportation Services;NOCTURNO
 10;939;EDP Services;COMPLETO
 10;940;Medical Specialities;NOCTURNO
-10;941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;942;Precious Metals;NOCTURNO
 10;943;Industrial Machinery/Components;COMPLETO
 10;944;n/a;NOCTURNO
 10;945;Computer Software: Prepackaged Software;DIURNO
-10;946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;947;Commercial Banks;NOCTURNO
 10;948;Computer Software: Programming, Data Processing;NOCTURNO
 10;949;Property-Casualty Insurers;DIURNO
 10;950;Telecommunications Equipment;COMPLETO
-10;951;Services-Misc. Amusement & Recreation;DIURNO
+10;951;Services-Misc. Amusement - Recreation;DIURNO
 10;952;Major Banks;COMPLETO
 10;953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;954;Publishing;DIURNO
@@ -957,7 +957,7 @@ idServicio;id;nombreSupermercado;horario
 10;956;Major Banks;COMPLETO
 10;957;Food Distributors;DIURNO
 10;958;Hospital/Nursing Management;NOCTURNO
-10;959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;960;Computer Manufacturing;COMPLETO
 10;961;Hotels/Resorts;COMPLETO
 10;962;Food Chains;COMPLETO
@@ -1012,7 +1012,7 @@ idServicio;id;nombreSupermercado;horario
 10;1011;Multi-Sector Companies;DIURNO
 10;1012;n/a;COMPLETO
 10;1013;Packaged Foods;NOCTURNO
-10;1014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;1014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;1015;n/a;DIURNO
 10;1016;Real Estate Investment Trusts;COMPLETO
 10;1017;Telecommunications Equipment;NOCTURNO
@@ -1023,19 +1023,19 @@ idServicio;id;nombreSupermercado;horario
 10;1022;Oil Refining/Marketing;NOCTURNO
 10;1023;Business Services;DIURNO
 10;1024;n/a;DIURNO
-10;1025;Oil & Gas Production;DIURNO
+10;1025;Oil - Gas Production;DIURNO
 10;1026;n/a;COMPLETO
 10;1027;Electric Utilities: Central;DIURNO
 10;1028;n/a;COMPLETO
 10;1029;Major Pharmaceuticals;DIURNO
 10;1030;Industrial Machinery/Components;NOCTURNO
-10;1031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;1031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;1032;Consumer Specialties;DIURNO
 10;1033;n/a;NOCTURNO
-10;1034;Oil & Gas Production;NOCTURNO
+10;1034;Oil - Gas Production;NOCTURNO
 10;1035;Broadcasting;DIURNO
 10;1036;Motor Vehicles;COMPLETO
-10;1037;Oil & Gas Production;NOCTURNO
+10;1037;Oil - Gas Production;NOCTURNO
 10;1038;Electric Utilities: Central;NOCTURNO
 10;1039;Fluid Controls;NOCTURNO
 10;1040;Investment Bankers/Brokers/Service;DIURNO
@@ -1112,7 +1112,7 @@ idServicio;id;nombreSupermercado;horario
 10;1111;Finance: Consumer Services;NOCTURNO
 10;1112;Metal Fabrications;NOCTURNO
 10;1113;Transportation Services;DIURNO
-10;1114;Oil & Gas Production;DIURNO
+10;1114;Oil - Gas Production;DIURNO
 10;1115;Hospital/Nursing Management;NOCTURNO
 10;1116;n/a;DIURNO
 10;1117;Real Estate Investment Trusts;NOCTURNO
@@ -1143,14 +1143,14 @@ idServicio;id;nombreSupermercado;horario
 10;1142;Industrial Machinery/Components;COMPLETO
 10;1143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;1144;Environmental Services;DIURNO
-10;1145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;1145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;1146;Major Pharmaceuticals;COMPLETO
 10;1147;Commercial Banks;COMPLETO
 10;1148;Metal Fabrications;NOCTURNO
 10;1149;Department/Specialty Retail Stores;NOCTURNO
 10;1150;Major Pharmaceuticals;COMPLETO
 10;1151;Major Pharmaceuticals;NOCTURNO
-10;1152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;1152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;1153;Banks;DIURNO
 10;1154;Restaurants;NOCTURNO
 10;1155;Home Furnishings;DIURNO
@@ -1162,7 +1162,7 @@ idServicio;id;nombreSupermercado;horario
 10;1161;Real Estate Investment Trusts;COMPLETO
 10;1162;Industrial Machinery/Components;COMPLETO
 10;1163;Major Pharmaceuticals;NOCTURNO
-10;1164;Oil & Gas Production;DIURNO
+10;1164;Oil - Gas Production;DIURNO
 10;1165;Real Estate Investment Trusts;DIURNO
 10;1166;Major Pharmaceuticals;COMPLETO
 10;1167;Trucking Freight/Courier Services;DIURNO
@@ -1183,7 +1183,7 @@ idServicio;id;nombreSupermercado;horario
 10;1182;Integrated oil Companies;DIURNO
 10;1183;n/a;COMPLETO
 10;1184;Other Specialty Stores;DIURNO
-10;1185;Oil & Gas Production;DIURNO
+10;1185;Oil - Gas Production;DIURNO
 10;1186;Industrial Machinery/Components;COMPLETO
 10;1187;Marine Transportation;DIURNO
 10;1188;Business Services;DIURNO
@@ -1196,7 +1196,7 @@ idServicio;id;nombreSupermercado;horario
 10;1195;Major Banks;NOCTURNO
 10;1196;n/a;COMPLETO
 10;1197;Real Estate Investment Trusts;DIURNO
-10;1198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;1198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;1199;n/a;NOCTURNO
 10;1200;Major Banks;COMPLETO
 10;1201;n/a;DIURNO
@@ -1204,7 +1204,7 @@ idServicio;id;nombreSupermercado;horario
 10;1203;Office Equipment/Supplies/Services;NOCTURNO
 10;1204;Major Pharmaceuticals;NOCTURNO
 10;1205;Metal Fabrications;DIURNO
-10;1206;Oil & Gas Production;COMPLETO
+10;1206;Oil - Gas Production;COMPLETO
 10;1207;Medical Specialities;NOCTURNO
 10;1208;Real Estate;COMPLETO
 10;1209;Television Services;DIURNO
@@ -1245,15 +1245,15 @@ idServicio;id;nombreSupermercado;horario
 10;1244;Industrial Specialties;DIURNO
 10;1245;Integrated oil Companies;NOCTURNO
 10;1246;EDP Services;NOCTURNO
-10;1247;Oil & Gas Production;NOCTURNO
+10;1247;Oil - Gas Production;NOCTURNO
 10;1248;Savings Institutions;COMPLETO
 10;1249;Advertising;COMPLETO
 10;1250;Real Estate Investment Trusts;NOCTURNO
-10;1251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;1251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;1252;Major Banks;DIURNO
 10;1253;Containers/Packaging;NOCTURNO
 10;1254;Restaurants;NOCTURNO
-10;1255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;1255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;1256;Computer Software: Prepackaged Software;COMPLETO
 10;1257;Major Pharmaceuticals;COMPLETO
 10;1258;Hospital/Nursing Management;DIURNO
@@ -1298,7 +1298,7 @@ idServicio;id;nombreSupermercado;horario
 10;1297;Major Banks;COMPLETO
 10;1298;Newspapers/Magazines;COMPLETO
 10;1299;Computer Software: Prepackaged Software;NOCTURNO
-10;1300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;1300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;1301;Metal Fabrications;DIURNO
 10;1302;n/a;COMPLETO
 10;1303;Medical Specialities;NOCTURNO
@@ -1311,7 +1311,7 @@ idServicio;id;nombreSupermercado;horario
 10;1310;n/a;DIURNO
 10;1311;Major Banks;DIURNO
 10;1312;Major Banks;NOCTURNO
-10;1313;Oil & Gas Production;DIURNO
+10;1313;Oil - Gas Production;DIURNO
 10;1314;Major Chemicals;NOCTURNO
 10;1315;Restaurants;DIURNO
 10;1316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -1347,7 +1347,7 @@ idServicio;id;nombreSupermercado;horario
 10;1346;Department/Specialty Retail Stores;COMPLETO
 10;1347;n/a;NOCTURNO
 10;1348;Other Specialty Stores;COMPLETO
-10;1349;Oil & Gas Production;DIURNO
+10;1349;Oil - Gas Production;DIURNO
 10;1350;Major Banks;NOCTURNO
 10;1351;Real Estate Investment Trusts;DIURNO
 10;1352;Industrial Specialties;DIURNO
@@ -1355,7 +1355,7 @@ idServicio;id;nombreSupermercado;horario
 10;1354;n/a;COMPLETO
 10;1355;Semiconductors;COMPLETO
 10;1356;n/a;DIURNO
-10;1357;Oil & Gas Production;COMPLETO
+10;1357;Oil - Gas Production;COMPLETO
 10;1358;Broadcasting;NOCTURNO
 10;1359;Major Pharmaceuticals;COMPLETO
 10;1360;Military/Government/Technical;DIURNO
@@ -1370,13 +1370,13 @@ idServicio;id;nombreSupermercado;horario
 10;1369;Hospital/Nursing Management;NOCTURNO
 10;1370;Commercial Banks;NOCTURNO
 10;1371;n/a;NOCTURNO
-10;1372;Accident &Health Insurance;DIURNO
+10;1372;Accident -Health Insurance;DIURNO
 10;1373;Major Pharmaceuticals;COMPLETO
 10;1374;Clothing/Shoe/Accessory Stores;DIURNO
 10;1375;Diversified Financial Services;NOCTURNO
 10;1376;Packaged Foods;COMPLETO
 10;1377;n/a;DIURNO
-10;1378;Oil & Gas Production;DIURNO
+10;1378;Oil - Gas Production;DIURNO
 10;1379;Computer Software: Programming, Data Processing;NOCTURNO
 10;1380;Investment Bankers/Brokers/Service;NOCTURNO
 10;1381;Professional Services;COMPLETO
@@ -1406,9 +1406,9 @@ idServicio;id;nombreSupermercado;horario
 10;1405;Major Banks;DIURNO
 10;1406;n/a;COMPLETO
 10;1407;Computer Software: Prepackaged Software;COMPLETO
-10;1408;Oil & Gas Production;DIURNO
+10;1408;Oil - Gas Production;DIURNO
 10;1409;Steel/Iron Ore;NOCTURNO
-10;1410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;1410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;1411;Major Chemicals;NOCTURNO
 10;1412;Hospital/Nursing Management;COMPLETO
 10;1413;Industrial Specialties;COMPLETO
@@ -1427,7 +1427,7 @@ idServicio;id;nombreSupermercado;horario
 10;1426;Medical/Dental Instruments;DIURNO
 10;1427;Semiconductors;COMPLETO
 10;1428;Specialty Foods;NOCTURNO
-10;1429;Services-Misc. Amusement & Recreation;DIURNO
+10;1429;Services-Misc. Amusement - Recreation;DIURNO
 10;1430;EDP Services;NOCTURNO
 10;1431;Other Consumer Services;NOCTURNO
 10;1432;n/a;NOCTURNO
@@ -1468,7 +1468,7 @@ idServicio;id;nombreSupermercado;horario
 10;1467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;1468;n/a;DIURNO
 10;1469;n/a;DIURNO
-10;1470;Services-Misc. Amusement & Recreation;COMPLETO
+10;1470;Services-Misc. Amusement - Recreation;COMPLETO
 10;1471;Transportation Services;NOCTURNO
 10;1472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;1473;Commercial Banks;DIURNO
@@ -1511,7 +1511,7 @@ idServicio;id;nombreSupermercado;horario
 10;1510;Metal Fabrications;DIURNO
 10;1511;Environmental Services;COMPLETO
 10;1512;Other Consumer Services;DIURNO
-10;1513;Oil & Gas Production;COMPLETO
+10;1513;Oil - Gas Production;COMPLETO
 10;1514;Finance: Consumer Services;NOCTURNO
 10;1515;n/a;NOCTURNO
 10;1516;Specialty Insurers;DIURNO
@@ -1527,7 +1527,7 @@ idServicio;id;nombreSupermercado;horario
 10;1526;Farming/Seeds/Milling;NOCTURNO
 10;1527;Department/Specialty Retail Stores;DIURNO
 10;1528;n/a;COMPLETO
-10;1529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;1529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;1530;Electric Utilities: Central;DIURNO
 10;1531;Real Estate;NOCTURNO
 10;1532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -1603,7 +1603,7 @@ idServicio;id;nombreSupermercado;horario
 10;1602;n/a;DIURNO
 10;1603;n/a;COMPLETO
 10;1604;n/a;DIURNO
-10;1605;Oil & Gas Production;DIURNO
+10;1605;Oil - Gas Production;DIURNO
 10;1606;Major Chemicals;COMPLETO
 10;1607;Medical/Nursing Services;DIURNO
 10;1608;Major Pharmaceuticals;COMPLETO
@@ -1665,9 +1665,9 @@ idServicio;id;nombreSupermercado;horario
 10;1664;Diversified Commercial Services;DIURNO
 10;1665;n/a;NOCTURNO
 10;1666;Major Pharmaceuticals;COMPLETO
-10;1667;Accident &Health Insurance;NOCTURNO
+10;1667;Accident -Health Insurance;NOCTURNO
 10;1668;Transportation Services;DIURNO
-10;1669;Oil & Gas Production;NOCTURNO
+10;1669;Oil - Gas Production;NOCTURNO
 10;1670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;1671;n/a;DIURNO
 10;1672;n/a;COMPLETO
@@ -1677,13 +1677,13 @@ idServicio;id;nombreSupermercado;horario
 10;1676;Telecommunications Equipment;DIURNO
 10;1677;n/a;COMPLETO
 10;1678;Water Supply;COMPLETO
-10;1679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;1679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;1680;n/a;COMPLETO
-10;1681;Oil & Gas Production;DIURNO
+10;1681;Oil - Gas Production;DIURNO
 10;1682;Finance: Consumer Services;DIURNO
 10;1683;n/a;COMPLETO
 10;1684;Semiconductors;NOCTURNO
-10;1685;Oil & Gas Production;COMPLETO
+10;1685;Oil - Gas Production;COMPLETO
 10;1686;Real Estate Investment Trusts;DIURNO
 10;1687;Computer Manufacturing;NOCTURNO
 10;1688;Other Specialty Stores;DIURNO
@@ -1733,13 +1733,13 @@ idServicio;id;nombreSupermercado;horario
 10;1732;Major Pharmaceuticals;DIURNO
 10;1733;Savings Institutions;COMPLETO
 10;1734;n/a;COMPLETO
-10;1735;Oil & Gas Production;COMPLETO
+10;1735;Oil - Gas Production;COMPLETO
 10;1736;Major Banks;NOCTURNO
 10;1737;EDP Services;COMPLETO
 10;1738;Marine Transportation;COMPLETO
 10;1739;n/a;COMPLETO
 10;1740;Apparel;DIURNO
-10;1741;Accident &Health Insurance;COMPLETO
+10;1741;Accident -Health Insurance;COMPLETO
 10;1742;Packaged Foods;DIURNO
 10;1743;Semiconductors;COMPLETO
 10;1744;n/a;DIURNO
@@ -1754,7 +1754,7 @@ idServicio;id;nombreSupermercado;horario
 10;1753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;1754;Natural Gas Distribution;COMPLETO
 10;1755;n/a;DIURNO
-10;1756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;1756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;1757;Professional Services;NOCTURNO
 10;1758;Air Freight/Delivery Services;COMPLETO
 10;1759;n/a;COMPLETO
@@ -1773,7 +1773,7 @@ idServicio;id;nombreSupermercado;horario
 10;1772;Savings Institutions;NOCTURNO
 10;1773;Major Pharmaceuticals;COMPLETO
 10;1774;Major Pharmaceuticals;DIURNO
-10;1775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;1775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;1776;Department/Specialty Retail Stores;DIURNO
 10;1777;Packaged Foods;DIURNO
 10;1778;Precious Metals;COMPLETO
@@ -1785,7 +1785,7 @@ idServicio;id;nombreSupermercado;horario
 10;1784;Finance: Consumer Services;DIURNO
 10;1785;n/a;NOCTURNO
 10;1786;Major Banks;COMPLETO
-10;1787;Oil & Gas Production;COMPLETO
+10;1787;Oil - Gas Production;COMPLETO
 10;1788;n/a;COMPLETO
 10;1789;Air Freight/Delivery Services;COMPLETO
 10;1790;n/a;NOCTURNO
@@ -1826,7 +1826,7 @@ idServicio;id;nombreSupermercado;horario
 10;1825;Semiconductors;DIURNO
 10;1826;n/a;COMPLETO
 10;1827;Business Services;DIURNO
-10;1828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;1828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;1829;n/a;COMPLETO
 10;1830;Oilfield Services/Equipment;DIURNO
 10;1831;Hospital/Nursing Management;COMPLETO
@@ -1871,10 +1871,10 @@ idServicio;id;nombreSupermercado;horario
 10;1870;Major Banks;DIURNO
 10;1871;Other Consumer Services;COMPLETO
 10;1872;Major Banks;COMPLETO
-10;1873;Oil & Gas Production;DIURNO
+10;1873;Oil - Gas Production;DIURNO
 10;1874;Paints/Coatings;COMPLETO
 10;1875;Investment Bankers/Brokers/Service;NOCTURNO
-10;1876;Oil & Gas Production;DIURNO
+10;1876;Oil - Gas Production;DIURNO
 10;1877;Home Furnishings;NOCTURNO
 10;1878;n/a;COMPLETO
 10;1879;Business Services;DIURNO
@@ -1886,7 +1886,7 @@ idServicio;id;nombreSupermercado;horario
 10;1885;Major Banks;COMPLETO
 10;1886;Integrated oil Companies;COMPLETO
 10;1887;Packaged Foods;COMPLETO
-10;1888;Services-Misc. Amusement & Recreation;COMPLETO
+10;1888;Services-Misc. Amusement - Recreation;COMPLETO
 10;1889;n/a;NOCTURNO
 10;1890;Medical Specialities;COMPLETO
 10;1891;Apparel;COMPLETO
@@ -1900,7 +1900,7 @@ idServicio;id;nombreSupermercado;horario
 10;1899;Computer Software: Prepackaged Software;NOCTURNO
 10;1900;Medical/Dental Instruments;COMPLETO
 10;1901;Apparel;DIURNO
-10;1902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;1902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;1903;Marine Transportation;DIURNO
 10;1904;n/a;COMPLETO
 10;1905;Business Services;COMPLETO
@@ -1939,17 +1939,17 @@ idServicio;id;nombreSupermercado;horario
 10;1938;Transportation Services;NOCTURNO
 10;1939;EDP Services;COMPLETO
 10;1940;Medical Specialities;NOCTURNO
-10;1941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;1941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;1942;Precious Metals;NOCTURNO
 10;1943;Industrial Machinery/Components;COMPLETO
 10;1944;n/a;NOCTURNO
 10;1945;Computer Software: Prepackaged Software;DIURNO
-10;1946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;1946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;1947;Commercial Banks;NOCTURNO
 10;1948;Computer Software: Programming, Data Processing;NOCTURNO
 10;1949;Property-Casualty Insurers;DIURNO
 10;1950;Telecommunications Equipment;COMPLETO
-10;1951;Services-Misc. Amusement & Recreation;DIURNO
+10;1951;Services-Misc. Amusement - Recreation;DIURNO
 10;1952;Major Banks;COMPLETO
 10;1953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;1954;Publishing;DIURNO
@@ -1957,7 +1957,7 @@ idServicio;id;nombreSupermercado;horario
 10;1956;Major Banks;COMPLETO
 10;1957;Food Distributors;DIURNO
 10;1958;Hospital/Nursing Management;NOCTURNO
-10;1959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;1959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;1960;Computer Manufacturing;COMPLETO
 10;1961;Hotels/Resorts;COMPLETO
 10;1962;Food Chains;COMPLETO
@@ -2012,7 +2012,7 @@ idServicio;id;nombreSupermercado;horario
 10;2011;Multi-Sector Companies;DIURNO
 10;2012;n/a;COMPLETO
 10;2013;Packaged Foods;NOCTURNO
-10;2014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;2014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;2015;n/a;DIURNO
 10;2016;Real Estate Investment Trusts;COMPLETO
 10;2017;Telecommunications Equipment;NOCTURNO
@@ -2023,19 +2023,19 @@ idServicio;id;nombreSupermercado;horario
 10;2022;Oil Refining/Marketing;NOCTURNO
 10;2023;Business Services;DIURNO
 10;2024;n/a;DIURNO
-10;2025;Oil & Gas Production;DIURNO
+10;2025;Oil - Gas Production;DIURNO
 10;2026;n/a;COMPLETO
 10;2027;Electric Utilities: Central;DIURNO
 10;2028;n/a;COMPLETO
 10;2029;Major Pharmaceuticals;DIURNO
 10;2030;Industrial Machinery/Components;NOCTURNO
-10;2031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;2031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;2032;Consumer Specialties;DIURNO
 10;2033;n/a;NOCTURNO
-10;2034;Oil & Gas Production;NOCTURNO
+10;2034;Oil - Gas Production;NOCTURNO
 10;2035;Broadcasting;DIURNO
 10;2036;Motor Vehicles;COMPLETO
-10;2037;Oil & Gas Production;NOCTURNO
+10;2037;Oil - Gas Production;NOCTURNO
 10;2038;Electric Utilities: Central;NOCTURNO
 10;2039;Fluid Controls;NOCTURNO
 10;2040;Investment Bankers/Brokers/Service;DIURNO
@@ -2112,7 +2112,7 @@ idServicio;id;nombreSupermercado;horario
 10;2111;Finance: Consumer Services;NOCTURNO
 10;2112;Metal Fabrications;NOCTURNO
 10;2113;Transportation Services;DIURNO
-10;2114;Oil & Gas Production;DIURNO
+10;2114;Oil - Gas Production;DIURNO
 10;2115;Hospital/Nursing Management;NOCTURNO
 10;2116;n/a;DIURNO
 10;2117;Real Estate Investment Trusts;NOCTURNO
@@ -2143,14 +2143,14 @@ idServicio;id;nombreSupermercado;horario
 10;2142;Industrial Machinery/Components;COMPLETO
 10;2143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;2144;Environmental Services;DIURNO
-10;2145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;2145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;2146;Major Pharmaceuticals;COMPLETO
 10;2147;Commercial Banks;COMPLETO
 10;2148;Metal Fabrications;NOCTURNO
 10;2149;Department/Specialty Retail Stores;NOCTURNO
 10;2150;Major Pharmaceuticals;COMPLETO
 10;2151;Major Pharmaceuticals;NOCTURNO
-10;2152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;2152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;2153;Banks;DIURNO
 10;2154;Restaurants;NOCTURNO
 10;2155;Home Furnishings;DIURNO
@@ -2162,7 +2162,7 @@ idServicio;id;nombreSupermercado;horario
 10;2161;Real Estate Investment Trusts;COMPLETO
 10;2162;Industrial Machinery/Components;COMPLETO
 10;2163;Major Pharmaceuticals;NOCTURNO
-10;2164;Oil & Gas Production;DIURNO
+10;2164;Oil - Gas Production;DIURNO
 10;2165;Real Estate Investment Trusts;DIURNO
 10;2166;Major Pharmaceuticals;COMPLETO
 10;2167;Trucking Freight/Courier Services;DIURNO
@@ -2183,7 +2183,7 @@ idServicio;id;nombreSupermercado;horario
 10;2182;Integrated oil Companies;DIURNO
 10;2183;n/a;COMPLETO
 10;2184;Other Specialty Stores;DIURNO
-10;2185;Oil & Gas Production;DIURNO
+10;2185;Oil - Gas Production;DIURNO
 10;2186;Industrial Machinery/Components;COMPLETO
 10;2187;Marine Transportation;DIURNO
 10;2188;Business Services;DIURNO
@@ -2196,7 +2196,7 @@ idServicio;id;nombreSupermercado;horario
 10;2195;Major Banks;NOCTURNO
 10;2196;n/a;COMPLETO
 10;2197;Real Estate Investment Trusts;DIURNO
-10;2198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;2198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;2199;n/a;NOCTURNO
 10;2200;Major Banks;COMPLETO
 10;2201;n/a;DIURNO
@@ -2204,7 +2204,7 @@ idServicio;id;nombreSupermercado;horario
 10;2203;Office Equipment/Supplies/Services;NOCTURNO
 10;2204;Major Pharmaceuticals;NOCTURNO
 10;2205;Metal Fabrications;DIURNO
-10;2206;Oil & Gas Production;COMPLETO
+10;2206;Oil - Gas Production;COMPLETO
 10;2207;Medical Specialities;NOCTURNO
 10;2208;Real Estate;COMPLETO
 10;2209;Television Services;DIURNO
@@ -2245,15 +2245,15 @@ idServicio;id;nombreSupermercado;horario
 10;2244;Industrial Specialties;DIURNO
 10;2245;Integrated oil Companies;NOCTURNO
 10;2246;EDP Services;NOCTURNO
-10;2247;Oil & Gas Production;NOCTURNO
+10;2247;Oil - Gas Production;NOCTURNO
 10;2248;Savings Institutions;COMPLETO
 10;2249;Advertising;COMPLETO
 10;2250;Real Estate Investment Trusts;NOCTURNO
-10;2251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;2251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;2252;Major Banks;DIURNO
 10;2253;Containers/Packaging;NOCTURNO
 10;2254;Restaurants;NOCTURNO
-10;2255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;2255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;2256;Computer Software: Prepackaged Software;COMPLETO
 10;2257;Major Pharmaceuticals;COMPLETO
 10;2258;Hospital/Nursing Management;DIURNO
@@ -2298,7 +2298,7 @@ idServicio;id;nombreSupermercado;horario
 10;2297;Major Banks;COMPLETO
 10;2298;Newspapers/Magazines;COMPLETO
 10;2299;Computer Software: Prepackaged Software;NOCTURNO
-10;2300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;2300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;2301;Metal Fabrications;DIURNO
 10;2302;n/a;COMPLETO
 10;2303;Medical Specialities;NOCTURNO
@@ -2311,7 +2311,7 @@ idServicio;id;nombreSupermercado;horario
 10;2310;n/a;DIURNO
 10;2311;Major Banks;DIURNO
 10;2312;Major Banks;NOCTURNO
-10;2313;Oil & Gas Production;DIURNO
+10;2313;Oil - Gas Production;DIURNO
 10;2314;Major Chemicals;NOCTURNO
 10;2315;Restaurants;DIURNO
 10;2316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -2347,7 +2347,7 @@ idServicio;id;nombreSupermercado;horario
 10;2346;Department/Specialty Retail Stores;COMPLETO
 10;2347;n/a;NOCTURNO
 10;2348;Other Specialty Stores;COMPLETO
-10;2349;Oil & Gas Production;DIURNO
+10;2349;Oil - Gas Production;DIURNO
 10;2350;Major Banks;NOCTURNO
 10;2351;Real Estate Investment Trusts;DIURNO
 10;2352;Industrial Specialties;DIURNO
@@ -2355,7 +2355,7 @@ idServicio;id;nombreSupermercado;horario
 10;2354;n/a;COMPLETO
 10;2355;Semiconductors;COMPLETO
 10;2356;n/a;DIURNO
-10;2357;Oil & Gas Production;COMPLETO
+10;2357;Oil - Gas Production;COMPLETO
 10;2358;Broadcasting;NOCTURNO
 10;2359;Major Pharmaceuticals;COMPLETO
 10;2360;Military/Government/Technical;DIURNO
@@ -2370,13 +2370,13 @@ idServicio;id;nombreSupermercado;horario
 10;2369;Hospital/Nursing Management;NOCTURNO
 10;2370;Commercial Banks;NOCTURNO
 10;2371;n/a;NOCTURNO
-10;2372;Accident &Health Insurance;DIURNO
+10;2372;Accident -Health Insurance;DIURNO
 10;2373;Major Pharmaceuticals;COMPLETO
 10;2374;Clothing/Shoe/Accessory Stores;DIURNO
 10;2375;Diversified Financial Services;NOCTURNO
 10;2376;Packaged Foods;COMPLETO
 10;2377;n/a;DIURNO
-10;2378;Oil & Gas Production;DIURNO
+10;2378;Oil - Gas Production;DIURNO
 10;2379;Computer Software: Programming, Data Processing;NOCTURNO
 10;2380;Investment Bankers/Brokers/Service;NOCTURNO
 10;2381;Professional Services;COMPLETO
@@ -2406,9 +2406,9 @@ idServicio;id;nombreSupermercado;horario
 10;2405;Major Banks;DIURNO
 10;2406;n/a;COMPLETO
 10;2407;Computer Software: Prepackaged Software;COMPLETO
-10;2408;Oil & Gas Production;DIURNO
+10;2408;Oil - Gas Production;DIURNO
 10;2409;Steel/Iron Ore;NOCTURNO
-10;2410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;2410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;2411;Major Chemicals;NOCTURNO
 10;2412;Hospital/Nursing Management;COMPLETO
 10;2413;Industrial Specialties;COMPLETO
@@ -2427,7 +2427,7 @@ idServicio;id;nombreSupermercado;horario
 10;2426;Medical/Dental Instruments;DIURNO
 10;2427;Semiconductors;COMPLETO
 10;2428;Specialty Foods;NOCTURNO
-10;2429;Services-Misc. Amusement & Recreation;DIURNO
+10;2429;Services-Misc. Amusement - Recreation;DIURNO
 10;2430;EDP Services;NOCTURNO
 10;2431;Other Consumer Services;NOCTURNO
 10;2432;n/a;NOCTURNO
@@ -2468,7 +2468,7 @@ idServicio;id;nombreSupermercado;horario
 10;2467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;2468;n/a;DIURNO
 10;2469;n/a;DIURNO
-10;2470;Services-Misc. Amusement & Recreation;COMPLETO
+10;2470;Services-Misc. Amusement - Recreation;COMPLETO
 10;2471;Transportation Services;NOCTURNO
 10;2472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;2473;Commercial Banks;DIURNO
@@ -2511,7 +2511,7 @@ idServicio;id;nombreSupermercado;horario
 10;2510;Metal Fabrications;DIURNO
 10;2511;Environmental Services;COMPLETO
 10;2512;Other Consumer Services;DIURNO
-10;2513;Oil & Gas Production;COMPLETO
+10;2513;Oil - Gas Production;COMPLETO
 10;2514;Finance: Consumer Services;NOCTURNO
 10;2515;n/a;NOCTURNO
 10;2516;Specialty Insurers;DIURNO
@@ -2527,7 +2527,7 @@ idServicio;id;nombreSupermercado;horario
 10;2526;Farming/Seeds/Milling;NOCTURNO
 10;2527;Department/Specialty Retail Stores;DIURNO
 10;2528;n/a;COMPLETO
-10;2529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;2529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;2530;Electric Utilities: Central;DIURNO
 10;2531;Real Estate;NOCTURNO
 10;2532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -2603,7 +2603,7 @@ idServicio;id;nombreSupermercado;horario
 10;2602;n/a;DIURNO
 10;2603;n/a;COMPLETO
 10;2604;n/a;DIURNO
-10;2605;Oil & Gas Production;DIURNO
+10;2605;Oil - Gas Production;DIURNO
 10;2606;Major Chemicals;COMPLETO
 10;2607;Medical/Nursing Services;DIURNO
 10;2608;Major Pharmaceuticals;COMPLETO
@@ -2665,9 +2665,9 @@ idServicio;id;nombreSupermercado;horario
 10;2664;Diversified Commercial Services;DIURNO
 10;2665;n/a;NOCTURNO
 10;2666;Major Pharmaceuticals;COMPLETO
-10;2667;Accident &Health Insurance;NOCTURNO
+10;2667;Accident -Health Insurance;NOCTURNO
 10;2668;Transportation Services;DIURNO
-10;2669;Oil & Gas Production;NOCTURNO
+10;2669;Oil - Gas Production;NOCTURNO
 10;2670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;2671;n/a;DIURNO
 10;2672;n/a;COMPLETO
@@ -2677,13 +2677,13 @@ idServicio;id;nombreSupermercado;horario
 10;2676;Telecommunications Equipment;DIURNO
 10;2677;n/a;COMPLETO
 10;2678;Water Supply;COMPLETO
-10;2679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;2679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;2680;n/a;COMPLETO
-10;2681;Oil & Gas Production;DIURNO
+10;2681;Oil - Gas Production;DIURNO
 10;2682;Finance: Consumer Services;DIURNO
 10;2683;n/a;COMPLETO
 10;2684;Semiconductors;NOCTURNO
-10;2685;Oil & Gas Production;COMPLETO
+10;2685;Oil - Gas Production;COMPLETO
 10;2686;Real Estate Investment Trusts;DIURNO
 10;2687;Computer Manufacturing;NOCTURNO
 10;2688;Other Specialty Stores;DIURNO
@@ -2733,13 +2733,13 @@ idServicio;id;nombreSupermercado;horario
 10;2732;Major Pharmaceuticals;DIURNO
 10;2733;Savings Institutions;COMPLETO
 10;2734;n/a;COMPLETO
-10;2735;Oil & Gas Production;COMPLETO
+10;2735;Oil - Gas Production;COMPLETO
 10;2736;Major Banks;NOCTURNO
 10;2737;EDP Services;COMPLETO
 10;2738;Marine Transportation;COMPLETO
 10;2739;n/a;COMPLETO
 10;2740;Apparel;DIURNO
-10;2741;Accident &Health Insurance;COMPLETO
+10;2741;Accident -Health Insurance;COMPLETO
 10;2742;Packaged Foods;DIURNO
 10;2743;Semiconductors;COMPLETO
 10;2744;n/a;DIURNO
@@ -2754,7 +2754,7 @@ idServicio;id;nombreSupermercado;horario
 10;2753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;2754;Natural Gas Distribution;COMPLETO
 10;2755;n/a;DIURNO
-10;2756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;2756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;2757;Professional Services;NOCTURNO
 10;2758;Air Freight/Delivery Services;COMPLETO
 10;2759;n/a;COMPLETO
@@ -2773,7 +2773,7 @@ idServicio;id;nombreSupermercado;horario
 10;2772;Savings Institutions;NOCTURNO
 10;2773;Major Pharmaceuticals;COMPLETO
 10;2774;Major Pharmaceuticals;DIURNO
-10;2775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;2775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;2776;Department/Specialty Retail Stores;DIURNO
 10;2777;Packaged Foods;DIURNO
 10;2778;Precious Metals;COMPLETO
@@ -2785,7 +2785,7 @@ idServicio;id;nombreSupermercado;horario
 10;2784;Finance: Consumer Services;DIURNO
 10;2785;n/a;NOCTURNO
 10;2786;Major Banks;COMPLETO
-10;2787;Oil & Gas Production;COMPLETO
+10;2787;Oil - Gas Production;COMPLETO
 10;2788;n/a;COMPLETO
 10;2789;Air Freight/Delivery Services;COMPLETO
 10;2790;n/a;NOCTURNO
@@ -2826,7 +2826,7 @@ idServicio;id;nombreSupermercado;horario
 10;2825;Semiconductors;DIURNO
 10;2826;n/a;COMPLETO
 10;2827;Business Services;DIURNO
-10;2828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;2828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;2829;n/a;COMPLETO
 10;2830;Oilfield Services/Equipment;DIURNO
 10;2831;Hospital/Nursing Management;COMPLETO
@@ -2871,10 +2871,10 @@ idServicio;id;nombreSupermercado;horario
 10;2870;Major Banks;DIURNO
 10;2871;Other Consumer Services;COMPLETO
 10;2872;Major Banks;COMPLETO
-10;2873;Oil & Gas Production;DIURNO
+10;2873;Oil - Gas Production;DIURNO
 10;2874;Paints/Coatings;COMPLETO
 10;2875;Investment Bankers/Brokers/Service;NOCTURNO
-10;2876;Oil & Gas Production;DIURNO
+10;2876;Oil - Gas Production;DIURNO
 10;2877;Home Furnishings;NOCTURNO
 10;2878;n/a;COMPLETO
 10;2879;Business Services;DIURNO
@@ -2886,7 +2886,7 @@ idServicio;id;nombreSupermercado;horario
 10;2885;Major Banks;COMPLETO
 10;2886;Integrated oil Companies;COMPLETO
 10;2887;Packaged Foods;COMPLETO
-10;2888;Services-Misc. Amusement & Recreation;COMPLETO
+10;2888;Services-Misc. Amusement - Recreation;COMPLETO
 10;2889;n/a;NOCTURNO
 10;2890;Medical Specialities;COMPLETO
 10;2891;Apparel;COMPLETO
@@ -2900,7 +2900,7 @@ idServicio;id;nombreSupermercado;horario
 10;2899;Computer Software: Prepackaged Software;NOCTURNO
 10;2900;Medical/Dental Instruments;COMPLETO
 10;2901;Apparel;DIURNO
-10;2902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;2902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;2903;Marine Transportation;DIURNO
 10;2904;n/a;COMPLETO
 10;2905;Business Services;COMPLETO
@@ -2939,17 +2939,17 @@ idServicio;id;nombreSupermercado;horario
 10;2938;Transportation Services;NOCTURNO
 10;2939;EDP Services;COMPLETO
 10;2940;Medical Specialities;NOCTURNO
-10;2941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;2941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;2942;Precious Metals;NOCTURNO
 10;2943;Industrial Machinery/Components;COMPLETO
 10;2944;n/a;NOCTURNO
 10;2945;Computer Software: Prepackaged Software;DIURNO
-10;2946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;2946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;2947;Commercial Banks;NOCTURNO
 10;2948;Computer Software: Programming, Data Processing;NOCTURNO
 10;2949;Property-Casualty Insurers;DIURNO
 10;2950;Telecommunications Equipment;COMPLETO
-10;2951;Services-Misc. Amusement & Recreation;DIURNO
+10;2951;Services-Misc. Amusement - Recreation;DIURNO
 10;2952;Major Banks;COMPLETO
 10;2953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;2954;Publishing;DIURNO
@@ -2957,7 +2957,7 @@ idServicio;id;nombreSupermercado;horario
 10;2956;Major Banks;COMPLETO
 10;2957;Food Distributors;DIURNO
 10;2958;Hospital/Nursing Management;NOCTURNO
-10;2959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;2959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;2960;Computer Manufacturing;COMPLETO
 10;2961;Hotels/Resorts;COMPLETO
 10;2962;Food Chains;COMPLETO
@@ -3012,7 +3012,7 @@ idServicio;id;nombreSupermercado;horario
 10;3011;Multi-Sector Companies;DIURNO
 10;3012;n/a;COMPLETO
 10;3013;Packaged Foods;NOCTURNO
-10;3014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;3014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;3015;n/a;DIURNO
 10;3016;Real Estate Investment Trusts;COMPLETO
 10;3017;Telecommunications Equipment;NOCTURNO
@@ -3023,19 +3023,19 @@ idServicio;id;nombreSupermercado;horario
 10;3022;Oil Refining/Marketing;NOCTURNO
 10;3023;Business Services;DIURNO
 10;3024;n/a;DIURNO
-10;3025;Oil & Gas Production;DIURNO
+10;3025;Oil - Gas Production;DIURNO
 10;3026;n/a;COMPLETO
 10;3027;Electric Utilities: Central;DIURNO
 10;3028;n/a;COMPLETO
 10;3029;Major Pharmaceuticals;DIURNO
 10;3030;Industrial Machinery/Components;NOCTURNO
-10;3031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;3031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;3032;Consumer Specialties;DIURNO
 10;3033;n/a;NOCTURNO
-10;3034;Oil & Gas Production;NOCTURNO
+10;3034;Oil - Gas Production;NOCTURNO
 10;3035;Broadcasting;DIURNO
 10;3036;Motor Vehicles;COMPLETO
-10;3037;Oil & Gas Production;NOCTURNO
+10;3037;Oil - Gas Production;NOCTURNO
 10;3038;Electric Utilities: Central;NOCTURNO
 10;3039;Fluid Controls;NOCTURNO
 10;3040;Investment Bankers/Brokers/Service;DIURNO
@@ -3112,7 +3112,7 @@ idServicio;id;nombreSupermercado;horario
 10;3111;Finance: Consumer Services;NOCTURNO
 10;3112;Metal Fabrications;NOCTURNO
 10;3113;Transportation Services;DIURNO
-10;3114;Oil & Gas Production;DIURNO
+10;3114;Oil - Gas Production;DIURNO
 10;3115;Hospital/Nursing Management;NOCTURNO
 10;3116;n/a;DIURNO
 10;3117;Real Estate Investment Trusts;NOCTURNO
@@ -3143,14 +3143,14 @@ idServicio;id;nombreSupermercado;horario
 10;3142;Industrial Machinery/Components;COMPLETO
 10;3143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;3144;Environmental Services;DIURNO
-10;3145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;3145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;3146;Major Pharmaceuticals;COMPLETO
 10;3147;Commercial Banks;COMPLETO
 10;3148;Metal Fabrications;NOCTURNO
 10;3149;Department/Specialty Retail Stores;NOCTURNO
 10;3150;Major Pharmaceuticals;COMPLETO
 10;3151;Major Pharmaceuticals;NOCTURNO
-10;3152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;3152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;3153;Banks;DIURNO
 10;3154;Restaurants;NOCTURNO
 10;3155;Home Furnishings;DIURNO
@@ -3162,7 +3162,7 @@ idServicio;id;nombreSupermercado;horario
 10;3161;Real Estate Investment Trusts;COMPLETO
 10;3162;Industrial Machinery/Components;COMPLETO
 10;3163;Major Pharmaceuticals;NOCTURNO
-10;3164;Oil & Gas Production;DIURNO
+10;3164;Oil - Gas Production;DIURNO
 10;3165;Real Estate Investment Trusts;DIURNO
 10;3166;Major Pharmaceuticals;COMPLETO
 10;3167;Trucking Freight/Courier Services;DIURNO
@@ -3183,7 +3183,7 @@ idServicio;id;nombreSupermercado;horario
 10;3182;Integrated oil Companies;DIURNO
 10;3183;n/a;COMPLETO
 10;3184;Other Specialty Stores;DIURNO
-10;3185;Oil & Gas Production;DIURNO
+10;3185;Oil - Gas Production;DIURNO
 10;3186;Industrial Machinery/Components;COMPLETO
 10;3187;Marine Transportation;DIURNO
 10;3188;Business Services;DIURNO
@@ -3196,7 +3196,7 @@ idServicio;id;nombreSupermercado;horario
 10;3195;Major Banks;NOCTURNO
 10;3196;n/a;COMPLETO
 10;3197;Real Estate Investment Trusts;DIURNO
-10;3198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;3198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;3199;n/a;NOCTURNO
 10;3200;Major Banks;COMPLETO
 10;3201;n/a;DIURNO
@@ -3204,7 +3204,7 @@ idServicio;id;nombreSupermercado;horario
 10;3203;Office Equipment/Supplies/Services;NOCTURNO
 10;3204;Major Pharmaceuticals;NOCTURNO
 10;3205;Metal Fabrications;DIURNO
-10;3206;Oil & Gas Production;COMPLETO
+10;3206;Oil - Gas Production;COMPLETO
 10;3207;Medical Specialities;NOCTURNO
 10;3208;Real Estate;COMPLETO
 10;3209;Television Services;DIURNO
@@ -3245,15 +3245,15 @@ idServicio;id;nombreSupermercado;horario
 10;3244;Industrial Specialties;DIURNO
 10;3245;Integrated oil Companies;NOCTURNO
 10;3246;EDP Services;NOCTURNO
-10;3247;Oil & Gas Production;NOCTURNO
+10;3247;Oil - Gas Production;NOCTURNO
 10;3248;Savings Institutions;COMPLETO
 10;3249;Advertising;COMPLETO
 10;3250;Real Estate Investment Trusts;NOCTURNO
-10;3251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;3251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;3252;Major Banks;DIURNO
 10;3253;Containers/Packaging;NOCTURNO
 10;3254;Restaurants;NOCTURNO
-10;3255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;3255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;3256;Computer Software: Prepackaged Software;COMPLETO
 10;3257;Major Pharmaceuticals;COMPLETO
 10;3258;Hospital/Nursing Management;DIURNO
@@ -3298,7 +3298,7 @@ idServicio;id;nombreSupermercado;horario
 10;3297;Major Banks;COMPLETO
 10;3298;Newspapers/Magazines;COMPLETO
 10;3299;Computer Software: Prepackaged Software;NOCTURNO
-10;3300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;3300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;3301;Metal Fabrications;DIURNO
 10;3302;n/a;COMPLETO
 10;3303;Medical Specialities;NOCTURNO
@@ -3311,7 +3311,7 @@ idServicio;id;nombreSupermercado;horario
 10;3310;n/a;DIURNO
 10;3311;Major Banks;DIURNO
 10;3312;Major Banks;NOCTURNO
-10;3313;Oil & Gas Production;DIURNO
+10;3313;Oil - Gas Production;DIURNO
 10;3314;Major Chemicals;NOCTURNO
 10;3315;Restaurants;DIURNO
 10;3316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -3347,7 +3347,7 @@ idServicio;id;nombreSupermercado;horario
 10;3346;Department/Specialty Retail Stores;COMPLETO
 10;3347;n/a;NOCTURNO
 10;3348;Other Specialty Stores;COMPLETO
-10;3349;Oil & Gas Production;DIURNO
+10;3349;Oil - Gas Production;DIURNO
 10;3350;Major Banks;NOCTURNO
 10;3351;Real Estate Investment Trusts;DIURNO
 10;3352;Industrial Specialties;DIURNO
@@ -3355,7 +3355,7 @@ idServicio;id;nombreSupermercado;horario
 10;3354;n/a;COMPLETO
 10;3355;Semiconductors;COMPLETO
 10;3356;n/a;DIURNO
-10;3357;Oil & Gas Production;COMPLETO
+10;3357;Oil - Gas Production;COMPLETO
 10;3358;Broadcasting;NOCTURNO
 10;3359;Major Pharmaceuticals;COMPLETO
 10;3360;Military/Government/Technical;DIURNO
@@ -3370,13 +3370,13 @@ idServicio;id;nombreSupermercado;horario
 10;3369;Hospital/Nursing Management;NOCTURNO
 10;3370;Commercial Banks;NOCTURNO
 10;3371;n/a;NOCTURNO
-10;3372;Accident &Health Insurance;DIURNO
+10;3372;Accident -Health Insurance;DIURNO
 10;3373;Major Pharmaceuticals;COMPLETO
 10;3374;Clothing/Shoe/Accessory Stores;DIURNO
 10;3375;Diversified Financial Services;NOCTURNO
 10;3376;Packaged Foods;COMPLETO
 10;3377;n/a;DIURNO
-10;3378;Oil & Gas Production;DIURNO
+10;3378;Oil - Gas Production;DIURNO
 10;3379;Computer Software: Programming, Data Processing;NOCTURNO
 10;3380;Investment Bankers/Brokers/Service;NOCTURNO
 10;3381;Professional Services;COMPLETO
@@ -3406,9 +3406,9 @@ idServicio;id;nombreSupermercado;horario
 10;3405;Major Banks;DIURNO
 10;3406;n/a;COMPLETO
 10;3407;Computer Software: Prepackaged Software;COMPLETO
-10;3408;Oil & Gas Production;DIURNO
+10;3408;Oil - Gas Production;DIURNO
 10;3409;Steel/Iron Ore;NOCTURNO
-10;3410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;3410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;3411;Major Chemicals;NOCTURNO
 10;3412;Hospital/Nursing Management;COMPLETO
 10;3413;Industrial Specialties;COMPLETO
@@ -3427,7 +3427,7 @@ idServicio;id;nombreSupermercado;horario
 10;3426;Medical/Dental Instruments;DIURNO
 10;3427;Semiconductors;COMPLETO
 10;3428;Specialty Foods;NOCTURNO
-10;3429;Services-Misc. Amusement & Recreation;DIURNO
+10;3429;Services-Misc. Amusement - Recreation;DIURNO
 10;3430;EDP Services;NOCTURNO
 10;3431;Other Consumer Services;NOCTURNO
 10;3432;n/a;NOCTURNO
@@ -3468,7 +3468,7 @@ idServicio;id;nombreSupermercado;horario
 10;3467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;3468;n/a;DIURNO
 10;3469;n/a;DIURNO
-10;3470;Services-Misc. Amusement & Recreation;COMPLETO
+10;3470;Services-Misc. Amusement - Recreation;COMPLETO
 10;3471;Transportation Services;NOCTURNO
 10;3472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;3473;Commercial Banks;DIURNO
@@ -3511,7 +3511,7 @@ idServicio;id;nombreSupermercado;horario
 10;3510;Metal Fabrications;DIURNO
 10;3511;Environmental Services;COMPLETO
 10;3512;Other Consumer Services;DIURNO
-10;3513;Oil & Gas Production;COMPLETO
+10;3513;Oil - Gas Production;COMPLETO
 10;3514;Finance: Consumer Services;NOCTURNO
 10;3515;n/a;NOCTURNO
 10;3516;Specialty Insurers;DIURNO
@@ -3527,7 +3527,7 @@ idServicio;id;nombreSupermercado;horario
 10;3526;Farming/Seeds/Milling;NOCTURNO
 10;3527;Department/Specialty Retail Stores;DIURNO
 10;3528;n/a;COMPLETO
-10;3529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;3529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;3530;Electric Utilities: Central;DIURNO
 10;3531;Real Estate;NOCTURNO
 10;3532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -3603,7 +3603,7 @@ idServicio;id;nombreSupermercado;horario
 10;3602;n/a;DIURNO
 10;3603;n/a;COMPLETO
 10;3604;n/a;DIURNO
-10;3605;Oil & Gas Production;DIURNO
+10;3605;Oil - Gas Production;DIURNO
 10;3606;Major Chemicals;COMPLETO
 10;3607;Medical/Nursing Services;DIURNO
 10;3608;Major Pharmaceuticals;COMPLETO
@@ -3665,9 +3665,9 @@ idServicio;id;nombreSupermercado;horario
 10;3664;Diversified Commercial Services;DIURNO
 10;3665;n/a;NOCTURNO
 10;3666;Major Pharmaceuticals;COMPLETO
-10;3667;Accident &Health Insurance;NOCTURNO
+10;3667;Accident -Health Insurance;NOCTURNO
 10;3668;Transportation Services;DIURNO
-10;3669;Oil & Gas Production;NOCTURNO
+10;3669;Oil - Gas Production;NOCTURNO
 10;3670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;3671;n/a;DIURNO
 10;3672;n/a;COMPLETO
@@ -3677,13 +3677,13 @@ idServicio;id;nombreSupermercado;horario
 10;3676;Telecommunications Equipment;DIURNO
 10;3677;n/a;COMPLETO
 10;3678;Water Supply;COMPLETO
-10;3679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;3679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;3680;n/a;COMPLETO
-10;3681;Oil & Gas Production;DIURNO
+10;3681;Oil - Gas Production;DIURNO
 10;3682;Finance: Consumer Services;DIURNO
 10;3683;n/a;COMPLETO
 10;3684;Semiconductors;NOCTURNO
-10;3685;Oil & Gas Production;COMPLETO
+10;3685;Oil - Gas Production;COMPLETO
 10;3686;Real Estate Investment Trusts;DIURNO
 10;3687;Computer Manufacturing;NOCTURNO
 10;3688;Other Specialty Stores;DIURNO
@@ -3733,13 +3733,13 @@ idServicio;id;nombreSupermercado;horario
 10;3732;Major Pharmaceuticals;DIURNO
 10;3733;Savings Institutions;COMPLETO
 10;3734;n/a;COMPLETO
-10;3735;Oil & Gas Production;COMPLETO
+10;3735;Oil - Gas Production;COMPLETO
 10;3736;Major Banks;NOCTURNO
 10;3737;EDP Services;COMPLETO
 10;3738;Marine Transportation;COMPLETO
 10;3739;n/a;COMPLETO
 10;3740;Apparel;DIURNO
-10;3741;Accident &Health Insurance;COMPLETO
+10;3741;Accident -Health Insurance;COMPLETO
 10;3742;Packaged Foods;DIURNO
 10;3743;Semiconductors;COMPLETO
 10;3744;n/a;DIURNO
@@ -3754,7 +3754,7 @@ idServicio;id;nombreSupermercado;horario
 10;3753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;3754;Natural Gas Distribution;COMPLETO
 10;3755;n/a;DIURNO
-10;3756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;3756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;3757;Professional Services;NOCTURNO
 10;3758;Air Freight/Delivery Services;COMPLETO
 10;3759;n/a;COMPLETO
@@ -3773,7 +3773,7 @@ idServicio;id;nombreSupermercado;horario
 10;3772;Savings Institutions;NOCTURNO
 10;3773;Major Pharmaceuticals;COMPLETO
 10;3774;Major Pharmaceuticals;DIURNO
-10;3775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;3775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;3776;Department/Specialty Retail Stores;DIURNO
 10;3777;Packaged Foods;DIURNO
 10;3778;Precious Metals;COMPLETO
@@ -3785,7 +3785,7 @@ idServicio;id;nombreSupermercado;horario
 10;3784;Finance: Consumer Services;DIURNO
 10;3785;n/a;NOCTURNO
 10;3786;Major Banks;COMPLETO
-10;3787;Oil & Gas Production;COMPLETO
+10;3787;Oil - Gas Production;COMPLETO
 10;3788;n/a;COMPLETO
 10;3789;Air Freight/Delivery Services;COMPLETO
 10;3790;n/a;NOCTURNO
@@ -3826,7 +3826,7 @@ idServicio;id;nombreSupermercado;horario
 10;3825;Semiconductors;DIURNO
 10;3826;n/a;COMPLETO
 10;3827;Business Services;DIURNO
-10;3828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;3828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;3829;n/a;COMPLETO
 10;3830;Oilfield Services/Equipment;DIURNO
 10;3831;Hospital/Nursing Management;COMPLETO
@@ -3871,10 +3871,10 @@ idServicio;id;nombreSupermercado;horario
 10;3870;Major Banks;DIURNO
 10;3871;Other Consumer Services;COMPLETO
 10;3872;Major Banks;COMPLETO
-10;3873;Oil & Gas Production;DIURNO
+10;3873;Oil - Gas Production;DIURNO
 10;3874;Paints/Coatings;COMPLETO
 10;3875;Investment Bankers/Brokers/Service;NOCTURNO
-10;3876;Oil & Gas Production;DIURNO
+10;3876;Oil - Gas Production;DIURNO
 10;3877;Home Furnishings;NOCTURNO
 10;3878;n/a;COMPLETO
 10;3879;Business Services;DIURNO
@@ -3886,7 +3886,7 @@ idServicio;id;nombreSupermercado;horario
 10;3885;Major Banks;COMPLETO
 10;3886;Integrated oil Companies;COMPLETO
 10;3887;Packaged Foods;COMPLETO
-10;3888;Services-Misc. Amusement & Recreation;COMPLETO
+10;3888;Services-Misc. Amusement - Recreation;COMPLETO
 10;3889;n/a;NOCTURNO
 10;3890;Medical Specialities;COMPLETO
 10;3891;Apparel;COMPLETO
@@ -3900,7 +3900,7 @@ idServicio;id;nombreSupermercado;horario
 10;3899;Computer Software: Prepackaged Software;NOCTURNO
 10;3900;Medical/Dental Instruments;COMPLETO
 10;3901;Apparel;DIURNO
-10;3902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;3902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;3903;Marine Transportation;DIURNO
 10;3904;n/a;COMPLETO
 10;3905;Business Services;COMPLETO
@@ -3939,17 +3939,17 @@ idServicio;id;nombreSupermercado;horario
 10;3938;Transportation Services;NOCTURNO
 10;3939;EDP Services;COMPLETO
 10;3940;Medical Specialities;NOCTURNO
-10;3941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;3941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;3942;Precious Metals;NOCTURNO
 10;3943;Industrial Machinery/Components;COMPLETO
 10;3944;n/a;NOCTURNO
 10;3945;Computer Software: Prepackaged Software;DIURNO
-10;3946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;3946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;3947;Commercial Banks;NOCTURNO
 10;3948;Computer Software: Programming, Data Processing;NOCTURNO
 10;3949;Property-Casualty Insurers;DIURNO
 10;3950;Telecommunications Equipment;COMPLETO
-10;3951;Services-Misc. Amusement & Recreation;DIURNO
+10;3951;Services-Misc. Amusement - Recreation;DIURNO
 10;3952;Major Banks;COMPLETO
 10;3953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;3954;Publishing;DIURNO
@@ -3957,7 +3957,7 @@ idServicio;id;nombreSupermercado;horario
 10;3956;Major Banks;COMPLETO
 10;3957;Food Distributors;DIURNO
 10;3958;Hospital/Nursing Management;NOCTURNO
-10;3959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;3959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;3960;Computer Manufacturing;COMPLETO
 10;3961;Hotels/Resorts;COMPLETO
 10;3962;Food Chains;COMPLETO
@@ -4012,7 +4012,7 @@ idServicio;id;nombreSupermercado;horario
 10;4011;Multi-Sector Companies;DIURNO
 10;4012;n/a;COMPLETO
 10;4013;Packaged Foods;NOCTURNO
-10;4014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;4014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;4015;n/a;DIURNO
 10;4016;Real Estate Investment Trusts;COMPLETO
 10;4017;Telecommunications Equipment;NOCTURNO
@@ -4023,19 +4023,19 @@ idServicio;id;nombreSupermercado;horario
 10;4022;Oil Refining/Marketing;NOCTURNO
 10;4023;Business Services;DIURNO
 10;4024;n/a;DIURNO
-10;4025;Oil & Gas Production;DIURNO
+10;4025;Oil - Gas Production;DIURNO
 10;4026;n/a;COMPLETO
 10;4027;Electric Utilities: Central;DIURNO
 10;4028;n/a;COMPLETO
 10;4029;Major Pharmaceuticals;DIURNO
 10;4030;Industrial Machinery/Components;NOCTURNO
-10;4031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;4031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;4032;Consumer Specialties;DIURNO
 10;4033;n/a;NOCTURNO
-10;4034;Oil & Gas Production;NOCTURNO
+10;4034;Oil - Gas Production;NOCTURNO
 10;4035;Broadcasting;DIURNO
 10;4036;Motor Vehicles;COMPLETO
-10;4037;Oil & Gas Production;NOCTURNO
+10;4037;Oil - Gas Production;NOCTURNO
 10;4038;Electric Utilities: Central;NOCTURNO
 10;4039;Fluid Controls;NOCTURNO
 10;4040;Investment Bankers/Brokers/Service;DIURNO
@@ -4112,7 +4112,7 @@ idServicio;id;nombreSupermercado;horario
 10;4111;Finance: Consumer Services;NOCTURNO
 10;4112;Metal Fabrications;NOCTURNO
 10;4113;Transportation Services;DIURNO
-10;4114;Oil & Gas Production;DIURNO
+10;4114;Oil - Gas Production;DIURNO
 10;4115;Hospital/Nursing Management;NOCTURNO
 10;4116;n/a;DIURNO
 10;4117;Real Estate Investment Trusts;NOCTURNO
@@ -4143,14 +4143,14 @@ idServicio;id;nombreSupermercado;horario
 10;4142;Industrial Machinery/Components;COMPLETO
 10;4143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;4144;Environmental Services;DIURNO
-10;4145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;4145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;4146;Major Pharmaceuticals;COMPLETO
 10;4147;Commercial Banks;COMPLETO
 10;4148;Metal Fabrications;NOCTURNO
 10;4149;Department/Specialty Retail Stores;NOCTURNO
 10;4150;Major Pharmaceuticals;COMPLETO
 10;4151;Major Pharmaceuticals;NOCTURNO
-10;4152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;4152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;4153;Banks;DIURNO
 10;4154;Restaurants;NOCTURNO
 10;4155;Home Furnishings;DIURNO
@@ -4162,7 +4162,7 @@ idServicio;id;nombreSupermercado;horario
 10;4161;Real Estate Investment Trusts;COMPLETO
 10;4162;Industrial Machinery/Components;COMPLETO
 10;4163;Major Pharmaceuticals;NOCTURNO
-10;4164;Oil & Gas Production;DIURNO
+10;4164;Oil - Gas Production;DIURNO
 10;4165;Real Estate Investment Trusts;DIURNO
 10;4166;Major Pharmaceuticals;COMPLETO
 10;4167;Trucking Freight/Courier Services;DIURNO
@@ -4183,7 +4183,7 @@ idServicio;id;nombreSupermercado;horario
 10;4182;Integrated oil Companies;DIURNO
 10;4183;n/a;COMPLETO
 10;4184;Other Specialty Stores;DIURNO
-10;4185;Oil & Gas Production;DIURNO
+10;4185;Oil - Gas Production;DIURNO
 10;4186;Industrial Machinery/Components;COMPLETO
 10;4187;Marine Transportation;DIURNO
 10;4188;Business Services;DIURNO
@@ -4196,7 +4196,7 @@ idServicio;id;nombreSupermercado;horario
 10;4195;Major Banks;NOCTURNO
 10;4196;n/a;COMPLETO
 10;4197;Real Estate Investment Trusts;DIURNO
-10;4198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;4198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;4199;n/a;NOCTURNO
 10;4200;Major Banks;COMPLETO
 10;4201;n/a;DIURNO
@@ -4204,7 +4204,7 @@ idServicio;id;nombreSupermercado;horario
 10;4203;Office Equipment/Supplies/Services;NOCTURNO
 10;4204;Major Pharmaceuticals;NOCTURNO
 10;4205;Metal Fabrications;DIURNO
-10;4206;Oil & Gas Production;COMPLETO
+10;4206;Oil - Gas Production;COMPLETO
 10;4207;Medical Specialities;NOCTURNO
 10;4208;Real Estate;COMPLETO
 10;4209;Television Services;DIURNO
@@ -4245,15 +4245,15 @@ idServicio;id;nombreSupermercado;horario
 10;4244;Industrial Specialties;DIURNO
 10;4245;Integrated oil Companies;NOCTURNO
 10;4246;EDP Services;NOCTURNO
-10;4247;Oil & Gas Production;NOCTURNO
+10;4247;Oil - Gas Production;NOCTURNO
 10;4248;Savings Institutions;COMPLETO
 10;4249;Advertising;COMPLETO
 10;4250;Real Estate Investment Trusts;NOCTURNO
-10;4251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;4251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;4252;Major Banks;DIURNO
 10;4253;Containers/Packaging;NOCTURNO
 10;4254;Restaurants;NOCTURNO
-10;4255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;4255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;4256;Computer Software: Prepackaged Software;COMPLETO
 10;4257;Major Pharmaceuticals;COMPLETO
 10;4258;Hospital/Nursing Management;DIURNO
@@ -4298,7 +4298,7 @@ idServicio;id;nombreSupermercado;horario
 10;4297;Major Banks;COMPLETO
 10;4298;Newspapers/Magazines;COMPLETO
 10;4299;Computer Software: Prepackaged Software;NOCTURNO
-10;4300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;4300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;4301;Metal Fabrications;DIURNO
 10;4302;n/a;COMPLETO
 10;4303;Medical Specialities;NOCTURNO
@@ -4311,7 +4311,7 @@ idServicio;id;nombreSupermercado;horario
 10;4310;n/a;DIURNO
 10;4311;Major Banks;DIURNO
 10;4312;Major Banks;NOCTURNO
-10;4313;Oil & Gas Production;DIURNO
+10;4313;Oil - Gas Production;DIURNO
 10;4314;Major Chemicals;NOCTURNO
 10;4315;Restaurants;DIURNO
 10;4316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -4347,7 +4347,7 @@ idServicio;id;nombreSupermercado;horario
 10;4346;Department/Specialty Retail Stores;COMPLETO
 10;4347;n/a;NOCTURNO
 10;4348;Other Specialty Stores;COMPLETO
-10;4349;Oil & Gas Production;DIURNO
+10;4349;Oil - Gas Production;DIURNO
 10;4350;Major Banks;NOCTURNO
 10;4351;Real Estate Investment Trusts;DIURNO
 10;4352;Industrial Specialties;DIURNO
@@ -4355,7 +4355,7 @@ idServicio;id;nombreSupermercado;horario
 10;4354;n/a;COMPLETO
 10;4355;Semiconductors;COMPLETO
 10;4356;n/a;DIURNO
-10;4357;Oil & Gas Production;COMPLETO
+10;4357;Oil - Gas Production;COMPLETO
 10;4358;Broadcasting;NOCTURNO
 10;4359;Major Pharmaceuticals;COMPLETO
 10;4360;Military/Government/Technical;DIURNO
@@ -4370,13 +4370,13 @@ idServicio;id;nombreSupermercado;horario
 10;4369;Hospital/Nursing Management;NOCTURNO
 10;4370;Commercial Banks;NOCTURNO
 10;4371;n/a;NOCTURNO
-10;4372;Accident &Health Insurance;DIURNO
+10;4372;Accident -Health Insurance;DIURNO
 10;4373;Major Pharmaceuticals;COMPLETO
 10;4374;Clothing/Shoe/Accessory Stores;DIURNO
 10;4375;Diversified Financial Services;NOCTURNO
 10;4376;Packaged Foods;COMPLETO
 10;4377;n/a;DIURNO
-10;4378;Oil & Gas Production;DIURNO
+10;4378;Oil - Gas Production;DIURNO
 10;4379;Computer Software: Programming, Data Processing;NOCTURNO
 10;4380;Investment Bankers/Brokers/Service;NOCTURNO
 10;4381;Professional Services;COMPLETO
@@ -4406,9 +4406,9 @@ idServicio;id;nombreSupermercado;horario
 10;4405;Major Banks;DIURNO
 10;4406;n/a;COMPLETO
 10;4407;Computer Software: Prepackaged Software;COMPLETO
-10;4408;Oil & Gas Production;DIURNO
+10;4408;Oil - Gas Production;DIURNO
 10;4409;Steel/Iron Ore;NOCTURNO
-10;4410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;4410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;4411;Major Chemicals;NOCTURNO
 10;4412;Hospital/Nursing Management;COMPLETO
 10;4413;Industrial Specialties;COMPLETO
@@ -4427,7 +4427,7 @@ idServicio;id;nombreSupermercado;horario
 10;4426;Medical/Dental Instruments;DIURNO
 10;4427;Semiconductors;COMPLETO
 10;4428;Specialty Foods;NOCTURNO
-10;4429;Services-Misc. Amusement & Recreation;DIURNO
+10;4429;Services-Misc. Amusement - Recreation;DIURNO
 10;4430;EDP Services;NOCTURNO
 10;4431;Other Consumer Services;NOCTURNO
 10;4432;n/a;NOCTURNO
@@ -4468,7 +4468,7 @@ idServicio;id;nombreSupermercado;horario
 10;4467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;4468;n/a;DIURNO
 10;4469;n/a;DIURNO
-10;4470;Services-Misc. Amusement & Recreation;COMPLETO
+10;4470;Services-Misc. Amusement - Recreation;COMPLETO
 10;4471;Transportation Services;NOCTURNO
 10;4472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;4473;Commercial Banks;DIURNO
@@ -4511,7 +4511,7 @@ idServicio;id;nombreSupermercado;horario
 10;4510;Metal Fabrications;DIURNO
 10;4511;Environmental Services;COMPLETO
 10;4512;Other Consumer Services;DIURNO
-10;4513;Oil & Gas Production;COMPLETO
+10;4513;Oil - Gas Production;COMPLETO
 10;4514;Finance: Consumer Services;NOCTURNO
 10;4515;n/a;NOCTURNO
 10;4516;Specialty Insurers;DIURNO
@@ -4527,7 +4527,7 @@ idServicio;id;nombreSupermercado;horario
 10;4526;Farming/Seeds/Milling;NOCTURNO
 10;4527;Department/Specialty Retail Stores;DIURNO
 10;4528;n/a;COMPLETO
-10;4529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;4529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;4530;Electric Utilities: Central;DIURNO
 10;4531;Real Estate;NOCTURNO
 10;4532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -4603,7 +4603,7 @@ idServicio;id;nombreSupermercado;horario
 10;4602;n/a;DIURNO
 10;4603;n/a;COMPLETO
 10;4604;n/a;DIURNO
-10;4605;Oil & Gas Production;DIURNO
+10;4605;Oil - Gas Production;DIURNO
 10;4606;Major Chemicals;COMPLETO
 10;4607;Medical/Nursing Services;DIURNO
 10;4608;Major Pharmaceuticals;COMPLETO
@@ -4665,9 +4665,9 @@ idServicio;id;nombreSupermercado;horario
 10;4664;Diversified Commercial Services;DIURNO
 10;4665;n/a;NOCTURNO
 10;4666;Major Pharmaceuticals;COMPLETO
-10;4667;Accident &Health Insurance;NOCTURNO
+10;4667;Accident -Health Insurance;NOCTURNO
 10;4668;Transportation Services;DIURNO
-10;4669;Oil & Gas Production;NOCTURNO
+10;4669;Oil - Gas Production;NOCTURNO
 10;4670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;4671;n/a;DIURNO
 10;4672;n/a;COMPLETO
@@ -4677,13 +4677,13 @@ idServicio;id;nombreSupermercado;horario
 10;4676;Telecommunications Equipment;DIURNO
 10;4677;n/a;COMPLETO
 10;4678;Water Supply;COMPLETO
-10;4679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;4679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;4680;n/a;COMPLETO
-10;4681;Oil & Gas Production;DIURNO
+10;4681;Oil - Gas Production;DIURNO
 10;4682;Finance: Consumer Services;DIURNO
 10;4683;n/a;COMPLETO
 10;4684;Semiconductors;NOCTURNO
-10;4685;Oil & Gas Production;COMPLETO
+10;4685;Oil - Gas Production;COMPLETO
 10;4686;Real Estate Investment Trusts;DIURNO
 10;4687;Computer Manufacturing;NOCTURNO
 10;4688;Other Specialty Stores;DIURNO
@@ -4733,13 +4733,13 @@ idServicio;id;nombreSupermercado;horario
 10;4732;Major Pharmaceuticals;DIURNO
 10;4733;Savings Institutions;COMPLETO
 10;4734;n/a;COMPLETO
-10;4735;Oil & Gas Production;COMPLETO
+10;4735;Oil - Gas Production;COMPLETO
 10;4736;Major Banks;NOCTURNO
 10;4737;EDP Services;COMPLETO
 10;4738;Marine Transportation;COMPLETO
 10;4739;n/a;COMPLETO
 10;4740;Apparel;DIURNO
-10;4741;Accident &Health Insurance;COMPLETO
+10;4741;Accident -Health Insurance;COMPLETO
 10;4742;Packaged Foods;DIURNO
 10;4743;Semiconductors;COMPLETO
 10;4744;n/a;DIURNO
@@ -4754,7 +4754,7 @@ idServicio;id;nombreSupermercado;horario
 10;4753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;4754;Natural Gas Distribution;COMPLETO
 10;4755;n/a;DIURNO
-10;4756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;4756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;4757;Professional Services;NOCTURNO
 10;4758;Air Freight/Delivery Services;COMPLETO
 10;4759;n/a;COMPLETO
@@ -4773,7 +4773,7 @@ idServicio;id;nombreSupermercado;horario
 10;4772;Savings Institutions;NOCTURNO
 10;4773;Major Pharmaceuticals;COMPLETO
 10;4774;Major Pharmaceuticals;DIURNO
-10;4775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;4775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;4776;Department/Specialty Retail Stores;DIURNO
 10;4777;Packaged Foods;DIURNO
 10;4778;Precious Metals;COMPLETO
@@ -4785,7 +4785,7 @@ idServicio;id;nombreSupermercado;horario
 10;4784;Finance: Consumer Services;DIURNO
 10;4785;n/a;NOCTURNO
 10;4786;Major Banks;COMPLETO
-10;4787;Oil & Gas Production;COMPLETO
+10;4787;Oil - Gas Production;COMPLETO
 10;4788;n/a;COMPLETO
 10;4789;Air Freight/Delivery Services;COMPLETO
 10;4790;n/a;NOCTURNO
@@ -4826,7 +4826,7 @@ idServicio;id;nombreSupermercado;horario
 10;4825;Semiconductors;DIURNO
 10;4826;n/a;COMPLETO
 10;4827;Business Services;DIURNO
-10;4828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;4828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;4829;n/a;COMPLETO
 10;4830;Oilfield Services/Equipment;DIURNO
 10;4831;Hospital/Nursing Management;COMPLETO
@@ -4871,10 +4871,10 @@ idServicio;id;nombreSupermercado;horario
 10;4870;Major Banks;DIURNO
 10;4871;Other Consumer Services;COMPLETO
 10;4872;Major Banks;COMPLETO
-10;4873;Oil & Gas Production;DIURNO
+10;4873;Oil - Gas Production;DIURNO
 10;4874;Paints/Coatings;COMPLETO
 10;4875;Investment Bankers/Brokers/Service;NOCTURNO
-10;4876;Oil & Gas Production;DIURNO
+10;4876;Oil - Gas Production;DIURNO
 10;4877;Home Furnishings;NOCTURNO
 10;4878;n/a;COMPLETO
 10;4879;Business Services;DIURNO
@@ -4886,7 +4886,7 @@ idServicio;id;nombreSupermercado;horario
 10;4885;Major Banks;COMPLETO
 10;4886;Integrated oil Companies;COMPLETO
 10;4887;Packaged Foods;COMPLETO
-10;4888;Services-Misc. Amusement & Recreation;COMPLETO
+10;4888;Services-Misc. Amusement - Recreation;COMPLETO
 10;4889;n/a;NOCTURNO
 10;4890;Medical Specialities;COMPLETO
 10;4891;Apparel;COMPLETO
@@ -4900,7 +4900,7 @@ idServicio;id;nombreSupermercado;horario
 10;4899;Computer Software: Prepackaged Software;NOCTURNO
 10;4900;Medical/Dental Instruments;COMPLETO
 10;4901;Apparel;DIURNO
-10;4902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;4902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;4903;Marine Transportation;DIURNO
 10;4904;n/a;COMPLETO
 10;4905;Business Services;COMPLETO
@@ -4939,17 +4939,17 @@ idServicio;id;nombreSupermercado;horario
 10;4938;Transportation Services;NOCTURNO
 10;4939;EDP Services;COMPLETO
 10;4940;Medical Specialities;NOCTURNO
-10;4941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;4941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;4942;Precious Metals;NOCTURNO
 10;4943;Industrial Machinery/Components;COMPLETO
 10;4944;n/a;NOCTURNO
 10;4945;Computer Software: Prepackaged Software;DIURNO
-10;4946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;4946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;4947;Commercial Banks;NOCTURNO
 10;4948;Computer Software: Programming, Data Processing;NOCTURNO
 10;4949;Property-Casualty Insurers;DIURNO
 10;4950;Telecommunications Equipment;COMPLETO
-10;4951;Services-Misc. Amusement & Recreation;DIURNO
+10;4951;Services-Misc. Amusement - Recreation;DIURNO
 10;4952;Major Banks;COMPLETO
 10;4953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;4954;Publishing;DIURNO
@@ -4957,7 +4957,7 @@ idServicio;id;nombreSupermercado;horario
 10;4956;Major Banks;COMPLETO
 10;4957;Food Distributors;DIURNO
 10;4958;Hospital/Nursing Management;NOCTURNO
-10;4959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;4959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;4960;Computer Manufacturing;COMPLETO
 10;4961;Hotels/Resorts;COMPLETO
 10;4962;Food Chains;COMPLETO
@@ -5012,7 +5012,7 @@ idServicio;id;nombreSupermercado;horario
 10;5011;Multi-Sector Companies;DIURNO
 10;5012;n/a;COMPLETO
 10;5013;Packaged Foods;NOCTURNO
-10;5014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;5014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;5015;n/a;DIURNO
 10;5016;Real Estate Investment Trusts;COMPLETO
 10;5017;Telecommunications Equipment;NOCTURNO
@@ -5023,19 +5023,19 @@ idServicio;id;nombreSupermercado;horario
 10;5022;Oil Refining/Marketing;NOCTURNO
 10;5023;Business Services;DIURNO
 10;5024;n/a;DIURNO
-10;5025;Oil & Gas Production;DIURNO
+10;5025;Oil - Gas Production;DIURNO
 10;5026;n/a;COMPLETO
 10;5027;Electric Utilities: Central;DIURNO
 10;5028;n/a;COMPLETO
 10;5029;Major Pharmaceuticals;DIURNO
 10;5030;Industrial Machinery/Components;NOCTURNO
-10;5031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;5031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;5032;Consumer Specialties;DIURNO
 10;5033;n/a;NOCTURNO
-10;5034;Oil & Gas Production;NOCTURNO
+10;5034;Oil - Gas Production;NOCTURNO
 10;5035;Broadcasting;DIURNO
 10;5036;Motor Vehicles;COMPLETO
-10;5037;Oil & Gas Production;NOCTURNO
+10;5037;Oil - Gas Production;NOCTURNO
 10;5038;Electric Utilities: Central;NOCTURNO
 10;5039;Fluid Controls;NOCTURNO
 10;5040;Investment Bankers/Brokers/Service;DIURNO
@@ -5112,7 +5112,7 @@ idServicio;id;nombreSupermercado;horario
 10;5111;Finance: Consumer Services;NOCTURNO
 10;5112;Metal Fabrications;NOCTURNO
 10;5113;Transportation Services;DIURNO
-10;5114;Oil & Gas Production;DIURNO
+10;5114;Oil - Gas Production;DIURNO
 10;5115;Hospital/Nursing Management;NOCTURNO
 10;5116;n/a;DIURNO
 10;5117;Real Estate Investment Trusts;NOCTURNO
@@ -5143,14 +5143,14 @@ idServicio;id;nombreSupermercado;horario
 10;5142;Industrial Machinery/Components;COMPLETO
 10;5143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;5144;Environmental Services;DIURNO
-10;5145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;5145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;5146;Major Pharmaceuticals;COMPLETO
 10;5147;Commercial Banks;COMPLETO
 10;5148;Metal Fabrications;NOCTURNO
 10;5149;Department/Specialty Retail Stores;NOCTURNO
 10;5150;Major Pharmaceuticals;COMPLETO
 10;5151;Major Pharmaceuticals;NOCTURNO
-10;5152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;5152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;5153;Banks;DIURNO
 10;5154;Restaurants;NOCTURNO
 10;5155;Home Furnishings;DIURNO
@@ -5162,7 +5162,7 @@ idServicio;id;nombreSupermercado;horario
 10;5161;Real Estate Investment Trusts;COMPLETO
 10;5162;Industrial Machinery/Components;COMPLETO
 10;5163;Major Pharmaceuticals;NOCTURNO
-10;5164;Oil & Gas Production;DIURNO
+10;5164;Oil - Gas Production;DIURNO
 10;5165;Real Estate Investment Trusts;DIURNO
 10;5166;Major Pharmaceuticals;COMPLETO
 10;5167;Trucking Freight/Courier Services;DIURNO
@@ -5183,7 +5183,7 @@ idServicio;id;nombreSupermercado;horario
 10;5182;Integrated oil Companies;DIURNO
 10;5183;n/a;COMPLETO
 10;5184;Other Specialty Stores;DIURNO
-10;5185;Oil & Gas Production;DIURNO
+10;5185;Oil - Gas Production;DIURNO
 10;5186;Industrial Machinery/Components;COMPLETO
 10;5187;Marine Transportation;DIURNO
 10;5188;Business Services;DIURNO
@@ -5196,7 +5196,7 @@ idServicio;id;nombreSupermercado;horario
 10;5195;Major Banks;NOCTURNO
 10;5196;n/a;COMPLETO
 10;5197;Real Estate Investment Trusts;DIURNO
-10;5198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;5198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;5199;n/a;NOCTURNO
 10;5200;Major Banks;COMPLETO
 10;5201;n/a;DIURNO
@@ -5204,7 +5204,7 @@ idServicio;id;nombreSupermercado;horario
 10;5203;Office Equipment/Supplies/Services;NOCTURNO
 10;5204;Major Pharmaceuticals;NOCTURNO
 10;5205;Metal Fabrications;DIURNO
-10;5206;Oil & Gas Production;COMPLETO
+10;5206;Oil - Gas Production;COMPLETO
 10;5207;Medical Specialities;NOCTURNO
 10;5208;Real Estate;COMPLETO
 10;5209;Television Services;DIURNO
@@ -5245,15 +5245,15 @@ idServicio;id;nombreSupermercado;horario
 10;5244;Industrial Specialties;DIURNO
 10;5245;Integrated oil Companies;NOCTURNO
 10;5246;EDP Services;NOCTURNO
-10;5247;Oil & Gas Production;NOCTURNO
+10;5247;Oil - Gas Production;NOCTURNO
 10;5248;Savings Institutions;COMPLETO
 10;5249;Advertising;COMPLETO
 10;5250;Real Estate Investment Trusts;NOCTURNO
-10;5251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;5251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;5252;Major Banks;DIURNO
 10;5253;Containers/Packaging;NOCTURNO
 10;5254;Restaurants;NOCTURNO
-10;5255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;5255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;5256;Computer Software: Prepackaged Software;COMPLETO
 10;5257;Major Pharmaceuticals;COMPLETO
 10;5258;Hospital/Nursing Management;DIURNO
@@ -5298,7 +5298,7 @@ idServicio;id;nombreSupermercado;horario
 10;5297;Major Banks;COMPLETO
 10;5298;Newspapers/Magazines;COMPLETO
 10;5299;Computer Software: Prepackaged Software;NOCTURNO
-10;5300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;5300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;5301;Metal Fabrications;DIURNO
 10;5302;n/a;COMPLETO
 10;5303;Medical Specialities;NOCTURNO
@@ -5311,7 +5311,7 @@ idServicio;id;nombreSupermercado;horario
 10;5310;n/a;DIURNO
 10;5311;Major Banks;DIURNO
 10;5312;Major Banks;NOCTURNO
-10;5313;Oil & Gas Production;DIURNO
+10;5313;Oil - Gas Production;DIURNO
 10;5314;Major Chemicals;NOCTURNO
 10;5315;Restaurants;DIURNO
 10;5316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -5347,7 +5347,7 @@ idServicio;id;nombreSupermercado;horario
 10;5346;Department/Specialty Retail Stores;COMPLETO
 10;5347;n/a;NOCTURNO
 10;5348;Other Specialty Stores;COMPLETO
-10;5349;Oil & Gas Production;DIURNO
+10;5349;Oil - Gas Production;DIURNO
 10;5350;Major Banks;NOCTURNO
 10;5351;Real Estate Investment Trusts;DIURNO
 10;5352;Industrial Specialties;DIURNO
@@ -5355,7 +5355,7 @@ idServicio;id;nombreSupermercado;horario
 10;5354;n/a;COMPLETO
 10;5355;Semiconductors;COMPLETO
 10;5356;n/a;DIURNO
-10;5357;Oil & Gas Production;COMPLETO
+10;5357;Oil - Gas Production;COMPLETO
 10;5358;Broadcasting;NOCTURNO
 10;5359;Major Pharmaceuticals;COMPLETO
 10;5360;Military/Government/Technical;DIURNO
@@ -5370,13 +5370,13 @@ idServicio;id;nombreSupermercado;horario
 10;5369;Hospital/Nursing Management;NOCTURNO
 10;5370;Commercial Banks;NOCTURNO
 10;5371;n/a;NOCTURNO
-10;5372;Accident &Health Insurance;DIURNO
+10;5372;Accident -Health Insurance;DIURNO
 10;5373;Major Pharmaceuticals;COMPLETO
 10;5374;Clothing/Shoe/Accessory Stores;DIURNO
 10;5375;Diversified Financial Services;NOCTURNO
 10;5376;Packaged Foods;COMPLETO
 10;5377;n/a;DIURNO
-10;5378;Oil & Gas Production;DIURNO
+10;5378;Oil - Gas Production;DIURNO
 10;5379;Computer Software: Programming, Data Processing;NOCTURNO
 10;5380;Investment Bankers/Brokers/Service;NOCTURNO
 10;5381;Professional Services;COMPLETO
@@ -5406,9 +5406,9 @@ idServicio;id;nombreSupermercado;horario
 10;5405;Major Banks;DIURNO
 10;5406;n/a;COMPLETO
 10;5407;Computer Software: Prepackaged Software;COMPLETO
-10;5408;Oil & Gas Production;DIURNO
+10;5408;Oil - Gas Production;DIURNO
 10;5409;Steel/Iron Ore;NOCTURNO
-10;5410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;5410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;5411;Major Chemicals;NOCTURNO
 10;5412;Hospital/Nursing Management;COMPLETO
 10;5413;Industrial Specialties;COMPLETO
@@ -5427,7 +5427,7 @@ idServicio;id;nombreSupermercado;horario
 10;5426;Medical/Dental Instruments;DIURNO
 10;5427;Semiconductors;COMPLETO
 10;5428;Specialty Foods;NOCTURNO
-10;5429;Services-Misc. Amusement & Recreation;DIURNO
+10;5429;Services-Misc. Amusement - Recreation;DIURNO
 10;5430;EDP Services;NOCTURNO
 10;5431;Other Consumer Services;NOCTURNO
 10;5432;n/a;NOCTURNO
@@ -5468,7 +5468,7 @@ idServicio;id;nombreSupermercado;horario
 10;5467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;5468;n/a;DIURNO
 10;5469;n/a;DIURNO
-10;5470;Services-Misc. Amusement & Recreation;COMPLETO
+10;5470;Services-Misc. Amusement - Recreation;COMPLETO
 10;5471;Transportation Services;NOCTURNO
 10;5472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;5473;Commercial Banks;DIURNO
@@ -5511,7 +5511,7 @@ idServicio;id;nombreSupermercado;horario
 10;5510;Metal Fabrications;DIURNO
 10;5511;Environmental Services;COMPLETO
 10;5512;Other Consumer Services;DIURNO
-10;5513;Oil & Gas Production;COMPLETO
+10;5513;Oil - Gas Production;COMPLETO
 10;5514;Finance: Consumer Services;NOCTURNO
 10;5515;n/a;NOCTURNO
 10;5516;Specialty Insurers;DIURNO
@@ -5527,7 +5527,7 @@ idServicio;id;nombreSupermercado;horario
 10;5526;Farming/Seeds/Milling;NOCTURNO
 10;5527;Department/Specialty Retail Stores;DIURNO
 10;5528;n/a;COMPLETO
-10;5529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;5529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;5530;Electric Utilities: Central;DIURNO
 10;5531;Real Estate;NOCTURNO
 10;5532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -5603,7 +5603,7 @@ idServicio;id;nombreSupermercado;horario
 10;5602;n/a;DIURNO
 10;5603;n/a;COMPLETO
 10;5604;n/a;DIURNO
-10;5605;Oil & Gas Production;DIURNO
+10;5605;Oil - Gas Production;DIURNO
 10;5606;Major Chemicals;COMPLETO
 10;5607;Medical/Nursing Services;DIURNO
 10;5608;Major Pharmaceuticals;COMPLETO
@@ -5665,9 +5665,9 @@ idServicio;id;nombreSupermercado;horario
 10;5664;Diversified Commercial Services;DIURNO
 10;5665;n/a;NOCTURNO
 10;5666;Major Pharmaceuticals;COMPLETO
-10;5667;Accident &Health Insurance;NOCTURNO
+10;5667;Accident -Health Insurance;NOCTURNO
 10;5668;Transportation Services;DIURNO
-10;5669;Oil & Gas Production;NOCTURNO
+10;5669;Oil - Gas Production;NOCTURNO
 10;5670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;5671;n/a;DIURNO
 10;5672;n/a;COMPLETO
@@ -5677,13 +5677,13 @@ idServicio;id;nombreSupermercado;horario
 10;5676;Telecommunications Equipment;DIURNO
 10;5677;n/a;COMPLETO
 10;5678;Water Supply;COMPLETO
-10;5679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;5679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;5680;n/a;COMPLETO
-10;5681;Oil & Gas Production;DIURNO
+10;5681;Oil - Gas Production;DIURNO
 10;5682;Finance: Consumer Services;DIURNO
 10;5683;n/a;COMPLETO
 10;5684;Semiconductors;NOCTURNO
-10;5685;Oil & Gas Production;COMPLETO
+10;5685;Oil - Gas Production;COMPLETO
 10;5686;Real Estate Investment Trusts;DIURNO
 10;5687;Computer Manufacturing;NOCTURNO
 10;5688;Other Specialty Stores;DIURNO
@@ -5733,13 +5733,13 @@ idServicio;id;nombreSupermercado;horario
 10;5732;Major Pharmaceuticals;DIURNO
 10;5733;Savings Institutions;COMPLETO
 10;5734;n/a;COMPLETO
-10;5735;Oil & Gas Production;COMPLETO
+10;5735;Oil - Gas Production;COMPLETO
 10;5736;Major Banks;NOCTURNO
 10;5737;EDP Services;COMPLETO
 10;5738;Marine Transportation;COMPLETO
 10;5739;n/a;COMPLETO
 10;5740;Apparel;DIURNO
-10;5741;Accident &Health Insurance;COMPLETO
+10;5741;Accident -Health Insurance;COMPLETO
 10;5742;Packaged Foods;DIURNO
 10;5743;Semiconductors;COMPLETO
 10;5744;n/a;DIURNO
@@ -5754,7 +5754,7 @@ idServicio;id;nombreSupermercado;horario
 10;5753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;5754;Natural Gas Distribution;COMPLETO
 10;5755;n/a;DIURNO
-10;5756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;5756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;5757;Professional Services;NOCTURNO
 10;5758;Air Freight/Delivery Services;COMPLETO
 10;5759;n/a;COMPLETO
@@ -5773,7 +5773,7 @@ idServicio;id;nombreSupermercado;horario
 10;5772;Savings Institutions;NOCTURNO
 10;5773;Major Pharmaceuticals;COMPLETO
 10;5774;Major Pharmaceuticals;DIURNO
-10;5775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;5775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;5776;Department/Specialty Retail Stores;DIURNO
 10;5777;Packaged Foods;DIURNO
 10;5778;Precious Metals;COMPLETO
@@ -5785,7 +5785,7 @@ idServicio;id;nombreSupermercado;horario
 10;5784;Finance: Consumer Services;DIURNO
 10;5785;n/a;NOCTURNO
 10;5786;Major Banks;COMPLETO
-10;5787;Oil & Gas Production;COMPLETO
+10;5787;Oil - Gas Production;COMPLETO
 10;5788;n/a;COMPLETO
 10;5789;Air Freight/Delivery Services;COMPLETO
 10;5790;n/a;NOCTURNO
@@ -5826,7 +5826,7 @@ idServicio;id;nombreSupermercado;horario
 10;5825;Semiconductors;DIURNO
 10;5826;n/a;COMPLETO
 10;5827;Business Services;DIURNO
-10;5828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;5828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;5829;n/a;COMPLETO
 10;5830;Oilfield Services/Equipment;DIURNO
 10;5831;Hospital/Nursing Management;COMPLETO
@@ -5871,10 +5871,10 @@ idServicio;id;nombreSupermercado;horario
 10;5870;Major Banks;DIURNO
 10;5871;Other Consumer Services;COMPLETO
 10;5872;Major Banks;COMPLETO
-10;5873;Oil & Gas Production;DIURNO
+10;5873;Oil - Gas Production;DIURNO
 10;5874;Paints/Coatings;COMPLETO
 10;5875;Investment Bankers/Brokers/Service;NOCTURNO
-10;5876;Oil & Gas Production;DIURNO
+10;5876;Oil - Gas Production;DIURNO
 10;5877;Home Furnishings;NOCTURNO
 10;5878;n/a;COMPLETO
 10;5879;Business Services;DIURNO
@@ -5886,7 +5886,7 @@ idServicio;id;nombreSupermercado;horario
 10;5885;Major Banks;COMPLETO
 10;5886;Integrated oil Companies;COMPLETO
 10;5887;Packaged Foods;COMPLETO
-10;5888;Services-Misc. Amusement & Recreation;COMPLETO
+10;5888;Services-Misc. Amusement - Recreation;COMPLETO
 10;5889;n/a;NOCTURNO
 10;5890;Medical Specialities;COMPLETO
 10;5891;Apparel;COMPLETO
@@ -5900,7 +5900,7 @@ idServicio;id;nombreSupermercado;horario
 10;5899;Computer Software: Prepackaged Software;NOCTURNO
 10;5900;Medical/Dental Instruments;COMPLETO
 10;5901;Apparel;DIURNO
-10;5902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;5902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;5903;Marine Transportation;DIURNO
 10;5904;n/a;COMPLETO
 10;5905;Business Services;COMPLETO
@@ -5939,17 +5939,17 @@ idServicio;id;nombreSupermercado;horario
 10;5938;Transportation Services;NOCTURNO
 10;5939;EDP Services;COMPLETO
 10;5940;Medical Specialities;NOCTURNO
-10;5941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;5941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;5942;Precious Metals;NOCTURNO
 10;5943;Industrial Machinery/Components;COMPLETO
 10;5944;n/a;NOCTURNO
 10;5945;Computer Software: Prepackaged Software;DIURNO
-10;5946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;5946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;5947;Commercial Banks;NOCTURNO
 10;5948;Computer Software: Programming, Data Processing;NOCTURNO
 10;5949;Property-Casualty Insurers;DIURNO
 10;5950;Telecommunications Equipment;COMPLETO
-10;5951;Services-Misc. Amusement & Recreation;DIURNO
+10;5951;Services-Misc. Amusement - Recreation;DIURNO
 10;5952;Major Banks;COMPLETO
 10;5953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;5954;Publishing;DIURNO
@@ -5957,7 +5957,7 @@ idServicio;id;nombreSupermercado;horario
 10;5956;Major Banks;COMPLETO
 10;5957;Food Distributors;DIURNO
 10;5958;Hospital/Nursing Management;NOCTURNO
-10;5959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;5959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;5960;Computer Manufacturing;COMPLETO
 10;5961;Hotels/Resorts;COMPLETO
 10;5962;Food Chains;COMPLETO
@@ -6012,7 +6012,7 @@ idServicio;id;nombreSupermercado;horario
 10;6011;Multi-Sector Companies;DIURNO
 10;6012;n/a;COMPLETO
 10;6013;Packaged Foods;NOCTURNO
-10;6014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;6014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;6015;n/a;DIURNO
 10;6016;Real Estate Investment Trusts;COMPLETO
 10;6017;Telecommunications Equipment;NOCTURNO
@@ -6023,19 +6023,19 @@ idServicio;id;nombreSupermercado;horario
 10;6022;Oil Refining/Marketing;NOCTURNO
 10;6023;Business Services;DIURNO
 10;6024;n/a;DIURNO
-10;6025;Oil & Gas Production;DIURNO
+10;6025;Oil - Gas Production;DIURNO
 10;6026;n/a;COMPLETO
 10;6027;Electric Utilities: Central;DIURNO
 10;6028;n/a;COMPLETO
 10;6029;Major Pharmaceuticals;DIURNO
 10;6030;Industrial Machinery/Components;NOCTURNO
-10;6031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;6031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;6032;Consumer Specialties;DIURNO
 10;6033;n/a;NOCTURNO
-10;6034;Oil & Gas Production;NOCTURNO
+10;6034;Oil - Gas Production;NOCTURNO
 10;6035;Broadcasting;DIURNO
 10;6036;Motor Vehicles;COMPLETO
-10;6037;Oil & Gas Production;NOCTURNO
+10;6037;Oil - Gas Production;NOCTURNO
 10;6038;Electric Utilities: Central;NOCTURNO
 10;6039;Fluid Controls;NOCTURNO
 10;6040;Investment Bankers/Brokers/Service;DIURNO
@@ -6112,7 +6112,7 @@ idServicio;id;nombreSupermercado;horario
 10;6111;Finance: Consumer Services;NOCTURNO
 10;6112;Metal Fabrications;NOCTURNO
 10;6113;Transportation Services;DIURNO
-10;6114;Oil & Gas Production;DIURNO
+10;6114;Oil - Gas Production;DIURNO
 10;6115;Hospital/Nursing Management;NOCTURNO
 10;6116;n/a;DIURNO
 10;6117;Real Estate Investment Trusts;NOCTURNO
@@ -6143,14 +6143,14 @@ idServicio;id;nombreSupermercado;horario
 10;6142;Industrial Machinery/Components;COMPLETO
 10;6143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;6144;Environmental Services;DIURNO
-10;6145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;6145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;6146;Major Pharmaceuticals;COMPLETO
 10;6147;Commercial Banks;COMPLETO
 10;6148;Metal Fabrications;NOCTURNO
 10;6149;Department/Specialty Retail Stores;NOCTURNO
 10;6150;Major Pharmaceuticals;COMPLETO
 10;6151;Major Pharmaceuticals;NOCTURNO
-10;6152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;6152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;6153;Banks;DIURNO
 10;6154;Restaurants;NOCTURNO
 10;6155;Home Furnishings;DIURNO
@@ -6162,7 +6162,7 @@ idServicio;id;nombreSupermercado;horario
 10;6161;Real Estate Investment Trusts;COMPLETO
 10;6162;Industrial Machinery/Components;COMPLETO
 10;6163;Major Pharmaceuticals;NOCTURNO
-10;6164;Oil & Gas Production;DIURNO
+10;6164;Oil - Gas Production;DIURNO
 10;6165;Real Estate Investment Trusts;DIURNO
 10;6166;Major Pharmaceuticals;COMPLETO
 10;6167;Trucking Freight/Courier Services;DIURNO
@@ -6183,7 +6183,7 @@ idServicio;id;nombreSupermercado;horario
 10;6182;Integrated oil Companies;DIURNO
 10;6183;n/a;COMPLETO
 10;6184;Other Specialty Stores;DIURNO
-10;6185;Oil & Gas Production;DIURNO
+10;6185;Oil - Gas Production;DIURNO
 10;6186;Industrial Machinery/Components;COMPLETO
 10;6187;Marine Transportation;DIURNO
 10;6188;Business Services;DIURNO
@@ -6196,7 +6196,7 @@ idServicio;id;nombreSupermercado;horario
 10;6195;Major Banks;NOCTURNO
 10;6196;n/a;COMPLETO
 10;6197;Real Estate Investment Trusts;DIURNO
-10;6198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;6198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;6199;n/a;NOCTURNO
 10;6200;Major Banks;COMPLETO
 10;6201;n/a;DIURNO
@@ -6204,7 +6204,7 @@ idServicio;id;nombreSupermercado;horario
 10;6203;Office Equipment/Supplies/Services;NOCTURNO
 10;6204;Major Pharmaceuticals;NOCTURNO
 10;6205;Metal Fabrications;DIURNO
-10;6206;Oil & Gas Production;COMPLETO
+10;6206;Oil - Gas Production;COMPLETO
 10;6207;Medical Specialities;NOCTURNO
 10;6208;Real Estate;COMPLETO
 10;6209;Television Services;DIURNO
@@ -6245,15 +6245,15 @@ idServicio;id;nombreSupermercado;horario
 10;6244;Industrial Specialties;DIURNO
 10;6245;Integrated oil Companies;NOCTURNO
 10;6246;EDP Services;NOCTURNO
-10;6247;Oil & Gas Production;NOCTURNO
+10;6247;Oil - Gas Production;NOCTURNO
 10;6248;Savings Institutions;COMPLETO
 10;6249;Advertising;COMPLETO
 10;6250;Real Estate Investment Trusts;NOCTURNO
-10;6251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;6251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;6252;Major Banks;DIURNO
 10;6253;Containers/Packaging;NOCTURNO
 10;6254;Restaurants;NOCTURNO
-10;6255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;6255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;6256;Computer Software: Prepackaged Software;COMPLETO
 10;6257;Major Pharmaceuticals;COMPLETO
 10;6258;Hospital/Nursing Management;DIURNO
@@ -6298,7 +6298,7 @@ idServicio;id;nombreSupermercado;horario
 10;6297;Major Banks;COMPLETO
 10;6298;Newspapers/Magazines;COMPLETO
 10;6299;Computer Software: Prepackaged Software;NOCTURNO
-10;6300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;6300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;6301;Metal Fabrications;DIURNO
 10;6302;n/a;COMPLETO
 10;6303;Medical Specialities;NOCTURNO
@@ -6311,7 +6311,7 @@ idServicio;id;nombreSupermercado;horario
 10;6310;n/a;DIURNO
 10;6311;Major Banks;DIURNO
 10;6312;Major Banks;NOCTURNO
-10;6313;Oil & Gas Production;DIURNO
+10;6313;Oil - Gas Production;DIURNO
 10;6314;Major Chemicals;NOCTURNO
 10;6315;Restaurants;DIURNO
 10;6316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -6347,7 +6347,7 @@ idServicio;id;nombreSupermercado;horario
 10;6346;Department/Specialty Retail Stores;COMPLETO
 10;6347;n/a;NOCTURNO
 10;6348;Other Specialty Stores;COMPLETO
-10;6349;Oil & Gas Production;DIURNO
+10;6349;Oil - Gas Production;DIURNO
 10;6350;Major Banks;NOCTURNO
 10;6351;Real Estate Investment Trusts;DIURNO
 10;6352;Industrial Specialties;DIURNO
@@ -6355,7 +6355,7 @@ idServicio;id;nombreSupermercado;horario
 10;6354;n/a;COMPLETO
 10;6355;Semiconductors;COMPLETO
 10;6356;n/a;DIURNO
-10;6357;Oil & Gas Production;COMPLETO
+10;6357;Oil - Gas Production;COMPLETO
 10;6358;Broadcasting;NOCTURNO
 10;6359;Major Pharmaceuticals;COMPLETO
 10;6360;Military/Government/Technical;DIURNO
@@ -6370,13 +6370,13 @@ idServicio;id;nombreSupermercado;horario
 10;6369;Hospital/Nursing Management;NOCTURNO
 10;6370;Commercial Banks;NOCTURNO
 10;6371;n/a;NOCTURNO
-10;6372;Accident &Health Insurance;DIURNO
+10;6372;Accident -Health Insurance;DIURNO
 10;6373;Major Pharmaceuticals;COMPLETO
 10;6374;Clothing/Shoe/Accessory Stores;DIURNO
 10;6375;Diversified Financial Services;NOCTURNO
 10;6376;Packaged Foods;COMPLETO
 10;6377;n/a;DIURNO
-10;6378;Oil & Gas Production;DIURNO
+10;6378;Oil - Gas Production;DIURNO
 10;6379;Computer Software: Programming, Data Processing;NOCTURNO
 10;6380;Investment Bankers/Brokers/Service;NOCTURNO
 10;6381;Professional Services;COMPLETO
@@ -6406,9 +6406,9 @@ idServicio;id;nombreSupermercado;horario
 10;6405;Major Banks;DIURNO
 10;6406;n/a;COMPLETO
 10;6407;Computer Software: Prepackaged Software;COMPLETO
-10;6408;Oil & Gas Production;DIURNO
+10;6408;Oil - Gas Production;DIURNO
 10;6409;Steel/Iron Ore;NOCTURNO
-10;6410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;6410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;6411;Major Chemicals;NOCTURNO
 10;6412;Hospital/Nursing Management;COMPLETO
 10;6413;Industrial Specialties;COMPLETO
@@ -6427,7 +6427,7 @@ idServicio;id;nombreSupermercado;horario
 10;6426;Medical/Dental Instruments;DIURNO
 10;6427;Semiconductors;COMPLETO
 10;6428;Specialty Foods;NOCTURNO
-10;6429;Services-Misc. Amusement & Recreation;DIURNO
+10;6429;Services-Misc. Amusement - Recreation;DIURNO
 10;6430;EDP Services;NOCTURNO
 10;6431;Other Consumer Services;NOCTURNO
 10;6432;n/a;NOCTURNO
@@ -6468,7 +6468,7 @@ idServicio;id;nombreSupermercado;horario
 10;6467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;6468;n/a;DIURNO
 10;6469;n/a;DIURNO
-10;6470;Services-Misc. Amusement & Recreation;COMPLETO
+10;6470;Services-Misc. Amusement - Recreation;COMPLETO
 10;6471;Transportation Services;NOCTURNO
 10;6472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;6473;Commercial Banks;DIURNO
@@ -6511,7 +6511,7 @@ idServicio;id;nombreSupermercado;horario
 10;6510;Metal Fabrications;DIURNO
 10;6511;Environmental Services;COMPLETO
 10;6512;Other Consumer Services;DIURNO
-10;6513;Oil & Gas Production;COMPLETO
+10;6513;Oil - Gas Production;COMPLETO
 10;6514;Finance: Consumer Services;NOCTURNO
 10;6515;n/a;NOCTURNO
 10;6516;Specialty Insurers;DIURNO
@@ -6527,7 +6527,7 @@ idServicio;id;nombreSupermercado;horario
 10;6526;Farming/Seeds/Milling;NOCTURNO
 10;6527;Department/Specialty Retail Stores;DIURNO
 10;6528;n/a;COMPLETO
-10;6529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;6529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;6530;Electric Utilities: Central;DIURNO
 10;6531;Real Estate;NOCTURNO
 10;6532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -6603,7 +6603,7 @@ idServicio;id;nombreSupermercado;horario
 10;6602;n/a;DIURNO
 10;6603;n/a;COMPLETO
 10;6604;n/a;DIURNO
-10;6605;Oil & Gas Production;DIURNO
+10;6605;Oil - Gas Production;DIURNO
 10;6606;Major Chemicals;COMPLETO
 10;6607;Medical/Nursing Services;DIURNO
 10;6608;Major Pharmaceuticals;COMPLETO
@@ -6665,9 +6665,9 @@ idServicio;id;nombreSupermercado;horario
 10;6664;Diversified Commercial Services;DIURNO
 10;6665;n/a;NOCTURNO
 10;6666;Major Pharmaceuticals;COMPLETO
-10;6667;Accident &Health Insurance;NOCTURNO
+10;6667;Accident -Health Insurance;NOCTURNO
 10;6668;Transportation Services;DIURNO
-10;6669;Oil & Gas Production;NOCTURNO
+10;6669;Oil - Gas Production;NOCTURNO
 10;6670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;6671;n/a;DIURNO
 10;6672;n/a;COMPLETO
@@ -6677,13 +6677,13 @@ idServicio;id;nombreSupermercado;horario
 10;6676;Telecommunications Equipment;DIURNO
 10;6677;n/a;COMPLETO
 10;6678;Water Supply;COMPLETO
-10;6679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;6679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;6680;n/a;COMPLETO
-10;6681;Oil & Gas Production;DIURNO
+10;6681;Oil - Gas Production;DIURNO
 10;6682;Finance: Consumer Services;DIURNO
 10;6683;n/a;COMPLETO
 10;6684;Semiconductors;NOCTURNO
-10;6685;Oil & Gas Production;COMPLETO
+10;6685;Oil - Gas Production;COMPLETO
 10;6686;Real Estate Investment Trusts;DIURNO
 10;6687;Computer Manufacturing;NOCTURNO
 10;6688;Other Specialty Stores;DIURNO
@@ -6733,13 +6733,13 @@ idServicio;id;nombreSupermercado;horario
 10;6732;Major Pharmaceuticals;DIURNO
 10;6733;Savings Institutions;COMPLETO
 10;6734;n/a;COMPLETO
-10;6735;Oil & Gas Production;COMPLETO
+10;6735;Oil - Gas Production;COMPLETO
 10;6736;Major Banks;NOCTURNO
 10;6737;EDP Services;COMPLETO
 10;6738;Marine Transportation;COMPLETO
 10;6739;n/a;COMPLETO
 10;6740;Apparel;DIURNO
-10;6741;Accident &Health Insurance;COMPLETO
+10;6741;Accident -Health Insurance;COMPLETO
 10;6742;Packaged Foods;DIURNO
 10;6743;Semiconductors;COMPLETO
 10;6744;n/a;DIURNO
@@ -6754,7 +6754,7 @@ idServicio;id;nombreSupermercado;horario
 10;6753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;6754;Natural Gas Distribution;COMPLETO
 10;6755;n/a;DIURNO
-10;6756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;6756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;6757;Professional Services;NOCTURNO
 10;6758;Air Freight/Delivery Services;COMPLETO
 10;6759;n/a;COMPLETO
@@ -6773,7 +6773,7 @@ idServicio;id;nombreSupermercado;horario
 10;6772;Savings Institutions;NOCTURNO
 10;6773;Major Pharmaceuticals;COMPLETO
 10;6774;Major Pharmaceuticals;DIURNO
-10;6775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;6775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;6776;Department/Specialty Retail Stores;DIURNO
 10;6777;Packaged Foods;DIURNO
 10;6778;Precious Metals;COMPLETO
@@ -6785,7 +6785,7 @@ idServicio;id;nombreSupermercado;horario
 10;6784;Finance: Consumer Services;DIURNO
 10;6785;n/a;NOCTURNO
 10;6786;Major Banks;COMPLETO
-10;6787;Oil & Gas Production;COMPLETO
+10;6787;Oil - Gas Production;COMPLETO
 10;6788;n/a;COMPLETO
 10;6789;Air Freight/Delivery Services;COMPLETO
 10;6790;n/a;NOCTURNO
@@ -6826,7 +6826,7 @@ idServicio;id;nombreSupermercado;horario
 10;6825;Semiconductors;DIURNO
 10;6826;n/a;COMPLETO
 10;6827;Business Services;DIURNO
-10;6828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;6828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;6829;n/a;COMPLETO
 10;6830;Oilfield Services/Equipment;DIURNO
 10;6831;Hospital/Nursing Management;COMPLETO
@@ -6871,10 +6871,10 @@ idServicio;id;nombreSupermercado;horario
 10;6870;Major Banks;DIURNO
 10;6871;Other Consumer Services;COMPLETO
 10;6872;Major Banks;COMPLETO
-10;6873;Oil & Gas Production;DIURNO
+10;6873;Oil - Gas Production;DIURNO
 10;6874;Paints/Coatings;COMPLETO
 10;6875;Investment Bankers/Brokers/Service;NOCTURNO
-10;6876;Oil & Gas Production;DIURNO
+10;6876;Oil - Gas Production;DIURNO
 10;6877;Home Furnishings;NOCTURNO
 10;6878;n/a;COMPLETO
 10;6879;Business Services;DIURNO
@@ -6886,7 +6886,7 @@ idServicio;id;nombreSupermercado;horario
 10;6885;Major Banks;COMPLETO
 10;6886;Integrated oil Companies;COMPLETO
 10;6887;Packaged Foods;COMPLETO
-10;6888;Services-Misc. Amusement & Recreation;COMPLETO
+10;6888;Services-Misc. Amusement - Recreation;COMPLETO
 10;6889;n/a;NOCTURNO
 10;6890;Medical Specialities;COMPLETO
 10;6891;Apparel;COMPLETO
@@ -6900,7 +6900,7 @@ idServicio;id;nombreSupermercado;horario
 10;6899;Computer Software: Prepackaged Software;NOCTURNO
 10;6900;Medical/Dental Instruments;COMPLETO
 10;6901;Apparel;DIURNO
-10;6902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;6902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;6903;Marine Transportation;DIURNO
 10;6904;n/a;COMPLETO
 10;6905;Business Services;COMPLETO
@@ -6939,17 +6939,17 @@ idServicio;id;nombreSupermercado;horario
 10;6938;Transportation Services;NOCTURNO
 10;6939;EDP Services;COMPLETO
 10;6940;Medical Specialities;NOCTURNO
-10;6941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;6941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;6942;Precious Metals;NOCTURNO
 10;6943;Industrial Machinery/Components;COMPLETO
 10;6944;n/a;NOCTURNO
 10;6945;Computer Software: Prepackaged Software;DIURNO
-10;6946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;6946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;6947;Commercial Banks;NOCTURNO
 10;6948;Computer Software: Programming, Data Processing;NOCTURNO
 10;6949;Property-Casualty Insurers;DIURNO
 10;6950;Telecommunications Equipment;COMPLETO
-10;6951;Services-Misc. Amusement & Recreation;DIURNO
+10;6951;Services-Misc. Amusement - Recreation;DIURNO
 10;6952;Major Banks;COMPLETO
 10;6953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;6954;Publishing;DIURNO
@@ -6957,7 +6957,7 @@ idServicio;id;nombreSupermercado;horario
 10;6956;Major Banks;COMPLETO
 10;6957;Food Distributors;DIURNO
 10;6958;Hospital/Nursing Management;NOCTURNO
-10;6959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;6959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;6960;Computer Manufacturing;COMPLETO
 10;6961;Hotels/Resorts;COMPLETO
 10;6962;Food Chains;COMPLETO
@@ -7012,7 +7012,7 @@ idServicio;id;nombreSupermercado;horario
 10;7011;Multi-Sector Companies;DIURNO
 10;7012;n/a;COMPLETO
 10;7013;Packaged Foods;NOCTURNO
-10;7014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;7014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;7015;n/a;DIURNO
 10;7016;Real Estate Investment Trusts;COMPLETO
 10;7017;Telecommunications Equipment;NOCTURNO
@@ -7023,19 +7023,19 @@ idServicio;id;nombreSupermercado;horario
 10;7022;Oil Refining/Marketing;NOCTURNO
 10;7023;Business Services;DIURNO
 10;7024;n/a;DIURNO
-10;7025;Oil & Gas Production;DIURNO
+10;7025;Oil - Gas Production;DIURNO
 10;7026;n/a;COMPLETO
 10;7027;Electric Utilities: Central;DIURNO
 10;7028;n/a;COMPLETO
 10;7029;Major Pharmaceuticals;DIURNO
 10;7030;Industrial Machinery/Components;NOCTURNO
-10;7031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;7031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;7032;Consumer Specialties;DIURNO
 10;7033;n/a;NOCTURNO
-10;7034;Oil & Gas Production;NOCTURNO
+10;7034;Oil - Gas Production;NOCTURNO
 10;7035;Broadcasting;DIURNO
 10;7036;Motor Vehicles;COMPLETO
-10;7037;Oil & Gas Production;NOCTURNO
+10;7037;Oil - Gas Production;NOCTURNO
 10;7038;Electric Utilities: Central;NOCTURNO
 10;7039;Fluid Controls;NOCTURNO
 10;7040;Investment Bankers/Brokers/Service;DIURNO
@@ -7112,7 +7112,7 @@ idServicio;id;nombreSupermercado;horario
 10;7111;Finance: Consumer Services;NOCTURNO
 10;7112;Metal Fabrications;NOCTURNO
 10;7113;Transportation Services;DIURNO
-10;7114;Oil & Gas Production;DIURNO
+10;7114;Oil - Gas Production;DIURNO
 10;7115;Hospital/Nursing Management;NOCTURNO
 10;7116;n/a;DIURNO
 10;7117;Real Estate Investment Trusts;NOCTURNO
@@ -7143,14 +7143,14 @@ idServicio;id;nombreSupermercado;horario
 10;7142;Industrial Machinery/Components;COMPLETO
 10;7143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;7144;Environmental Services;DIURNO
-10;7145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;7145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;7146;Major Pharmaceuticals;COMPLETO
 10;7147;Commercial Banks;COMPLETO
 10;7148;Metal Fabrications;NOCTURNO
 10;7149;Department/Specialty Retail Stores;NOCTURNO
 10;7150;Major Pharmaceuticals;COMPLETO
 10;7151;Major Pharmaceuticals;NOCTURNO
-10;7152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;7152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;7153;Banks;DIURNO
 10;7154;Restaurants;NOCTURNO
 10;7155;Home Furnishings;DIURNO
@@ -7162,7 +7162,7 @@ idServicio;id;nombreSupermercado;horario
 10;7161;Real Estate Investment Trusts;COMPLETO
 10;7162;Industrial Machinery/Components;COMPLETO
 10;7163;Major Pharmaceuticals;NOCTURNO
-10;7164;Oil & Gas Production;DIURNO
+10;7164;Oil - Gas Production;DIURNO
 10;7165;Real Estate Investment Trusts;DIURNO
 10;7166;Major Pharmaceuticals;COMPLETO
 10;7167;Trucking Freight/Courier Services;DIURNO
@@ -7183,7 +7183,7 @@ idServicio;id;nombreSupermercado;horario
 10;7182;Integrated oil Companies;DIURNO
 10;7183;n/a;COMPLETO
 10;7184;Other Specialty Stores;DIURNO
-10;7185;Oil & Gas Production;DIURNO
+10;7185;Oil - Gas Production;DIURNO
 10;7186;Industrial Machinery/Components;COMPLETO
 10;7187;Marine Transportation;DIURNO
 10;7188;Business Services;DIURNO
@@ -7196,7 +7196,7 @@ idServicio;id;nombreSupermercado;horario
 10;7195;Major Banks;NOCTURNO
 10;7196;n/a;COMPLETO
 10;7197;Real Estate Investment Trusts;DIURNO
-10;7198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;7198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;7199;n/a;NOCTURNO
 10;7200;Major Banks;COMPLETO
 10;7201;n/a;DIURNO
@@ -7204,7 +7204,7 @@ idServicio;id;nombreSupermercado;horario
 10;7203;Office Equipment/Supplies/Services;NOCTURNO
 10;7204;Major Pharmaceuticals;NOCTURNO
 10;7205;Metal Fabrications;DIURNO
-10;7206;Oil & Gas Production;COMPLETO
+10;7206;Oil - Gas Production;COMPLETO
 10;7207;Medical Specialities;NOCTURNO
 10;7208;Real Estate;COMPLETO
 10;7209;Television Services;DIURNO
@@ -7245,15 +7245,15 @@ idServicio;id;nombreSupermercado;horario
 10;7244;Industrial Specialties;DIURNO
 10;7245;Integrated oil Companies;NOCTURNO
 10;7246;EDP Services;NOCTURNO
-10;7247;Oil & Gas Production;NOCTURNO
+10;7247;Oil - Gas Production;NOCTURNO
 10;7248;Savings Institutions;COMPLETO
 10;7249;Advertising;COMPLETO
 10;7250;Real Estate Investment Trusts;NOCTURNO
-10;7251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;7251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;7252;Major Banks;DIURNO
 10;7253;Containers/Packaging;NOCTURNO
 10;7254;Restaurants;NOCTURNO
-10;7255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;7255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;7256;Computer Software: Prepackaged Software;COMPLETO
 10;7257;Major Pharmaceuticals;COMPLETO
 10;7258;Hospital/Nursing Management;DIURNO
@@ -7298,7 +7298,7 @@ idServicio;id;nombreSupermercado;horario
 10;7297;Major Banks;COMPLETO
 10;7298;Newspapers/Magazines;COMPLETO
 10;7299;Computer Software: Prepackaged Software;NOCTURNO
-10;7300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;7300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;7301;Metal Fabrications;DIURNO
 10;7302;n/a;COMPLETO
 10;7303;Medical Specialities;NOCTURNO
@@ -7311,7 +7311,7 @@ idServicio;id;nombreSupermercado;horario
 10;7310;n/a;DIURNO
 10;7311;Major Banks;DIURNO
 10;7312;Major Banks;NOCTURNO
-10;7313;Oil & Gas Production;DIURNO
+10;7313;Oil - Gas Production;DIURNO
 10;7314;Major Chemicals;NOCTURNO
 10;7315;Restaurants;DIURNO
 10;7316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -7347,7 +7347,7 @@ idServicio;id;nombreSupermercado;horario
 10;7346;Department/Specialty Retail Stores;COMPLETO
 10;7347;n/a;NOCTURNO
 10;7348;Other Specialty Stores;COMPLETO
-10;7349;Oil & Gas Production;DIURNO
+10;7349;Oil - Gas Production;DIURNO
 10;7350;Major Banks;NOCTURNO
 10;7351;Real Estate Investment Trusts;DIURNO
 10;7352;Industrial Specialties;DIURNO
@@ -7355,7 +7355,7 @@ idServicio;id;nombreSupermercado;horario
 10;7354;n/a;COMPLETO
 10;7355;Semiconductors;COMPLETO
 10;7356;n/a;DIURNO
-10;7357;Oil & Gas Production;COMPLETO
+10;7357;Oil - Gas Production;COMPLETO
 10;7358;Broadcasting;NOCTURNO
 10;7359;Major Pharmaceuticals;COMPLETO
 10;7360;Military/Government/Technical;DIURNO
@@ -7370,13 +7370,13 @@ idServicio;id;nombreSupermercado;horario
 10;7369;Hospital/Nursing Management;NOCTURNO
 10;7370;Commercial Banks;NOCTURNO
 10;7371;n/a;NOCTURNO
-10;7372;Accident &Health Insurance;DIURNO
+10;7372;Accident -Health Insurance;DIURNO
 10;7373;Major Pharmaceuticals;COMPLETO
 10;7374;Clothing/Shoe/Accessory Stores;DIURNO
 10;7375;Diversified Financial Services;NOCTURNO
 10;7376;Packaged Foods;COMPLETO
 10;7377;n/a;DIURNO
-10;7378;Oil & Gas Production;DIURNO
+10;7378;Oil - Gas Production;DIURNO
 10;7379;Computer Software: Programming, Data Processing;NOCTURNO
 10;7380;Investment Bankers/Brokers/Service;NOCTURNO
 10;7381;Professional Services;COMPLETO
@@ -7406,9 +7406,9 @@ idServicio;id;nombreSupermercado;horario
 10;7405;Major Banks;DIURNO
 10;7406;n/a;COMPLETO
 10;7407;Computer Software: Prepackaged Software;COMPLETO
-10;7408;Oil & Gas Production;DIURNO
+10;7408;Oil - Gas Production;DIURNO
 10;7409;Steel/Iron Ore;NOCTURNO
-10;7410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;7410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;7411;Major Chemicals;NOCTURNO
 10;7412;Hospital/Nursing Management;COMPLETO
 10;7413;Industrial Specialties;COMPLETO
@@ -7427,7 +7427,7 @@ idServicio;id;nombreSupermercado;horario
 10;7426;Medical/Dental Instruments;DIURNO
 10;7427;Semiconductors;COMPLETO
 10;7428;Specialty Foods;NOCTURNO
-10;7429;Services-Misc. Amusement & Recreation;DIURNO
+10;7429;Services-Misc. Amusement - Recreation;DIURNO
 10;7430;EDP Services;NOCTURNO
 10;7431;Other Consumer Services;NOCTURNO
 10;7432;n/a;NOCTURNO
@@ -7468,7 +7468,7 @@ idServicio;id;nombreSupermercado;horario
 10;7467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;7468;n/a;DIURNO
 10;7469;n/a;DIURNO
-10;7470;Services-Misc. Amusement & Recreation;COMPLETO
+10;7470;Services-Misc. Amusement - Recreation;COMPLETO
 10;7471;Transportation Services;NOCTURNO
 10;7472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;7473;Commercial Banks;DIURNO
@@ -7511,7 +7511,7 @@ idServicio;id;nombreSupermercado;horario
 10;7510;Metal Fabrications;DIURNO
 10;7511;Environmental Services;COMPLETO
 10;7512;Other Consumer Services;DIURNO
-10;7513;Oil & Gas Production;COMPLETO
+10;7513;Oil - Gas Production;COMPLETO
 10;7514;Finance: Consumer Services;NOCTURNO
 10;7515;n/a;NOCTURNO
 10;7516;Specialty Insurers;DIURNO
@@ -7527,7 +7527,7 @@ idServicio;id;nombreSupermercado;horario
 10;7526;Farming/Seeds/Milling;NOCTURNO
 10;7527;Department/Specialty Retail Stores;DIURNO
 10;7528;n/a;COMPLETO
-10;7529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;7529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;7530;Electric Utilities: Central;DIURNO
 10;7531;Real Estate;NOCTURNO
 10;7532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -7603,7 +7603,7 @@ idServicio;id;nombreSupermercado;horario
 10;7602;n/a;DIURNO
 10;7603;n/a;COMPLETO
 10;7604;n/a;DIURNO
-10;7605;Oil & Gas Production;DIURNO
+10;7605;Oil - Gas Production;DIURNO
 10;7606;Major Chemicals;COMPLETO
 10;7607;Medical/Nursing Services;DIURNO
 10;7608;Major Pharmaceuticals;COMPLETO
@@ -7665,9 +7665,9 @@ idServicio;id;nombreSupermercado;horario
 10;7664;Diversified Commercial Services;DIURNO
 10;7665;n/a;NOCTURNO
 10;7666;Major Pharmaceuticals;COMPLETO
-10;7667;Accident &Health Insurance;NOCTURNO
+10;7667;Accident -Health Insurance;NOCTURNO
 10;7668;Transportation Services;DIURNO
-10;7669;Oil & Gas Production;NOCTURNO
+10;7669;Oil - Gas Production;NOCTURNO
 10;7670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;7671;n/a;DIURNO
 10;7672;n/a;COMPLETO
@@ -7677,13 +7677,13 @@ idServicio;id;nombreSupermercado;horario
 10;7676;Telecommunications Equipment;DIURNO
 10;7677;n/a;COMPLETO
 10;7678;Water Supply;COMPLETO
-10;7679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;7679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;7680;n/a;COMPLETO
-10;7681;Oil & Gas Production;DIURNO
+10;7681;Oil - Gas Production;DIURNO
 10;7682;Finance: Consumer Services;DIURNO
 10;7683;n/a;COMPLETO
 10;7684;Semiconductors;NOCTURNO
-10;7685;Oil & Gas Production;COMPLETO
+10;7685;Oil - Gas Production;COMPLETO
 10;7686;Real Estate Investment Trusts;DIURNO
 10;7687;Computer Manufacturing;NOCTURNO
 10;7688;Other Specialty Stores;DIURNO
@@ -7733,13 +7733,13 @@ idServicio;id;nombreSupermercado;horario
 10;7732;Major Pharmaceuticals;DIURNO
 10;7733;Savings Institutions;COMPLETO
 10;7734;n/a;COMPLETO
-10;7735;Oil & Gas Production;COMPLETO
+10;7735;Oil - Gas Production;COMPLETO
 10;7736;Major Banks;NOCTURNO
 10;7737;EDP Services;COMPLETO
 10;7738;Marine Transportation;COMPLETO
 10;7739;n/a;COMPLETO
 10;7740;Apparel;DIURNO
-10;7741;Accident &Health Insurance;COMPLETO
+10;7741;Accident -Health Insurance;COMPLETO
 10;7742;Packaged Foods;DIURNO
 10;7743;Semiconductors;COMPLETO
 10;7744;n/a;DIURNO
@@ -7754,7 +7754,7 @@ idServicio;id;nombreSupermercado;horario
 10;7753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;7754;Natural Gas Distribution;COMPLETO
 10;7755;n/a;DIURNO
-10;7756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;7756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;7757;Professional Services;NOCTURNO
 10;7758;Air Freight/Delivery Services;COMPLETO
 10;7759;n/a;COMPLETO
@@ -7773,7 +7773,7 @@ idServicio;id;nombreSupermercado;horario
 10;7772;Savings Institutions;NOCTURNO
 10;7773;Major Pharmaceuticals;COMPLETO
 10;7774;Major Pharmaceuticals;DIURNO
-10;7775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;7775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;7776;Department/Specialty Retail Stores;DIURNO
 10;7777;Packaged Foods;DIURNO
 10;7778;Precious Metals;COMPLETO
@@ -7785,7 +7785,7 @@ idServicio;id;nombreSupermercado;horario
 10;7784;Finance: Consumer Services;DIURNO
 10;7785;n/a;NOCTURNO
 10;7786;Major Banks;COMPLETO
-10;7787;Oil & Gas Production;COMPLETO
+10;7787;Oil - Gas Production;COMPLETO
 10;7788;n/a;COMPLETO
 10;7789;Air Freight/Delivery Services;COMPLETO
 10;7790;n/a;NOCTURNO
@@ -7826,7 +7826,7 @@ idServicio;id;nombreSupermercado;horario
 10;7825;Semiconductors;DIURNO
 10;7826;n/a;COMPLETO
 10;7827;Business Services;DIURNO
-10;7828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;7828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;7829;n/a;COMPLETO
 10;7830;Oilfield Services/Equipment;DIURNO
 10;7831;Hospital/Nursing Management;COMPLETO
@@ -7871,10 +7871,10 @@ idServicio;id;nombreSupermercado;horario
 10;7870;Major Banks;DIURNO
 10;7871;Other Consumer Services;COMPLETO
 10;7872;Major Banks;COMPLETO
-10;7873;Oil & Gas Production;DIURNO
+10;7873;Oil - Gas Production;DIURNO
 10;7874;Paints/Coatings;COMPLETO
 10;7875;Investment Bankers/Brokers/Service;NOCTURNO
-10;7876;Oil & Gas Production;DIURNO
+10;7876;Oil - Gas Production;DIURNO
 10;7877;Home Furnishings;NOCTURNO
 10;7878;n/a;COMPLETO
 10;7879;Business Services;DIURNO
@@ -7886,7 +7886,7 @@ idServicio;id;nombreSupermercado;horario
 10;7885;Major Banks;COMPLETO
 10;7886;Integrated oil Companies;COMPLETO
 10;7887;Packaged Foods;COMPLETO
-10;7888;Services-Misc. Amusement & Recreation;COMPLETO
+10;7888;Services-Misc. Amusement - Recreation;COMPLETO
 10;7889;n/a;NOCTURNO
 10;7890;Medical Specialities;COMPLETO
 10;7891;Apparel;COMPLETO
@@ -7900,7 +7900,7 @@ idServicio;id;nombreSupermercado;horario
 10;7899;Computer Software: Prepackaged Software;NOCTURNO
 10;7900;Medical/Dental Instruments;COMPLETO
 10;7901;Apparel;DIURNO
-10;7902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;7902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;7903;Marine Transportation;DIURNO
 10;7904;n/a;COMPLETO
 10;7905;Business Services;COMPLETO
@@ -7939,17 +7939,17 @@ idServicio;id;nombreSupermercado;horario
 10;7938;Transportation Services;NOCTURNO
 10;7939;EDP Services;COMPLETO
 10;7940;Medical Specialities;NOCTURNO
-10;7941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;7941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;7942;Precious Metals;NOCTURNO
 10;7943;Industrial Machinery/Components;COMPLETO
 10;7944;n/a;NOCTURNO
 10;7945;Computer Software: Prepackaged Software;DIURNO
-10;7946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;7946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;7947;Commercial Banks;NOCTURNO
 10;7948;Computer Software: Programming, Data Processing;NOCTURNO
 10;7949;Property-Casualty Insurers;DIURNO
 10;7950;Telecommunications Equipment;COMPLETO
-10;7951;Services-Misc. Amusement & Recreation;DIURNO
+10;7951;Services-Misc. Amusement - Recreation;DIURNO
 10;7952;Major Banks;COMPLETO
 10;7953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;7954;Publishing;DIURNO
@@ -7957,7 +7957,7 @@ idServicio;id;nombreSupermercado;horario
 10;7956;Major Banks;COMPLETO
 10;7957;Food Distributors;DIURNO
 10;7958;Hospital/Nursing Management;NOCTURNO
-10;7959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;7959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;7960;Computer Manufacturing;COMPLETO
 10;7961;Hotels/Resorts;COMPLETO
 10;7962;Food Chains;COMPLETO
@@ -8012,7 +8012,7 @@ idServicio;id;nombreSupermercado;horario
 10;8011;Multi-Sector Companies;DIURNO
 10;8012;n/a;COMPLETO
 10;8013;Packaged Foods;NOCTURNO
-10;8014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;8014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;8015;n/a;DIURNO
 10;8016;Real Estate Investment Trusts;COMPLETO
 10;8017;Telecommunications Equipment;NOCTURNO
@@ -8023,19 +8023,19 @@ idServicio;id;nombreSupermercado;horario
 10;8022;Oil Refining/Marketing;NOCTURNO
 10;8023;Business Services;DIURNO
 10;8024;n/a;DIURNO
-10;8025;Oil & Gas Production;DIURNO
+10;8025;Oil - Gas Production;DIURNO
 10;8026;n/a;COMPLETO
 10;8027;Electric Utilities: Central;DIURNO
 10;8028;n/a;COMPLETO
 10;8029;Major Pharmaceuticals;DIURNO
 10;8030;Industrial Machinery/Components;NOCTURNO
-10;8031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;8031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;8032;Consumer Specialties;DIURNO
 10;8033;n/a;NOCTURNO
-10;8034;Oil & Gas Production;NOCTURNO
+10;8034;Oil - Gas Production;NOCTURNO
 10;8035;Broadcasting;DIURNO
 10;8036;Motor Vehicles;COMPLETO
-10;8037;Oil & Gas Production;NOCTURNO
+10;8037;Oil - Gas Production;NOCTURNO
 10;8038;Electric Utilities: Central;NOCTURNO
 10;8039;Fluid Controls;NOCTURNO
 10;8040;Investment Bankers/Brokers/Service;DIURNO
@@ -8112,7 +8112,7 @@ idServicio;id;nombreSupermercado;horario
 10;8111;Finance: Consumer Services;NOCTURNO
 10;8112;Metal Fabrications;NOCTURNO
 10;8113;Transportation Services;DIURNO
-10;8114;Oil & Gas Production;DIURNO
+10;8114;Oil - Gas Production;DIURNO
 10;8115;Hospital/Nursing Management;NOCTURNO
 10;8116;n/a;DIURNO
 10;8117;Real Estate Investment Trusts;NOCTURNO
@@ -8143,14 +8143,14 @@ idServicio;id;nombreSupermercado;horario
 10;8142;Industrial Machinery/Components;COMPLETO
 10;8143;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;8144;Environmental Services;DIURNO
-10;8145;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;8145;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;8146;Major Pharmaceuticals;COMPLETO
 10;8147;Commercial Banks;COMPLETO
 10;8148;Metal Fabrications;NOCTURNO
 10;8149;Department/Specialty Retail Stores;NOCTURNO
 10;8150;Major Pharmaceuticals;COMPLETO
 10;8151;Major Pharmaceuticals;NOCTURNO
-10;8152;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;8152;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;8153;Banks;DIURNO
 10;8154;Restaurants;NOCTURNO
 10;8155;Home Furnishings;DIURNO
@@ -8162,7 +8162,7 @@ idServicio;id;nombreSupermercado;horario
 10;8161;Real Estate Investment Trusts;COMPLETO
 10;8162;Industrial Machinery/Components;COMPLETO
 10;8163;Major Pharmaceuticals;NOCTURNO
-10;8164;Oil & Gas Production;DIURNO
+10;8164;Oil - Gas Production;DIURNO
 10;8165;Real Estate Investment Trusts;DIURNO
 10;8166;Major Pharmaceuticals;COMPLETO
 10;8167;Trucking Freight/Courier Services;DIURNO
@@ -8183,7 +8183,7 @@ idServicio;id;nombreSupermercado;horario
 10;8182;Integrated oil Companies;DIURNO
 10;8183;n/a;COMPLETO
 10;8184;Other Specialty Stores;DIURNO
-10;8185;Oil & Gas Production;DIURNO
+10;8185;Oil - Gas Production;DIURNO
 10;8186;Industrial Machinery/Components;COMPLETO
 10;8187;Marine Transportation;DIURNO
 10;8188;Business Services;DIURNO
@@ -8196,7 +8196,7 @@ idServicio;id;nombreSupermercado;horario
 10;8195;Major Banks;NOCTURNO
 10;8196;n/a;COMPLETO
 10;8197;Real Estate Investment Trusts;DIURNO
-10;8198;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;8198;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;8199;n/a;NOCTURNO
 10;8200;Major Banks;COMPLETO
 10;8201;n/a;DIURNO
@@ -8204,7 +8204,7 @@ idServicio;id;nombreSupermercado;horario
 10;8203;Office Equipment/Supplies/Services;NOCTURNO
 10;8204;Major Pharmaceuticals;NOCTURNO
 10;8205;Metal Fabrications;DIURNO
-10;8206;Oil & Gas Production;COMPLETO
+10;8206;Oil - Gas Production;COMPLETO
 10;8207;Medical Specialities;NOCTURNO
 10;8208;Real Estate;COMPLETO
 10;8209;Television Services;DIURNO
@@ -8245,15 +8245,15 @@ idServicio;id;nombreSupermercado;horario
 10;8244;Industrial Specialties;DIURNO
 10;8245;Integrated oil Companies;NOCTURNO
 10;8246;EDP Services;NOCTURNO
-10;8247;Oil & Gas Production;NOCTURNO
+10;8247;Oil - Gas Production;NOCTURNO
 10;8248;Savings Institutions;COMPLETO
 10;8249;Advertising;COMPLETO
 10;8250;Real Estate Investment Trusts;NOCTURNO
-10;8251;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;8251;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;8252;Major Banks;DIURNO
 10;8253;Containers/Packaging;NOCTURNO
 10;8254;Restaurants;NOCTURNO
-10;8255;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;8255;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;8256;Computer Software: Prepackaged Software;COMPLETO
 10;8257;Major Pharmaceuticals;COMPLETO
 10;8258;Hospital/Nursing Management;DIURNO
@@ -8298,7 +8298,7 @@ idServicio;id;nombreSupermercado;horario
 10;8297;Major Banks;COMPLETO
 10;8298;Newspapers/Magazines;COMPLETO
 10;8299;Computer Software: Prepackaged Software;NOCTURNO
-10;8300;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;8300;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;8301;Metal Fabrications;DIURNO
 10;8302;n/a;COMPLETO
 10;8303;Medical Specialities;NOCTURNO
@@ -8311,7 +8311,7 @@ idServicio;id;nombreSupermercado;horario
 10;8310;n/a;DIURNO
 10;8311;Major Banks;DIURNO
 10;8312;Major Banks;NOCTURNO
-10;8313;Oil & Gas Production;DIURNO
+10;8313;Oil - Gas Production;DIURNO
 10;8314;Major Chemicals;NOCTURNO
 10;8315;Restaurants;DIURNO
 10;8316;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -8347,7 +8347,7 @@ idServicio;id;nombreSupermercado;horario
 10;8346;Department/Specialty Retail Stores;COMPLETO
 10;8347;n/a;NOCTURNO
 10;8348;Other Specialty Stores;COMPLETO
-10;8349;Oil & Gas Production;DIURNO
+10;8349;Oil - Gas Production;DIURNO
 10;8350;Major Banks;NOCTURNO
 10;8351;Real Estate Investment Trusts;DIURNO
 10;8352;Industrial Specialties;DIURNO
@@ -8355,7 +8355,7 @@ idServicio;id;nombreSupermercado;horario
 10;8354;n/a;COMPLETO
 10;8355;Semiconductors;COMPLETO
 10;8356;n/a;DIURNO
-10;8357;Oil & Gas Production;COMPLETO
+10;8357;Oil - Gas Production;COMPLETO
 10;8358;Broadcasting;NOCTURNO
 10;8359;Major Pharmaceuticals;COMPLETO
 10;8360;Military/Government/Technical;DIURNO
@@ -8370,13 +8370,13 @@ idServicio;id;nombreSupermercado;horario
 10;8369;Hospital/Nursing Management;NOCTURNO
 10;8370;Commercial Banks;NOCTURNO
 10;8371;n/a;NOCTURNO
-10;8372;Accident &Health Insurance;DIURNO
+10;8372;Accident -Health Insurance;DIURNO
 10;8373;Major Pharmaceuticals;COMPLETO
 10;8374;Clothing/Shoe/Accessory Stores;DIURNO
 10;8375;Diversified Financial Services;NOCTURNO
 10;8376;Packaged Foods;COMPLETO
 10;8377;n/a;DIURNO
-10;8378;Oil & Gas Production;DIURNO
+10;8378;Oil - Gas Production;DIURNO
 10;8379;Computer Software: Programming, Data Processing;NOCTURNO
 10;8380;Investment Bankers/Brokers/Service;NOCTURNO
 10;8381;Professional Services;COMPLETO
@@ -8406,9 +8406,9 @@ idServicio;id;nombreSupermercado;horario
 10;8405;Major Banks;DIURNO
 10;8406;n/a;COMPLETO
 10;8407;Computer Software: Prepackaged Software;COMPLETO
-10;8408;Oil & Gas Production;DIURNO
+10;8408;Oil - Gas Production;DIURNO
 10;8409;Steel/Iron Ore;NOCTURNO
-10;8410;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;8410;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;8411;Major Chemicals;NOCTURNO
 10;8412;Hospital/Nursing Management;COMPLETO
 10;8413;Industrial Specialties;COMPLETO
@@ -8427,7 +8427,7 @@ idServicio;id;nombreSupermercado;horario
 10;8426;Medical/Dental Instruments;DIURNO
 10;8427;Semiconductors;COMPLETO
 10;8428;Specialty Foods;NOCTURNO
-10;8429;Services-Misc. Amusement & Recreation;DIURNO
+10;8429;Services-Misc. Amusement - Recreation;DIURNO
 10;8430;EDP Services;NOCTURNO
 10;8431;Other Consumer Services;NOCTURNO
 10;8432;n/a;NOCTURNO
@@ -8468,7 +8468,7 @@ idServicio;id;nombreSupermercado;horario
 10;8467;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;8468;n/a;DIURNO
 10;8469;n/a;DIURNO
-10;8470;Services-Misc. Amusement & Recreation;COMPLETO
+10;8470;Services-Misc. Amusement - Recreation;COMPLETO
 10;8471;Transportation Services;NOCTURNO
 10;8472;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;8473;Commercial Banks;DIURNO
@@ -8511,7 +8511,7 @@ idServicio;id;nombreSupermercado;horario
 10;8510;Metal Fabrications;DIURNO
 10;8511;Environmental Services;COMPLETO
 10;8512;Other Consumer Services;DIURNO
-10;8513;Oil & Gas Production;COMPLETO
+10;8513;Oil - Gas Production;COMPLETO
 10;8514;Finance: Consumer Services;NOCTURNO
 10;8515;n/a;NOCTURNO
 10;8516;Specialty Insurers;DIURNO
@@ -8527,7 +8527,7 @@ idServicio;id;nombreSupermercado;horario
 10;8526;Farming/Seeds/Milling;NOCTURNO
 10;8527;Department/Specialty Retail Stores;DIURNO
 10;8528;n/a;COMPLETO
-10;8529;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;8529;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;8530;Electric Utilities: Central;DIURNO
 10;8531;Real Estate;NOCTURNO
 10;8532;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -8603,7 +8603,7 @@ idServicio;id;nombreSupermercado;horario
 10;8602;n/a;DIURNO
 10;8603;n/a;COMPLETO
 10;8604;n/a;DIURNO
-10;8605;Oil & Gas Production;DIURNO
+10;8605;Oil - Gas Production;DIURNO
 10;8606;Major Chemicals;COMPLETO
 10;8607;Medical/Nursing Services;DIURNO
 10;8608;Major Pharmaceuticals;COMPLETO
@@ -8665,9 +8665,9 @@ idServicio;id;nombreSupermercado;horario
 10;8664;Diversified Commercial Services;DIURNO
 10;8665;n/a;NOCTURNO
 10;8666;Major Pharmaceuticals;COMPLETO
-10;8667;Accident &Health Insurance;NOCTURNO
+10;8667;Accident -Health Insurance;NOCTURNO
 10;8668;Transportation Services;DIURNO
-10;8669;Oil & Gas Production;NOCTURNO
+10;8669;Oil - Gas Production;NOCTURNO
 10;8670;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;8671;n/a;DIURNO
 10;8672;n/a;COMPLETO
@@ -8677,13 +8677,13 @@ idServicio;id;nombreSupermercado;horario
 10;8676;Telecommunications Equipment;DIURNO
 10;8677;n/a;COMPLETO
 10;8678;Water Supply;COMPLETO
-10;8679;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;8679;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;8680;n/a;COMPLETO
-10;8681;Oil & Gas Production;DIURNO
+10;8681;Oil - Gas Production;DIURNO
 10;8682;Finance: Consumer Services;DIURNO
 10;8683;n/a;COMPLETO
 10;8684;Semiconductors;NOCTURNO
-10;8685;Oil & Gas Production;COMPLETO
+10;8685;Oil - Gas Production;COMPLETO
 10;8686;Real Estate Investment Trusts;DIURNO
 10;8687;Computer Manufacturing;NOCTURNO
 10;8688;Other Specialty Stores;DIURNO
@@ -8733,13 +8733,13 @@ idServicio;id;nombreSupermercado;horario
 10;8732;Major Pharmaceuticals;DIURNO
 10;8733;Savings Institutions;COMPLETO
 10;8734;n/a;COMPLETO
-10;8735;Oil & Gas Production;COMPLETO
+10;8735;Oil - Gas Production;COMPLETO
 10;8736;Major Banks;NOCTURNO
 10;8737;EDP Services;COMPLETO
 10;8738;Marine Transportation;COMPLETO
 10;8739;n/a;COMPLETO
 10;8740;Apparel;DIURNO
-10;8741;Accident &Health Insurance;COMPLETO
+10;8741;Accident -Health Insurance;COMPLETO
 10;8742;Packaged Foods;DIURNO
 10;8743;Semiconductors;COMPLETO
 10;8744;n/a;DIURNO
@@ -8754,7 +8754,7 @@ idServicio;id;nombreSupermercado;horario
 10;8753;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;8754;Natural Gas Distribution;COMPLETO
 10;8755;n/a;DIURNO
-10;8756;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;8756;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;8757;Professional Services;NOCTURNO
 10;8758;Air Freight/Delivery Services;COMPLETO
 10;8759;n/a;COMPLETO
@@ -8773,7 +8773,7 @@ idServicio;id;nombreSupermercado;horario
 10;8772;Savings Institutions;NOCTURNO
 10;8773;Major Pharmaceuticals;COMPLETO
 10;8774;Major Pharmaceuticals;DIURNO
-10;8775;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;8775;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;8776;Department/Specialty Retail Stores;DIURNO
 10;8777;Packaged Foods;DIURNO
 10;8778;Precious Metals;COMPLETO
@@ -8785,7 +8785,7 @@ idServicio;id;nombreSupermercado;horario
 10;8784;Finance: Consumer Services;DIURNO
 10;8785;n/a;NOCTURNO
 10;8786;Major Banks;COMPLETO
-10;8787;Oil & Gas Production;COMPLETO
+10;8787;Oil - Gas Production;COMPLETO
 10;8788;n/a;COMPLETO
 10;8789;Air Freight/Delivery Services;COMPLETO
 10;8790;n/a;NOCTURNO
@@ -8826,7 +8826,7 @@ idServicio;id;nombreSupermercado;horario
 10;8825;Semiconductors;DIURNO
 10;8826;n/a;COMPLETO
 10;8827;Business Services;DIURNO
-10;8828;Services-Misc. Amusement & Recreation;NOCTURNO
+10;8828;Services-Misc. Amusement - Recreation;NOCTURNO
 10;8829;n/a;COMPLETO
 10;8830;Oilfield Services/Equipment;DIURNO
 10;8831;Hospital/Nursing Management;COMPLETO
@@ -8871,10 +8871,10 @@ idServicio;id;nombreSupermercado;horario
 10;8870;Major Banks;DIURNO
 10;8871;Other Consumer Services;COMPLETO
 10;8872;Major Banks;COMPLETO
-10;8873;Oil & Gas Production;DIURNO
+10;8873;Oil - Gas Production;DIURNO
 10;8874;Paints/Coatings;COMPLETO
 10;8875;Investment Bankers/Brokers/Service;NOCTURNO
-10;8876;Oil & Gas Production;DIURNO
+10;8876;Oil - Gas Production;DIURNO
 10;8877;Home Furnishings;NOCTURNO
 10;8878;n/a;COMPLETO
 10;8879;Business Services;DIURNO
@@ -8886,7 +8886,7 @@ idServicio;id;nombreSupermercado;horario
 10;8885;Major Banks;COMPLETO
 10;8886;Integrated oil Companies;COMPLETO
 10;8887;Packaged Foods;COMPLETO
-10;8888;Services-Misc. Amusement & Recreation;COMPLETO
+10;8888;Services-Misc. Amusement - Recreation;COMPLETO
 10;8889;n/a;NOCTURNO
 10;8890;Medical Specialities;COMPLETO
 10;8891;Apparel;COMPLETO
@@ -8900,7 +8900,7 @@ idServicio;id;nombreSupermercado;horario
 10;8899;Computer Software: Prepackaged Software;NOCTURNO
 10;8900;Medical/Dental Instruments;COMPLETO
 10;8901;Apparel;DIURNO
-10;8902;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;8902;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;8903;Marine Transportation;DIURNO
 10;8904;n/a;COMPLETO
 10;8905;Business Services;COMPLETO
@@ -8939,17 +8939,17 @@ idServicio;id;nombreSupermercado;horario
 10;8938;Transportation Services;NOCTURNO
 10;8939;EDP Services;COMPLETO
 10;8940;Medical Specialities;NOCTURNO
-10;8941;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;8941;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;8942;Precious Metals;NOCTURNO
 10;8943;Industrial Machinery/Components;COMPLETO
 10;8944;n/a;NOCTURNO
 10;8945;Computer Software: Prepackaged Software;DIURNO
-10;8946;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;8946;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;8947;Commercial Banks;NOCTURNO
 10;8948;Computer Software: Programming, Data Processing;NOCTURNO
 10;8949;Property-Casualty Insurers;DIURNO
 10;8950;Telecommunications Equipment;COMPLETO
-10;8951;Services-Misc. Amusement & Recreation;DIURNO
+10;8951;Services-Misc. Amusement - Recreation;DIURNO
 10;8952;Major Banks;COMPLETO
 10;8953;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;8954;Publishing;DIURNO
@@ -8957,7 +8957,7 @@ idServicio;id;nombreSupermercado;horario
 10;8956;Major Banks;COMPLETO
 10;8957;Food Distributors;DIURNO
 10;8958;Hospital/Nursing Management;NOCTURNO
-10;8959;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;8959;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;8960;Computer Manufacturing;COMPLETO
 10;8961;Hotels/Resorts;COMPLETO
 10;8962;Food Chains;COMPLETO
@@ -9012,7 +9012,7 @@ idServicio;id;nombreSupermercado;horario
 10;9011;Multi-Sector Companies;DIURNO
 10;9012;n/a;COMPLETO
 10;9013;Packaged Foods;NOCTURNO
-10;9014;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;9014;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;9015;n/a;DIURNO
 10;9016;Real Estate Investment Trusts;COMPLETO
 10;9017;Telecommunications Equipment;NOCTURNO
@@ -9023,19 +9023,19 @@ idServicio;id;nombreSupermercado;horario
 10;9022;Oil Refining/Marketing;NOCTURNO
 10;9023;Business Services;DIURNO
 10;9024;n/a;DIURNO
-10;9025;Oil & Gas Production;DIURNO
+10;9025;Oil - Gas Production;DIURNO
 10;9026;n/a;COMPLETO
 10;9027;Electric Utilities: Central;DIURNO
 10;9028;n/a;COMPLETO
 10;9029;Major Pharmaceuticals;DIURNO
 10;9030;Industrial Machinery/Components;NOCTURNO
-10;9031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;9031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;9032;Consumer Specialties;DIURNO
 10;9033;n/a;NOCTURNO
-10;9034;Oil & Gas Production;NOCTURNO
+10;9034;Oil - Gas Production;NOCTURNO
 10;9035;Broadcasting;DIURNO
 10;9036;Motor Vehicles;COMPLETO
-10;9037;Oil & Gas Production;NOCTURNO
+10;9037;Oil - Gas Production;NOCTURNO
 10;9038;Electric Utilities: Central;NOCTURNO
 10;9039;Fluid Controls;NOCTURNO
 10;9040;Investment Bankers/Brokers/Service;DIURNO
@@ -9097,7 +9097,7 @@ idServicio;id;nombreSupermercado;horario
 10;9096;Multi-Sector Companies;DIURNO
 10;9097;n/a;COMPLETO
 10;9098;Packaged Foods;NOCTURNO
-10;9099;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;9099;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;9100;n/a;DIURNO
 10;9101;Real Estate Investment Trusts;COMPLETO
 10;9102;Telecommunications Equipment;NOCTURNO
@@ -9108,19 +9108,19 @@ idServicio;id;nombreSupermercado;horario
 10;9107;Oil Refining/Marketing;NOCTURNO
 10;9108;Business Services;DIURNO
 10;9109;n/a;DIURNO
-10;9110;Oil & Gas Production;DIURNO
+10;9110;Oil - Gas Production;DIURNO
 10;9111;n/a;COMPLETO
 10;9112;Electric Utilities: Central;DIURNO
 10;9113;n/a;COMPLETO
 10;9114;Major Pharmaceuticals;DIURNO
 10;9115;Industrial Machinery/Components;NOCTURNO
-10;9116;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;9116;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;9117;Consumer Specialties;DIURNO
 10;9118;n/a;NOCTURNO
-10;9119;Oil & Gas Production;NOCTURNO
+10;9119;Oil - Gas Production;NOCTURNO
 10;9120;Broadcasting;DIURNO
 10;9121;Motor Vehicles;COMPLETO
-10;9122;Oil & Gas Production;NOCTURNO
+10;9122;Oil - Gas Production;NOCTURNO
 10;9123;Electric Utilities: Central;NOCTURNO
 10;9124;Fluid Controls;NOCTURNO
 10;9125;Investment Bankers/Brokers/Service;DIURNO
@@ -9197,7 +9197,7 @@ idServicio;id;nombreSupermercado;horario
 10;9196;Finance: Consumer Services;NOCTURNO
 10;9197;Metal Fabrications;NOCTURNO
 10;9198;Transportation Services;DIURNO
-10;9199;Oil & Gas Production;DIURNO
+10;9199;Oil - Gas Production;DIURNO
 10;9200;Hospital/Nursing Management;NOCTURNO
 10;9201;n/a;DIURNO
 10;9202;Real Estate Investment Trusts;NOCTURNO
@@ -9228,14 +9228,14 @@ idServicio;id;nombreSupermercado;horario
 10;9227;Industrial Machinery/Components;COMPLETO
 10;9228;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;9229;Environmental Services;DIURNO
-10;9230;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;9230;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;9231;Major Pharmaceuticals;COMPLETO
 10;9232;Commercial Banks;COMPLETO
 10;9233;Metal Fabrications;NOCTURNO
 10;9234;Department/Specialty Retail Stores;NOCTURNO
 10;9235;Major Pharmaceuticals;COMPLETO
 10;9236;Major Pharmaceuticals;NOCTURNO
-10;9237;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;9237;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;9238;Banks;DIURNO
 10;9239;Restaurants;NOCTURNO
 10;9240;Home Furnishings;DIURNO
@@ -9247,7 +9247,7 @@ idServicio;id;nombreSupermercado;horario
 10;9246;Real Estate Investment Trusts;COMPLETO
 10;9247;Industrial Machinery/Components;COMPLETO
 10;9248;Major Pharmaceuticals;NOCTURNO
-10;9249;Oil & Gas Production;DIURNO
+10;9249;Oil - Gas Production;DIURNO
 10;9250;Real Estate Investment Trusts;DIURNO
 10;9251;Major Pharmaceuticals;COMPLETO
 10;9252;Trucking Freight/Courier Services;DIURNO
@@ -9268,7 +9268,7 @@ idServicio;id;nombreSupermercado;horario
 10;9267;Integrated oil Companies;DIURNO
 10;9268;n/a;COMPLETO
 10;9269;Other Specialty Stores;DIURNO
-10;9270;Oil & Gas Production;DIURNO
+10;9270;Oil - Gas Production;DIURNO
 10;9271;Industrial Machinery/Components;COMPLETO
 10;9272;Marine Transportation;DIURNO
 10;9273;Business Services;DIURNO
@@ -9281,7 +9281,7 @@ idServicio;id;nombreSupermercado;horario
 10;9280;Major Banks;NOCTURNO
 10;9281;n/a;COMPLETO
 10;9282;Real Estate Investment Trusts;DIURNO
-10;9283;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;9283;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;9284;n/a;NOCTURNO
 10;9285;Major Banks;COMPLETO
 10;9286;n/a;DIURNO
@@ -9289,7 +9289,7 @@ idServicio;id;nombreSupermercado;horario
 10;9288;Office Equipment/Supplies/Services;NOCTURNO
 10;9289;Major Pharmaceuticals;NOCTURNO
 10;9290;Metal Fabrications;DIURNO
-10;9291;Oil & Gas Production;COMPLETO
+10;9291;Oil - Gas Production;COMPLETO
 10;9292;Medical Specialities;NOCTURNO
 10;9293;Real Estate;COMPLETO
 10;9294;Television Services;DIURNO
@@ -9330,15 +9330,15 @@ idServicio;id;nombreSupermercado;horario
 10;9329;Industrial Specialties;DIURNO
 10;9330;Integrated oil Companies;NOCTURNO
 10;9331;EDP Services;NOCTURNO
-10;9332;Oil & Gas Production;NOCTURNO
+10;9332;Oil - Gas Production;NOCTURNO
 10;9333;Savings Institutions;COMPLETO
 10;9334;Advertising;COMPLETO
 10;9335;Real Estate Investment Trusts;NOCTURNO
-10;9336;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;9336;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;9337;Major Banks;DIURNO
 10;9338;Containers/Packaging;NOCTURNO
 10;9339;Restaurants;NOCTURNO
-10;9340;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;9340;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;9341;Computer Software: Prepackaged Software;COMPLETO
 10;9342;Major Pharmaceuticals;COMPLETO
 10;9343;Hospital/Nursing Management;DIURNO
@@ -9383,7 +9383,7 @@ idServicio;id;nombreSupermercado;horario
 10;9382;Major Banks;COMPLETO
 10;9383;Newspapers/Magazines;COMPLETO
 10;9384;Computer Software: Prepackaged Software;NOCTURNO
-10;9385;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;9385;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;9386;Metal Fabrications;DIURNO
 10;9387;n/a;COMPLETO
 10;9388;Medical Specialities;NOCTURNO
@@ -9396,7 +9396,7 @@ idServicio;id;nombreSupermercado;horario
 10;9395;n/a;DIURNO
 10;9396;Major Banks;DIURNO
 10;9397;Major Banks;NOCTURNO
-10;9398;Oil & Gas Production;DIURNO
+10;9398;Oil - Gas Production;DIURNO
 10;9399;Major Chemicals;NOCTURNO
 10;9400;Restaurants;DIURNO
 10;9401;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -9432,7 +9432,7 @@ idServicio;id;nombreSupermercado;horario
 10;9431;Department/Specialty Retail Stores;COMPLETO
 10;9432;n/a;NOCTURNO
 10;9433;Other Specialty Stores;COMPLETO
-10;9434;Oil & Gas Production;DIURNO
+10;9434;Oil - Gas Production;DIURNO
 10;9435;Major Banks;NOCTURNO
 10;9436;Real Estate Investment Trusts;DIURNO
 10;9437;Industrial Specialties;DIURNO
@@ -9440,7 +9440,7 @@ idServicio;id;nombreSupermercado;horario
 10;9439;n/a;COMPLETO
 10;9440;Semiconductors;COMPLETO
 10;9441;n/a;DIURNO
-10;9442;Oil & Gas Production;COMPLETO
+10;9442;Oil - Gas Production;COMPLETO
 10;9443;Broadcasting;NOCTURNO
 10;9444;Major Pharmaceuticals;COMPLETO
 10;9445;Military/Government/Technical;DIURNO
@@ -9455,13 +9455,13 @@ idServicio;id;nombreSupermercado;horario
 10;9454;Hospital/Nursing Management;NOCTURNO
 10;9455;Commercial Banks;NOCTURNO
 10;9456;n/a;NOCTURNO
-10;9457;Accident &Health Insurance;DIURNO
+10;9457;Accident -Health Insurance;DIURNO
 10;9458;Major Pharmaceuticals;COMPLETO
 10;9459;Clothing/Shoe/Accessory Stores;DIURNO
 10;9460;Diversified Financial Services;NOCTURNO
 10;9461;Packaged Foods;COMPLETO
 10;9462;n/a;DIURNO
-10;9463;Oil & Gas Production;DIURNO
+10;9463;Oil - Gas Production;DIURNO
 10;9464;Computer Software: Programming, Data Processing;NOCTURNO
 10;9465;Investment Bankers/Brokers/Service;NOCTURNO
 10;9466;Professional Services;COMPLETO
@@ -9491,9 +9491,9 @@ idServicio;id;nombreSupermercado;horario
 10;9490;Major Banks;DIURNO
 10;9491;n/a;COMPLETO
 10;9492;Computer Software: Prepackaged Software;COMPLETO
-10;9493;Oil & Gas Production;DIURNO
+10;9493;Oil - Gas Production;DIURNO
 10;9494;Steel/Iron Ore;NOCTURNO
-10;9495;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;9495;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;9496;Major Chemicals;NOCTURNO
 10;9497;Hospital/Nursing Management;COMPLETO
 10;9498;Industrial Specialties;COMPLETO
@@ -9512,7 +9512,7 @@ idServicio;id;nombreSupermercado;horario
 10;9511;Medical/Dental Instruments;DIURNO
 10;9512;Semiconductors;COMPLETO
 10;9513;Specialty Foods;NOCTURNO
-10;9514;Services-Misc. Amusement & Recreation;DIURNO
+10;9514;Services-Misc. Amusement - Recreation;DIURNO
 10;9515;EDP Services;NOCTURNO
 10;9516;Other Consumer Services;NOCTURNO
 10;9517;n/a;NOCTURNO
@@ -9553,7 +9553,7 @@ idServicio;id;nombreSupermercado;horario
 10;9552;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;9553;n/a;DIURNO
 10;9554;n/a;DIURNO
-10;9555;Services-Misc. Amusement & Recreation;COMPLETO
+10;9555;Services-Misc. Amusement - Recreation;COMPLETO
 10;9556;Transportation Services;NOCTURNO
 10;9557;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;9558;Commercial Banks;DIURNO
@@ -9596,7 +9596,7 @@ idServicio;id;nombreSupermercado;horario
 10;9595;Metal Fabrications;DIURNO
 10;9596;Environmental Services;COMPLETO
 10;9597;Other Consumer Services;DIURNO
-10;9598;Oil & Gas Production;COMPLETO
+10;9598;Oil - Gas Production;COMPLETO
 10;9599;Finance: Consumer Services;NOCTURNO
 10;9600;n/a;NOCTURNO
 10;9601;Specialty Insurers;DIURNO
@@ -9612,7 +9612,7 @@ idServicio;id;nombreSupermercado;horario
 10;9611;Farming/Seeds/Milling;NOCTURNO
 10;9612;Department/Specialty Retail Stores;DIURNO
 10;9613;n/a;COMPLETO
-10;9614;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;9614;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;9615;Electric Utilities: Central;DIURNO
 10;9616;Real Estate;NOCTURNO
 10;9617;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -9688,7 +9688,7 @@ idServicio;id;nombreSupermercado;horario
 10;9687;n/a;DIURNO
 10;9688;n/a;COMPLETO
 10;9689;n/a;DIURNO
-10;9690;Oil & Gas Production;DIURNO
+10;9690;Oil - Gas Production;DIURNO
 10;9691;Major Chemicals;COMPLETO
 10;9692;Medical/Nursing Services;DIURNO
 10;9693;Major Pharmaceuticals;COMPLETO
@@ -9750,9 +9750,9 @@ idServicio;id;nombreSupermercado;horario
 10;9749;Diversified Commercial Services;DIURNO
 10;9750;n/a;NOCTURNO
 10;9751;Major Pharmaceuticals;COMPLETO
-10;9752;Accident &Health Insurance;NOCTURNO
+10;9752;Accident -Health Insurance;NOCTURNO
 10;9753;Transportation Services;DIURNO
-10;9754;Oil & Gas Production;NOCTURNO
+10;9754;Oil - Gas Production;NOCTURNO
 10;9755;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;9756;n/a;DIURNO
 10;9757;n/a;COMPLETO
@@ -9762,13 +9762,13 @@ idServicio;id;nombreSupermercado;horario
 10;9761;Telecommunications Equipment;DIURNO
 10;9762;n/a;COMPLETO
 10;9763;Water Supply;COMPLETO
-10;9764;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;9764;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;9765;n/a;COMPLETO
-10;9766;Oil & Gas Production;DIURNO
+10;9766;Oil - Gas Production;DIURNO
 10;9767;Finance: Consumer Services;DIURNO
 10;9768;n/a;COMPLETO
 10;9769;Semiconductors;NOCTURNO
-10;9770;Oil & Gas Production;COMPLETO
+10;9770;Oil - Gas Production;COMPLETO
 10;9771;Real Estate Investment Trusts;DIURNO
 10;9772;Computer Manufacturing;NOCTURNO
 10;9773;Other Specialty Stores;DIURNO
@@ -9818,13 +9818,13 @@ idServicio;id;nombreSupermercado;horario
 10;9817;Major Pharmaceuticals;DIURNO
 10;9818;Savings Institutions;COMPLETO
 10;9819;n/a;COMPLETO
-10;9820;Oil & Gas Production;COMPLETO
+10;9820;Oil - Gas Production;COMPLETO
 10;9821;Major Banks;NOCTURNO
 10;9822;EDP Services;COMPLETO
 10;9823;Marine Transportation;COMPLETO
 10;9824;n/a;COMPLETO
 10;9825;Apparel;DIURNO
-10;9826;Accident &Health Insurance;COMPLETO
+10;9826;Accident -Health Insurance;COMPLETO
 10;9827;Packaged Foods;DIURNO
 10;9828;Semiconductors;COMPLETO
 10;9829;n/a;DIURNO
@@ -9839,7 +9839,7 @@ idServicio;id;nombreSupermercado;horario
 10;9838;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;9839;Natural Gas Distribution;COMPLETO
 10;9840;n/a;DIURNO
-10;9841;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;9841;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;9842;Professional Services;NOCTURNO
 10;9843;Air Freight/Delivery Services;COMPLETO
 10;9844;n/a;COMPLETO
@@ -9858,7 +9858,7 @@ idServicio;id;nombreSupermercado;horario
 10;9857;Savings Institutions;NOCTURNO
 10;9858;Major Pharmaceuticals;COMPLETO
 10;9859;Major Pharmaceuticals;DIURNO
-10;9860;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;9860;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;9861;Department/Specialty Retail Stores;DIURNO
 10;9862;Packaged Foods;DIURNO
 10;9863;Precious Metals;COMPLETO
@@ -9870,7 +9870,7 @@ idServicio;id;nombreSupermercado;horario
 10;9869;Finance: Consumer Services;DIURNO
 10;9870;n/a;NOCTURNO
 10;9871;Major Banks;COMPLETO
-10;9872;Oil & Gas Production;COMPLETO
+10;9872;Oil - Gas Production;COMPLETO
 10;9873;n/a;COMPLETO
 10;9874;Air Freight/Delivery Services;COMPLETO
 10;9875;n/a;NOCTURNO
@@ -9911,7 +9911,7 @@ idServicio;id;nombreSupermercado;horario
 10;9910;Semiconductors;DIURNO
 10;9911;n/a;COMPLETO
 10;9912;Business Services;DIURNO
-10;9913;Services-Misc. Amusement & Recreation;NOCTURNO
+10;9913;Services-Misc. Amusement - Recreation;NOCTURNO
 10;9914;n/a;COMPLETO
 10;9915;Oilfield Services/Equipment;DIURNO
 10;9916;Hospital/Nursing Management;COMPLETO
@@ -9956,10 +9956,10 @@ idServicio;id;nombreSupermercado;horario
 10;9955;Major Banks;DIURNO
 10;9956;Other Consumer Services;COMPLETO
 10;9957;Major Banks;COMPLETO
-10;9958;Oil & Gas Production;DIURNO
+10;9958;Oil - Gas Production;DIURNO
 10;9959;Paints/Coatings;COMPLETO
 10;9960;Investment Bankers/Brokers/Service;NOCTURNO
-10;9961;Oil & Gas Production;DIURNO
+10;9961;Oil - Gas Production;DIURNO
 10;9962;Home Furnishings;NOCTURNO
 10;9963;n/a;COMPLETO
 10;9964;Business Services;DIURNO
@@ -9971,7 +9971,7 @@ idServicio;id;nombreSupermercado;horario
 10;9970;Major Banks;COMPLETO
 10;9971;Integrated oil Companies;COMPLETO
 10;9972;Packaged Foods;COMPLETO
-10;9973;Services-Misc. Amusement & Recreation;COMPLETO
+10;9973;Services-Misc. Amusement - Recreation;COMPLETO
 10;9974;n/a;NOCTURNO
 10;9975;Medical Specialities;COMPLETO
 10;9976;Apparel;COMPLETO
@@ -9985,7 +9985,7 @@ idServicio;id;nombreSupermercado;horario
 10;9984;Computer Software: Prepackaged Software;NOCTURNO
 10;9985;Medical/Dental Instruments;COMPLETO
 10;9986;Apparel;DIURNO
-10;9987;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;9987;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;9988;Marine Transportation;DIURNO
 10;9989;n/a;COMPLETO
 10;9990;Business Services;COMPLETO
@@ -10024,17 +10024,17 @@ idServicio;id;nombreSupermercado;horario
 10;10023;Transportation Services;NOCTURNO
 10;10024;EDP Services;COMPLETO
 10;10025;Medical Specialities;NOCTURNO
-10;10026;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;10026;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;10027;Precious Metals;NOCTURNO
 10;10028;Industrial Machinery/Components;COMPLETO
 10;10029;n/a;NOCTURNO
 10;10030;Computer Software: Prepackaged Software;DIURNO
-10;10031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;10031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;10032;Commercial Banks;NOCTURNO
 10;10033;Computer Software: Programming, Data Processing;NOCTURNO
 10;10034;Property-Casualty Insurers;DIURNO
 10;10035;Telecommunications Equipment;COMPLETO
-10;10036;Services-Misc. Amusement & Recreation;DIURNO
+10;10036;Services-Misc. Amusement - Recreation;DIURNO
 10;10037;Major Banks;COMPLETO
 10;10038;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;10039;Publishing;DIURNO
@@ -10042,7 +10042,7 @@ idServicio;id;nombreSupermercado;horario
 10;10041;Major Banks;COMPLETO
 10;10042;Food Distributors;DIURNO
 10;10043;Hospital/Nursing Management;NOCTURNO
-10;10044;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;10044;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;10045;Computer Manufacturing;COMPLETO
 10;10046;Hotels/Resorts;COMPLETO
 10;10047;Food Chains;COMPLETO
@@ -10097,7 +10097,7 @@ idServicio;id;nombreSupermercado;horario
 10;10096;Multi-Sector Companies;DIURNO
 10;10097;n/a;COMPLETO
 10;10098;Packaged Foods;NOCTURNO
-10;10099;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;10099;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;10100;n/a;DIURNO
 10;10101;Real Estate Investment Trusts;COMPLETO
 10;10102;Telecommunications Equipment;NOCTURNO
@@ -10108,19 +10108,19 @@ idServicio;id;nombreSupermercado;horario
 10;10107;Oil Refining/Marketing;NOCTURNO
 10;10108;Business Services;DIURNO
 10;10109;n/a;DIURNO
-10;10110;Oil & Gas Production;DIURNO
+10;10110;Oil - Gas Production;DIURNO
 10;10111;n/a;COMPLETO
 10;10112;Electric Utilities: Central;DIURNO
 10;10113;n/a;COMPLETO
 10;10114;Major Pharmaceuticals;DIURNO
 10;10115;Industrial Machinery/Components;NOCTURNO
-10;10116;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;10116;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;10117;Consumer Specialties;DIURNO
 10;10118;n/a;NOCTURNO
-10;10119;Oil & Gas Production;NOCTURNO
+10;10119;Oil - Gas Production;NOCTURNO
 10;10120;Broadcasting;DIURNO
 10;10121;Motor Vehicles;COMPLETO
-10;10122;Oil & Gas Production;NOCTURNO
+10;10122;Oil - Gas Production;NOCTURNO
 10;10123;Electric Utilities: Central;NOCTURNO
 10;10124;Fluid Controls;NOCTURNO
 10;10125;Investment Bankers/Brokers/Service;DIURNO
@@ -10197,7 +10197,7 @@ idServicio;id;nombreSupermercado;horario
 10;10196;Finance: Consumer Services;NOCTURNO
 10;10197;Metal Fabrications;NOCTURNO
 10;10198;Transportation Services;DIURNO
-10;10199;Oil & Gas Production;DIURNO
+10;10199;Oil - Gas Production;DIURNO
 10;10200;Hospital/Nursing Management;NOCTURNO
 10;10201;n/a;DIURNO
 10;10202;Real Estate Investment Trusts;NOCTURNO
@@ -10228,14 +10228,14 @@ idServicio;id;nombreSupermercado;horario
 10;10227;Industrial Machinery/Components;COMPLETO
 10;10228;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;10229;Environmental Services;DIURNO
-10;10230;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;10230;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;10231;Major Pharmaceuticals;COMPLETO
 10;10232;Commercial Banks;COMPLETO
 10;10233;Metal Fabrications;NOCTURNO
 10;10234;Department/Specialty Retail Stores;NOCTURNO
 10;10235;Major Pharmaceuticals;COMPLETO
 10;10236;Major Pharmaceuticals;NOCTURNO
-10;10237;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;10237;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;10238;Banks;DIURNO
 10;10239;Restaurants;NOCTURNO
 10;10240;Home Furnishings;DIURNO
@@ -10247,7 +10247,7 @@ idServicio;id;nombreSupermercado;horario
 10;10246;Real Estate Investment Trusts;COMPLETO
 10;10247;Industrial Machinery/Components;COMPLETO
 10;10248;Major Pharmaceuticals;NOCTURNO
-10;10249;Oil & Gas Production;DIURNO
+10;10249;Oil - Gas Production;DIURNO
 10;10250;Real Estate Investment Trusts;DIURNO
 10;10251;Major Pharmaceuticals;COMPLETO
 10;10252;Trucking Freight/Courier Services;DIURNO
@@ -10268,7 +10268,7 @@ idServicio;id;nombreSupermercado;horario
 10;10267;Integrated oil Companies;DIURNO
 10;10268;n/a;COMPLETO
 10;10269;Other Specialty Stores;DIURNO
-10;10270;Oil & Gas Production;DIURNO
+10;10270;Oil - Gas Production;DIURNO
 10;10271;Industrial Machinery/Components;COMPLETO
 10;10272;Marine Transportation;DIURNO
 10;10273;Business Services;DIURNO
@@ -10281,7 +10281,7 @@ idServicio;id;nombreSupermercado;horario
 10;10280;Major Banks;NOCTURNO
 10;10281;n/a;COMPLETO
 10;10282;Real Estate Investment Trusts;DIURNO
-10;10283;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;10283;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;10284;n/a;NOCTURNO
 10;10285;Major Banks;COMPLETO
 10;10286;n/a;DIURNO
@@ -10289,7 +10289,7 @@ idServicio;id;nombreSupermercado;horario
 10;10288;Office Equipment/Supplies/Services;NOCTURNO
 10;10289;Major Pharmaceuticals;NOCTURNO
 10;10290;Metal Fabrications;DIURNO
-10;10291;Oil & Gas Production;COMPLETO
+10;10291;Oil - Gas Production;COMPLETO
 10;10292;Medical Specialities;NOCTURNO
 10;10293;Real Estate;COMPLETO
 10;10294;Television Services;DIURNO
@@ -10330,15 +10330,15 @@ idServicio;id;nombreSupermercado;horario
 10;10329;Industrial Specialties;DIURNO
 10;10330;Integrated oil Companies;NOCTURNO
 10;10331;EDP Services;NOCTURNO
-10;10332;Oil & Gas Production;NOCTURNO
+10;10332;Oil - Gas Production;NOCTURNO
 10;10333;Savings Institutions;COMPLETO
 10;10334;Advertising;COMPLETO
 10;10335;Real Estate Investment Trusts;NOCTURNO
-10;10336;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;10336;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;10337;Major Banks;DIURNO
 10;10338;Containers/Packaging;NOCTURNO
 10;10339;Restaurants;NOCTURNO
-10;10340;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;10340;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;10341;Computer Software: Prepackaged Software;COMPLETO
 10;10342;Major Pharmaceuticals;COMPLETO
 10;10343;Hospital/Nursing Management;DIURNO
@@ -10383,7 +10383,7 @@ idServicio;id;nombreSupermercado;horario
 10;10382;Major Banks;COMPLETO
 10;10383;Newspapers/Magazines;COMPLETO
 10;10384;Computer Software: Prepackaged Software;NOCTURNO
-10;10385;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;10385;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;10386;Metal Fabrications;DIURNO
 10;10387;n/a;COMPLETO
 10;10388;Medical Specialities;NOCTURNO
@@ -10396,7 +10396,7 @@ idServicio;id;nombreSupermercado;horario
 10;10395;n/a;DIURNO
 10;10396;Major Banks;DIURNO
 10;10397;Major Banks;NOCTURNO
-10;10398;Oil & Gas Production;DIURNO
+10;10398;Oil - Gas Production;DIURNO
 10;10399;Major Chemicals;NOCTURNO
 10;10400;Restaurants;DIURNO
 10;10401;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -10432,7 +10432,7 @@ idServicio;id;nombreSupermercado;horario
 10;10431;Department/Specialty Retail Stores;COMPLETO
 10;10432;n/a;NOCTURNO
 10;10433;Other Specialty Stores;COMPLETO
-10;10434;Oil & Gas Production;DIURNO
+10;10434;Oil - Gas Production;DIURNO
 10;10435;Major Banks;NOCTURNO
 10;10436;Real Estate Investment Trusts;DIURNO
 10;10437;Industrial Specialties;DIURNO
@@ -10440,7 +10440,7 @@ idServicio;id;nombreSupermercado;horario
 10;10439;n/a;COMPLETO
 10;10440;Semiconductors;COMPLETO
 10;10441;n/a;DIURNO
-10;10442;Oil & Gas Production;COMPLETO
+10;10442;Oil - Gas Production;COMPLETO
 10;10443;Broadcasting;NOCTURNO
 10;10444;Major Pharmaceuticals;COMPLETO
 10;10445;Military/Government/Technical;DIURNO
@@ -10455,13 +10455,13 @@ idServicio;id;nombreSupermercado;horario
 10;10454;Hospital/Nursing Management;NOCTURNO
 10;10455;Commercial Banks;NOCTURNO
 10;10456;n/a;NOCTURNO
-10;10457;Accident &Health Insurance;DIURNO
+10;10457;Accident -Health Insurance;DIURNO
 10;10458;Major Pharmaceuticals;COMPLETO
 10;10459;Clothing/Shoe/Accessory Stores;DIURNO
 10;10460;Diversified Financial Services;NOCTURNO
 10;10461;Packaged Foods;COMPLETO
 10;10462;n/a;DIURNO
-10;10463;Oil & Gas Production;DIURNO
+10;10463;Oil - Gas Production;DIURNO
 10;10464;Computer Software: Programming, Data Processing;NOCTURNO
 10;10465;Investment Bankers/Brokers/Service;NOCTURNO
 10;10466;Professional Services;COMPLETO
@@ -10491,9 +10491,9 @@ idServicio;id;nombreSupermercado;horario
 10;10490;Major Banks;DIURNO
 10;10491;n/a;COMPLETO
 10;10492;Computer Software: Prepackaged Software;COMPLETO
-10;10493;Oil & Gas Production;DIURNO
+10;10493;Oil - Gas Production;DIURNO
 10;10494;Steel/Iron Ore;NOCTURNO
-10;10495;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;10495;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;10496;Major Chemicals;NOCTURNO
 10;10497;Hospital/Nursing Management;COMPLETO
 10;10498;Industrial Specialties;COMPLETO
@@ -10512,7 +10512,7 @@ idServicio;id;nombreSupermercado;horario
 10;10511;Medical/Dental Instruments;DIURNO
 10;10512;Semiconductors;COMPLETO
 10;10513;Specialty Foods;NOCTURNO
-10;10514;Services-Misc. Amusement & Recreation;DIURNO
+10;10514;Services-Misc. Amusement - Recreation;DIURNO
 10;10515;EDP Services;NOCTURNO
 10;10516;Other Consumer Services;NOCTURNO
 10;10517;n/a;NOCTURNO
@@ -10553,7 +10553,7 @@ idServicio;id;nombreSupermercado;horario
 10;10552;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;10553;n/a;DIURNO
 10;10554;n/a;DIURNO
-10;10555;Services-Misc. Amusement & Recreation;COMPLETO
+10;10555;Services-Misc. Amusement - Recreation;COMPLETO
 10;10556;Transportation Services;NOCTURNO
 10;10557;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;10558;Commercial Banks;DIURNO
@@ -10596,7 +10596,7 @@ idServicio;id;nombreSupermercado;horario
 10;10595;Metal Fabrications;DIURNO
 10;10596;Environmental Services;COMPLETO
 10;10597;Other Consumer Services;DIURNO
-10;10598;Oil & Gas Production;COMPLETO
+10;10598;Oil - Gas Production;COMPLETO
 10;10599;Finance: Consumer Services;NOCTURNO
 10;10600;n/a;NOCTURNO
 10;10601;Specialty Insurers;DIURNO
@@ -10612,7 +10612,7 @@ idServicio;id;nombreSupermercado;horario
 10;10611;Farming/Seeds/Milling;NOCTURNO
 10;10612;Department/Specialty Retail Stores;DIURNO
 10;10613;n/a;COMPLETO
-10;10614;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;10614;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;10615;Electric Utilities: Central;DIURNO
 10;10616;Real Estate;NOCTURNO
 10;10617;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -10688,7 +10688,7 @@ idServicio;id;nombreSupermercado;horario
 10;10687;n/a;DIURNO
 10;10688;n/a;COMPLETO
 10;10689;n/a;DIURNO
-10;10690;Oil & Gas Production;DIURNO
+10;10690;Oil - Gas Production;DIURNO
 10;10691;Major Chemicals;COMPLETO
 10;10692;Medical/Nursing Services;DIURNO
 10;10693;Major Pharmaceuticals;COMPLETO
@@ -10750,9 +10750,9 @@ idServicio;id;nombreSupermercado;horario
 10;10749;Diversified Commercial Services;DIURNO
 10;10750;n/a;NOCTURNO
 10;10751;Major Pharmaceuticals;COMPLETO
-10;10752;Accident &Health Insurance;NOCTURNO
+10;10752;Accident -Health Insurance;NOCTURNO
 10;10753;Transportation Services;DIURNO
-10;10754;Oil & Gas Production;NOCTURNO
+10;10754;Oil - Gas Production;NOCTURNO
 10;10755;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;10756;n/a;DIURNO
 10;10757;n/a;COMPLETO
@@ -10762,13 +10762,13 @@ idServicio;id;nombreSupermercado;horario
 10;10761;Telecommunications Equipment;DIURNO
 10;10762;n/a;COMPLETO
 10;10763;Water Supply;COMPLETO
-10;10764;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;10764;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;10765;n/a;COMPLETO
-10;10766;Oil & Gas Production;DIURNO
+10;10766;Oil - Gas Production;DIURNO
 10;10767;Finance: Consumer Services;DIURNO
 10;10768;n/a;COMPLETO
 10;10769;Semiconductors;NOCTURNO
-10;10770;Oil & Gas Production;COMPLETO
+10;10770;Oil - Gas Production;COMPLETO
 10;10771;Real Estate Investment Trusts;DIURNO
 10;10772;Computer Manufacturing;NOCTURNO
 10;10773;Other Specialty Stores;DIURNO
@@ -10818,13 +10818,13 @@ idServicio;id;nombreSupermercado;horario
 10;10817;Major Pharmaceuticals;DIURNO
 10;10818;Savings Institutions;COMPLETO
 10;10819;n/a;COMPLETO
-10;10820;Oil & Gas Production;COMPLETO
+10;10820;Oil - Gas Production;COMPLETO
 10;10821;Major Banks;NOCTURNO
 10;10822;EDP Services;COMPLETO
 10;10823;Marine Transportation;COMPLETO
 10;10824;n/a;COMPLETO
 10;10825;Apparel;DIURNO
-10;10826;Accident &Health Insurance;COMPLETO
+10;10826;Accident -Health Insurance;COMPLETO
 10;10827;Packaged Foods;DIURNO
 10;10828;Semiconductors;COMPLETO
 10;10829;n/a;DIURNO
@@ -10839,7 +10839,7 @@ idServicio;id;nombreSupermercado;horario
 10;10838;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;10839;Natural Gas Distribution;COMPLETO
 10;10840;n/a;DIURNO
-10;10841;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;10841;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;10842;Professional Services;NOCTURNO
 10;10843;Air Freight/Delivery Services;COMPLETO
 10;10844;n/a;COMPLETO
@@ -10858,7 +10858,7 @@ idServicio;id;nombreSupermercado;horario
 10;10857;Savings Institutions;NOCTURNO
 10;10858;Major Pharmaceuticals;COMPLETO
 10;10859;Major Pharmaceuticals;DIURNO
-10;10860;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;10860;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;10861;Department/Specialty Retail Stores;DIURNO
 10;10862;Packaged Foods;DIURNO
 10;10863;Precious Metals;COMPLETO
@@ -10870,7 +10870,7 @@ idServicio;id;nombreSupermercado;horario
 10;10869;Finance: Consumer Services;DIURNO
 10;10870;n/a;NOCTURNO
 10;10871;Major Banks;COMPLETO
-10;10872;Oil & Gas Production;COMPLETO
+10;10872;Oil - Gas Production;COMPLETO
 10;10873;n/a;COMPLETO
 10;10874;Air Freight/Delivery Services;COMPLETO
 10;10875;n/a;NOCTURNO
@@ -10911,7 +10911,7 @@ idServicio;id;nombreSupermercado;horario
 10;10910;Semiconductors;DIURNO
 10;10911;n/a;COMPLETO
 10;10912;Business Services;DIURNO
-10;10913;Services-Misc. Amusement & Recreation;NOCTURNO
+10;10913;Services-Misc. Amusement - Recreation;NOCTURNO
 10;10914;n/a;COMPLETO
 10;10915;Oilfield Services/Equipment;DIURNO
 10;10916;Hospital/Nursing Management;COMPLETO
@@ -10956,10 +10956,10 @@ idServicio;id;nombreSupermercado;horario
 10;10955;Major Banks;DIURNO
 10;10956;Other Consumer Services;COMPLETO
 10;10957;Major Banks;COMPLETO
-10;10958;Oil & Gas Production;DIURNO
+10;10958;Oil - Gas Production;DIURNO
 10;10959;Paints/Coatings;COMPLETO
 10;10960;Investment Bankers/Brokers/Service;NOCTURNO
-10;10961;Oil & Gas Production;DIURNO
+10;10961;Oil - Gas Production;DIURNO
 10;10962;Home Furnishings;NOCTURNO
 10;10963;n/a;COMPLETO
 10;10964;Business Services;DIURNO
@@ -10971,7 +10971,7 @@ idServicio;id;nombreSupermercado;horario
 10;10970;Major Banks;COMPLETO
 10;10971;Integrated oil Companies;COMPLETO
 10;10972;Packaged Foods;COMPLETO
-10;10973;Services-Misc. Amusement & Recreation;COMPLETO
+10;10973;Services-Misc. Amusement - Recreation;COMPLETO
 10;10974;n/a;NOCTURNO
 10;10975;Medical Specialities;COMPLETO
 10;10976;Apparel;COMPLETO
@@ -10985,7 +10985,7 @@ idServicio;id;nombreSupermercado;horario
 10;10984;Computer Software: Prepackaged Software;NOCTURNO
 10;10985;Medical/Dental Instruments;COMPLETO
 10;10986;Apparel;DIURNO
-10;10987;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;10987;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;10988;Marine Transportation;DIURNO
 10;10989;n/a;COMPLETO
 10;10990;Business Services;COMPLETO
@@ -11024,17 +11024,17 @@ idServicio;id;nombreSupermercado;horario
 10;11023;Transportation Services;NOCTURNO
 10;11024;EDP Services;COMPLETO
 10;11025;Medical Specialities;NOCTURNO
-10;11026;Mining & Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
+10;11026;Mining - Quarrying of Nonmetallic Minerals (No Fuels);DIURNO
 10;11027;Precious Metals;NOCTURNO
 10;11028;Industrial Machinery/Components;COMPLETO
 10;11029;n/a;NOCTURNO
 10;11030;Computer Software: Prepackaged Software;DIURNO
-10;11031;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;11031;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;11032;Commercial Banks;NOCTURNO
 10;11033;Computer Software: Programming, Data Processing;NOCTURNO
 10;11034;Property-Casualty Insurers;DIURNO
 10;11035;Telecommunications Equipment;COMPLETO
-10;11036;Services-Misc. Amusement & Recreation;DIURNO
+10;11036;Services-Misc. Amusement - Recreation;DIURNO
 10;11037;Major Banks;COMPLETO
 10;11038;Biotechnology: Biological Products (No Diagnostic Substances);DIURNO
 10;11039;Publishing;DIURNO
@@ -11042,7 +11042,7 @@ idServicio;id;nombreSupermercado;horario
 10;11041;Major Banks;COMPLETO
 10;11042;Food Distributors;DIURNO
 10;11043;Hospital/Nursing Management;NOCTURNO
-10;11044;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;11044;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;11045;Computer Manufacturing;COMPLETO
 10;11046;Hotels/Resorts;COMPLETO
 10;11047;Food Chains;COMPLETO
@@ -11097,7 +11097,7 @@ idServicio;id;nombreSupermercado;horario
 10;11096;Multi-Sector Companies;DIURNO
 10;11097;n/a;COMPLETO
 10;11098;Packaged Foods;NOCTURNO
-10;11099;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;11099;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;11100;n/a;DIURNO
 10;11101;Real Estate Investment Trusts;COMPLETO
 10;11102;Telecommunications Equipment;NOCTURNO
@@ -11108,19 +11108,19 @@ idServicio;id;nombreSupermercado;horario
 10;11107;Oil Refining/Marketing;NOCTURNO
 10;11108;Business Services;DIURNO
 10;11109;n/a;DIURNO
-10;11110;Oil & Gas Production;DIURNO
+10;11110;Oil - Gas Production;DIURNO
 10;11111;n/a;COMPLETO
 10;11112;Electric Utilities: Central;DIURNO
 10;11113;n/a;COMPLETO
 10;11114;Major Pharmaceuticals;DIURNO
 10;11115;Industrial Machinery/Components;NOCTURNO
-10;11116;Biotechnology: Commercial Physical & Biological Resarch;NOCTURNO
+10;11116;Biotechnology: Commercial Physical - Biological Resarch;NOCTURNO
 10;11117;Consumer Specialties;DIURNO
 10;11118;n/a;NOCTURNO
-10;11119;Oil & Gas Production;NOCTURNO
+10;11119;Oil - Gas Production;NOCTURNO
 10;11120;Broadcasting;DIURNO
 10;11121;Motor Vehicles;COMPLETO
-10;11122;Oil & Gas Production;NOCTURNO
+10;11122;Oil - Gas Production;NOCTURNO
 10;11123;Electric Utilities: Central;NOCTURNO
 10;11124;Fluid Controls;NOCTURNO
 10;11125;Investment Bankers/Brokers/Service;DIURNO
@@ -11197,7 +11197,7 @@ idServicio;id;nombreSupermercado;horario
 10;11196;Finance: Consumer Services;NOCTURNO
 10;11197;Metal Fabrications;NOCTURNO
 10;11198;Transportation Services;DIURNO
-10;11199;Oil & Gas Production;DIURNO
+10;11199;Oil - Gas Production;DIURNO
 10;11200;Hospital/Nursing Management;NOCTURNO
 10;11201;n/a;DIURNO
 10;11202;Real Estate Investment Trusts;NOCTURNO
@@ -11228,14 +11228,14 @@ idServicio;id;nombreSupermercado;horario
 10;11227;Industrial Machinery/Components;COMPLETO
 10;11228;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;11229;Environmental Services;DIURNO
-10;11230;Biotechnology: In Vitro & In Vivo Diagnostic Substances;DIURNO
+10;11230;Biotechnology: In Vitro - In Vivo Diagnostic Substances;DIURNO
 10;11231;Major Pharmaceuticals;COMPLETO
 10;11232;Commercial Banks;COMPLETO
 10;11233;Metal Fabrications;NOCTURNO
 10;11234;Department/Specialty Retail Stores;NOCTURNO
 10;11235;Major Pharmaceuticals;COMPLETO
 10;11236;Major Pharmaceuticals;NOCTURNO
-10;11237;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;11237;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;11238;Banks;DIURNO
 10;11239;Restaurants;NOCTURNO
 10;11240;Home Furnishings;DIURNO
@@ -11247,7 +11247,7 @@ idServicio;id;nombreSupermercado;horario
 10;11246;Real Estate Investment Trusts;COMPLETO
 10;11247;Industrial Machinery/Components;COMPLETO
 10;11248;Major Pharmaceuticals;NOCTURNO
-10;11249;Oil & Gas Production;DIURNO
+10;11249;Oil - Gas Production;DIURNO
 10;11250;Real Estate Investment Trusts;DIURNO
 10;11251;Major Pharmaceuticals;COMPLETO
 10;11252;Trucking Freight/Courier Services;DIURNO
@@ -11268,7 +11268,7 @@ idServicio;id;nombreSupermercado;horario
 10;11267;Integrated oil Companies;DIURNO
 10;11268;n/a;COMPLETO
 10;11269;Other Specialty Stores;DIURNO
-10;11270;Oil & Gas Production;DIURNO
+10;11270;Oil - Gas Production;DIURNO
 10;11271;Industrial Machinery/Components;COMPLETO
 10;11272;Marine Transportation;DIURNO
 10;11273;Business Services;DIURNO
@@ -11281,7 +11281,7 @@ idServicio;id;nombreSupermercado;horario
 10;11280;Major Banks;NOCTURNO
 10;11281;n/a;COMPLETO
 10;11282;Real Estate Investment Trusts;DIURNO
-10;11283;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;11283;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;11284;n/a;NOCTURNO
 10;11285;Major Banks;COMPLETO
 10;11286;n/a;DIURNO
@@ -11289,7 +11289,7 @@ idServicio;id;nombreSupermercado;horario
 10;11288;Office Equipment/Supplies/Services;NOCTURNO
 10;11289;Major Pharmaceuticals;NOCTURNO
 10;11290;Metal Fabrications;DIURNO
-10;11291;Oil & Gas Production;COMPLETO
+10;11291;Oil - Gas Production;COMPLETO
 10;11292;Medical Specialities;NOCTURNO
 10;11293;Real Estate;COMPLETO
 10;11294;Television Services;DIURNO
@@ -11330,15 +11330,15 @@ idServicio;id;nombreSupermercado;horario
 10;11329;Industrial Specialties;DIURNO
 10;11330;Integrated oil Companies;NOCTURNO
 10;11331;EDP Services;NOCTURNO
-10;11332;Oil & Gas Production;NOCTURNO
+10;11332;Oil - Gas Production;NOCTURNO
 10;11333;Savings Institutions;COMPLETO
 10;11334;Advertising;COMPLETO
 10;11335;Real Estate Investment Trusts;NOCTURNO
-10;11336;Biotechnology: Electromedical & Electrotherapeutic Apparatus;COMPLETO
+10;11336;Biotechnology: Electromedical - Electrotherapeutic Apparatus;COMPLETO
 10;11337;Major Banks;DIURNO
 10;11338;Containers/Packaging;NOCTURNO
 10;11339;Restaurants;NOCTURNO
-10;11340;Biotechnology: In Vitro & In Vivo Diagnostic Substances;COMPLETO
+10;11340;Biotechnology: In Vitro - In Vivo Diagnostic Substances;COMPLETO
 10;11341;Computer Software: Prepackaged Software;COMPLETO
 10;11342;Major Pharmaceuticals;COMPLETO
 10;11343;Hospital/Nursing Management;DIURNO
@@ -11383,7 +11383,7 @@ idServicio;id;nombreSupermercado;horario
 10;11382;Major Banks;COMPLETO
 10;11383;Newspapers/Magazines;COMPLETO
 10;11384;Computer Software: Prepackaged Software;NOCTURNO
-10;11385;Retail: Computer Software & Peripheral Equipment;DIURNO
+10;11385;Retail: Computer Software - Peripheral Equipment;DIURNO
 10;11386;Metal Fabrications;DIURNO
 10;11387;n/a;COMPLETO
 10;11388;Medical Specialities;NOCTURNO
@@ -11396,7 +11396,7 @@ idServicio;id;nombreSupermercado;horario
 10;11395;n/a;DIURNO
 10;11396;Major Banks;DIURNO
 10;11397;Major Banks;NOCTURNO
-10;11398;Oil & Gas Production;DIURNO
+10;11398;Oil - Gas Production;DIURNO
 10;11399;Major Chemicals;NOCTURNO
 10;11400;Restaurants;DIURNO
 10;11401;Biotechnology: Laboratory Analytical Instruments;DIURNO
@@ -11432,7 +11432,7 @@ idServicio;id;nombreSupermercado;horario
 10;11431;Department/Specialty Retail Stores;COMPLETO
 10;11432;n/a;NOCTURNO
 10;11433;Other Specialty Stores;COMPLETO
-10;11434;Oil & Gas Production;DIURNO
+10;11434;Oil - Gas Production;DIURNO
 10;11435;Major Banks;NOCTURNO
 10;11436;Real Estate Investment Trusts;DIURNO
 10;11437;Industrial Specialties;DIURNO
@@ -11440,7 +11440,7 @@ idServicio;id;nombreSupermercado;horario
 10;11439;n/a;COMPLETO
 10;11440;Semiconductors;COMPLETO
 10;11441;n/a;DIURNO
-10;11442;Oil & Gas Production;COMPLETO
+10;11442;Oil - Gas Production;COMPLETO
 10;11443;Broadcasting;NOCTURNO
 10;11444;Major Pharmaceuticals;COMPLETO
 10;11445;Military/Government/Technical;DIURNO
@@ -11455,13 +11455,13 @@ idServicio;id;nombreSupermercado;horario
 10;11454;Hospital/Nursing Management;NOCTURNO
 10;11455;Commercial Banks;NOCTURNO
 10;11456;n/a;NOCTURNO
-10;11457;Accident &Health Insurance;DIURNO
+10;11457;Accident -Health Insurance;DIURNO
 10;11458;Major Pharmaceuticals;COMPLETO
 10;11459;Clothing/Shoe/Accessory Stores;DIURNO
 10;11460;Diversified Financial Services;NOCTURNO
 10;11461;Packaged Foods;COMPLETO
 10;11462;n/a;DIURNO
-10;11463;Oil & Gas Production;DIURNO
+10;11463;Oil - Gas Production;DIURNO
 10;11464;Computer Software: Programming, Data Processing;NOCTURNO
 10;11465;Investment Bankers/Brokers/Service;NOCTURNO
 10;11466;Professional Services;COMPLETO
@@ -11491,9 +11491,9 @@ idServicio;id;nombreSupermercado;horario
 10;11490;Major Banks;DIURNO
 10;11491;n/a;COMPLETO
 10;11492;Computer Software: Prepackaged Software;COMPLETO
-10;11493;Oil & Gas Production;DIURNO
+10;11493;Oil - Gas Production;DIURNO
 10;11494;Steel/Iron Ore;NOCTURNO
-10;11495;Mining & Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
+10;11495;Mining - Quarrying of Nonmetallic Minerals (No Fuels);NOCTURNO
 10;11496;Major Chemicals;NOCTURNO
 10;11497;Hospital/Nursing Management;COMPLETO
 10;11498;Industrial Specialties;COMPLETO
@@ -11512,7 +11512,7 @@ idServicio;id;nombreSupermercado;horario
 10;11511;Medical/Dental Instruments;DIURNO
 10;11512;Semiconductors;COMPLETO
 10;11513;Specialty Foods;NOCTURNO
-10;11514;Services-Misc. Amusement & Recreation;DIURNO
+10;11514;Services-Misc. Amusement - Recreation;DIURNO
 10;11515;EDP Services;NOCTURNO
 10;11516;Other Consumer Services;NOCTURNO
 10;11517;n/a;NOCTURNO
@@ -11553,7 +11553,7 @@ idServicio;id;nombreSupermercado;horario
 10;11552;Radio And Television Broadcasting And Communications Equipment;COMPLETO
 10;11553;n/a;DIURNO
 10;11554;n/a;DIURNO
-10;11555;Services-Misc. Amusement & Recreation;COMPLETO
+10;11555;Services-Misc. Amusement - Recreation;COMPLETO
 10;11556;Transportation Services;NOCTURNO
 10;11557;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
 10;11558;Commercial Banks;DIURNO
@@ -11596,7 +11596,7 @@ idServicio;id;nombreSupermercado;horario
 10;11595;Metal Fabrications;DIURNO
 10;11596;Environmental Services;COMPLETO
 10;11597;Other Consumer Services;DIURNO
-10;11598;Oil & Gas Production;COMPLETO
+10;11598;Oil - Gas Production;COMPLETO
 10;11599;Finance: Consumer Services;NOCTURNO
 10;11600;n/a;NOCTURNO
 10;11601;Specialty Insurers;DIURNO
@@ -11612,7 +11612,7 @@ idServicio;id;nombreSupermercado;horario
 10;11611;Farming/Seeds/Milling;NOCTURNO
 10;11612;Department/Specialty Retail Stores;DIURNO
 10;11613;n/a;COMPLETO
-10;11614;Mining & Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
+10;11614;Mining - Quarrying of Nonmetallic Minerals (No Fuels);COMPLETO
 10;11615;Electric Utilities: Central;DIURNO
 10;11616;Real Estate;NOCTURNO
 10;11617;Biotechnology: Biological Products (No Diagnostic Substances);NOCTURNO
@@ -11688,7 +11688,7 @@ idServicio;id;nombreSupermercado;horario
 10;11687;n/a;DIURNO
 10;11688;n/a;COMPLETO
 10;11689;n/a;DIURNO
-10;11690;Oil & Gas Production;DIURNO
+10;11690;Oil - Gas Production;DIURNO
 10;11691;Major Chemicals;COMPLETO
 10;11692;Medical/Nursing Services;DIURNO
 10;11693;Major Pharmaceuticals;COMPLETO
@@ -11750,9 +11750,9 @@ idServicio;id;nombreSupermercado;horario
 10;11749;Diversified Commercial Services;DIURNO
 10;11750;n/a;NOCTURNO
 10;11751;Major Pharmaceuticals;COMPLETO
-10;11752;Accident &Health Insurance;NOCTURNO
+10;11752;Accident -Health Insurance;NOCTURNO
 10;11753;Transportation Services;DIURNO
-10;11754;Oil & Gas Production;NOCTURNO
+10;11754;Oil - Gas Production;NOCTURNO
 10;11755;Biotechnology: Biological Products (No Diagnostic Substances);COMPLETO
 10;11756;n/a;DIURNO
 10;11757;n/a;COMPLETO
@@ -11762,13 +11762,13 @@ idServicio;id;nombreSupermercado;horario
 10;11761;Telecommunications Equipment;DIURNO
 10;11762;n/a;COMPLETO
 10;11763;Water Supply;COMPLETO
-10;11764;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;11764;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;11765;n/a;COMPLETO
-10;11766;Oil & Gas Production;DIURNO
+10;11766;Oil - Gas Production;DIURNO
 10;11767;Finance: Consumer Services;DIURNO
 10;11768;n/a;COMPLETO
 10;11769;Semiconductors;NOCTURNO
-10;11770;Oil & Gas Production;COMPLETO
+10;11770;Oil - Gas Production;COMPLETO
 10;11771;Real Estate Investment Trusts;DIURNO
 10;11772;Computer Manufacturing;NOCTURNO
 10;11773;Other Specialty Stores;DIURNO
@@ -11818,13 +11818,13 @@ idServicio;id;nombreSupermercado;horario
 10;11817;Major Pharmaceuticals;DIURNO
 10;11818;Savings Institutions;COMPLETO
 10;11819;n/a;COMPLETO
-10;11820;Oil & Gas Production;COMPLETO
+10;11820;Oil - Gas Production;COMPLETO
 10;11821;Major Banks;NOCTURNO
 10;11822;EDP Services;COMPLETO
 10;11823;Marine Transportation;COMPLETO
 10;11824;n/a;COMPLETO
 10;11825;Apparel;DIURNO
-10;11826;Accident &Health Insurance;COMPLETO
+10;11826;Accident -Health Insurance;COMPLETO
 10;11827;Packaged Foods;DIURNO
 10;11828;Semiconductors;COMPLETO
 10;11829;n/a;DIURNO
@@ -11839,7 +11839,7 @@ idServicio;id;nombreSupermercado;horario
 10;11838;Biotechnology: Laboratory Analytical Instruments;COMPLETO
 10;11839;Natural Gas Distribution;COMPLETO
 10;11840;n/a;DIURNO
-10;11841;Biotechnology: Commercial Physical & Biological Resarch;COMPLETO
+10;11841;Biotechnology: Commercial Physical - Biological Resarch;COMPLETO
 10;11842;Professional Services;NOCTURNO
 10;11843;Air Freight/Delivery Services;COMPLETO
 10;11844;n/a;COMPLETO
@@ -11858,7 +11858,7 @@ idServicio;id;nombreSupermercado;horario
 10;11857;Savings Institutions;NOCTURNO
 10;11858;Major Pharmaceuticals;COMPLETO
 10;11859;Major Pharmaceuticals;DIURNO
-10;11860;Biotechnology: Electromedical & Electrotherapeutic Apparatus;NOCTURNO
+10;11860;Biotechnology: Electromedical - Electrotherapeutic Apparatus;NOCTURNO
 10;11861;Department/Specialty Retail Stores;DIURNO
 10;11862;Packaged Foods;DIURNO
 10;11863;Precious Metals;COMPLETO
@@ -11870,7 +11870,7 @@ idServicio;id;nombreSupermercado;horario
 10;11869;Finance: Consumer Services;DIURNO
 10;11870;n/a;NOCTURNO
 10;11871;Major Banks;COMPLETO
-10;11872;Oil & Gas Production;COMPLETO
+10;11872;Oil - Gas Production;COMPLETO
 10;11873;n/a;COMPLETO
 10;11874;Air Freight/Delivery Services;COMPLETO
 10;11875;n/a;NOCTURNO
@@ -11911,7 +11911,7 @@ idServicio;id;nombreSupermercado;horario
 10;11910;Semiconductors;DIURNO
 10;11911;n/a;COMPLETO
 10;11912;Business Services;DIURNO
-10;11913;Services-Misc. Amusement & Recreation;NOCTURNO
+10;11913;Services-Misc. Amusement - Recreation;NOCTURNO
 10;11914;n/a;COMPLETO
 10;11915;Oilfield Services/Equipment;DIURNO
 10;11916;Hospital/Nursing Management;COMPLETO
@@ -11956,10 +11956,10 @@ idServicio;id;nombreSupermercado;horario
 10;11955;Major Banks;DIURNO
 10;11956;Other Consumer Services;COMPLETO
 10;11957;Major Banks;COMPLETO
-10;11958;Oil & Gas Production;DIURNO
+10;11958;Oil - Gas Production;DIURNO
 10;11959;Paints/Coatings;COMPLETO
 10;11960;Investment Bankers/Brokers/Service;NOCTURNO
-10;11961;Oil & Gas Production;DIURNO
+10;11961;Oil - Gas Production;DIURNO
 10;11962;Home Furnishings;NOCTURNO
 10;11963;n/a;COMPLETO
 10;11964;Business Services;DIURNO
@@ -11971,7 +11971,7 @@ idServicio;id;nombreSupermercado;horario
 10;11970;Major Banks;COMPLETO
 10;11971;Integrated oil Companies;COMPLETO
 10;11972;Packaged Foods;COMPLETO
-10;11973;Services-Misc. Amusement & Recreation;COMPLETO
+10;11973;Services-Misc. Amusement - Recreation;COMPLETO
 10;11974;n/a;NOCTURNO
 10;11975;Medical Specialities;COMPLETO
 10;11976;Apparel;COMPLETO
@@ -11985,7 +11985,7 @@ idServicio;id;nombreSupermercado;horario
 10;11984;Computer Software: Prepackaged Software;NOCTURNO
 10;11985;Medical/Dental Instruments;COMPLETO
 10;11986;Apparel;DIURNO
-10;11987;Biotechnology: Electromedical & Electrotherapeutic Apparatus;DIURNO
+10;11987;Biotechnology: Electromedical - Electrotherapeutic Apparatus;DIURNO
 10;11988;Marine Transportation;DIURNO
 10;11989;n/a;COMPLETO
 10;11990;Business Services;COMPLETO
