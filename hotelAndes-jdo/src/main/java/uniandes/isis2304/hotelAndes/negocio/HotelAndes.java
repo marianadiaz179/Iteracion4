@@ -404,6 +404,13 @@ public class HotelAndes
 		List<Usuario> c = pp.cantidadConsumosConsumidores(fechaI, fechaF, id)  ;
 		return c;
 	}
+	
+	public List<Usuario> estadiaConsumidoresHotelAndes2 (Date fechaI, Date fechaF, long id)
+	{
+		log.info ("Buscando cantidad de veces consumidas por cliente");
+		List<Usuario> c = pp.estadiaConsumidoresHotelAndes2(fechaI, fechaF, id)  ;
+		return c;
+	}
 
 
 	public Usuario darUsuariosPorNombre (String nombreEmpleado)  

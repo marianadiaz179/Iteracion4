@@ -1453,7 +1453,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
 				for (Usuario c: info)
 				{
-					resultado += c.toString() + "\n";
+					resultado += "Cliente: " + c.getNombre() + " con cedula " + c.getCedula() + " consumió este servicio "+ c.getEstadia() + " veces" + "\n";
 				}
 			}
     		
@@ -1481,11 +1481,11 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 			String nomServicio = JOptionPane.showInputDialog(this, "Ingrese el servicio a consultar", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
 			Servicio ser = hotelAndes.darServiciosPorNombre(nomServicio);
 			long id = ser.getId();
-			Date fechaI = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha inicial del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE));
-			Date fechaF = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha final del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE));
+			Date fechaI = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha inicial del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes2", JOptionPane.QUESTION_MESSAGE));
+			Date fechaF = Date.valueOf(JOptionPane.showInputDialog(this, "Ingrese la fecha final del rango de fechas (YYYY-MM-DD)", "Consultar consumo HotelAndes2", JOptionPane.QUESTION_MESSAGE));
 			
-			String consulta1 = JOptionPane.showInputDialog(this, "Desea conocer la información de los clientes ? (SI/NO)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
-			String consulta2 = JOptionPane.showInputDialog(this, "Desea conocer la cantidad de veces consumidas de los clientes ? (SI/NO)", "Consultar consumo HotelAndes", JOptionPane.QUESTION_MESSAGE);
+			String consulta1 = JOptionPane.showInputDialog(this, "Desea conocer la información de los clientes ? (SI/NO)", "Consultar consumo HotelAndes2", JOptionPane.QUESTION_MESSAGE);
+			String consulta2 = JOptionPane.showInputDialog(this, "Desea conocer la estadia y gastos de los clientes ? (SI/NO)", "Consultar consumo HotelAndes2", JOptionPane.QUESTION_MESSAGE);
 			String resultado = "";
 
 			if (consulta1.equals("SI"))
@@ -1494,7 +1494,7 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
     		
 				if (clientes.size()==0)
 				{
-					throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
+					throw new Exception ("No hay clientes que no hayan consumido este servicio en el rango de fechas dado");
 				}
 				resultado += "Los clientes son: \n\n";
     		
@@ -1506,17 +1506,17 @@ public class InterfazHotelAndesApp extends JFrame implements ActionListener
 			
 			if (consulta2.equals("SI"))
 			{
-				List<Usuario> info = hotelAndes.cantidadConsumosConsumidores(fechaI, fechaF, id);
+				List<Usuario> info = hotelAndes.estadiaConsumidoresHotelAndes2(fechaI, fechaF, id);
 	    		
 				if (info.size()==0)
 				{
-					throw new Exception ("No hay clientes que hayan consumido este servicio en el rango de fechas dado");
+					throw new Exception ("No hay clientes que no hayan consumido este servicio en el rango de fechas dado");
 				}
 				resultado += "La información es: \n\n";
     		
 				for (Usuario c: info)
 				{
-					resultado += c.toString() + "\n";
+					resultado += "-- Cliente: " + c.getNombre() + " con cedula " + c.getCedula() + " se ha hospedado " + c.getEstadia() + " dias y ha gastado " + c.getGastosHotel() + " pesos"+ "\n";
 				}
 			}
     		

@@ -123,11 +123,11 @@ class SQLUsuario
 	
 	public List<Usuario> cantidadConsumosConsumidores (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 
 	{
-		Query q = pm.newQuery(SQL, "SELECT count(consumo.idservicio) as estadia, usuario.nombre\n"
+		Query q = pm.newQuery(SQL, "SELECT count(consumo.idservicio) as estadia, usuario.nombre, usuario.cedula\n"
 				+ "FROM CONSUMO, USUARIO\n"
 				+ "WHERE ESTADO = 'Pago' AND IDSERVICIO = ? AND FECHACONSUMO BETWEEN ? AND ?\n"
 				+ "AND CONSUMO.CLIENTE = USUARIO.CEDULA AND USUARIO.TIPOUSUARIO = 3\n"
-				+ "GROUP BY IDSERVICIO,USUARIO.NOMBRE");
+				+ "GROUP BY IDSERVICIO, USUARIO.CEDULA, USUARIO.NOMBRE");
 		q.setParameters(id, fechaI, fechaF);
 		q.setResultClass(Usuario.class);
 		return (List<Usuario>)  q.executeList();
@@ -141,6 +141,19 @@ class SQLUsuario
 				+ "    AND consumo.idServicio <> servicio.id\r\n"
 				+ "    AND consumo.fechaconsumo BETWEEN ? AND ?\r\n"
 				+ "    AND servicio.id = ?");
+		q.setResultClass(Usuario.class);
+		q.setParameters(fechaI, fechaF,id);
+		return (List<Usuario>) q.executeList();
+	}
+	
+	public List<Usuario> estadiaConsumidoresHotelAndes2 (PersistenceManager pm, Date fechaI, Date fechaF, long id ) 
+	{
+		Query q = pm.newQuery(SQL, "SELECT DISTINCT(usuario.cedula), usuario.cedula, usuario.nombre, usuario.estadia, usuario.gastoshotel\r\n"
+				+ "FROM usuario, servicio, consumo\r\n"
+				+ "WHERE consumo.cliente = usuario.cedula\r\n"
+				+ "    AND consumo.idServicio <> servicio.id\r\n"
+				+ "    AND consumo.fechaconsumo BETWEEN ? AND ?\r\n"
+				+ "    AND servicio.id = ? ORDER BY ESTADIA DESC");
 		q.setResultClass(Usuario.class);
 		q.setParameters(fechaI, fechaF,id);
 		return (List<Usuario>) q.executeList();
